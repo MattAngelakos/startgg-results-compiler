@@ -1,0 +1,634 @@
+{
+    "data": {
+        "player": {
+            "id": 999566,
+            "gamerTag": "TabSoda",
+            "recentStandings": [
+                {
+                    "placement": 13,
+                    "entrant": {
+                        "name": "FzP | TabSoda"
+                    },
+                    "container": {
+                        "id": 1045311,
+                        "name": "Ultimate Singles",
+                        "tournament": {
+                            "name": "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR",
+                            "addrState": "NJ"
+                        },
+                        "startAt": 1703898000,
+                        "isOnline": false,
+                        "numEntrants": 42
+                    }
+                },
+                {
+                    "placement": 17,
+                    "entrant": {
+                        "name": "FzP | TabSoda"
+                    },
+                    "container": {
+                        "id": 1043196,
+                        "name": "Ultimate Singles",
+                        "tournament": {
+                            "name": "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR",
+                            "addrState": "NJ"
+                        },
+                        "startAt": 1703293200,
+                        "isOnline": false,
+                        "numEntrants": 46
+                    }
+                },
+                {
+                    "placement": 9,
+                    "entrant": {
+                        "name": "FzP | TabSoda"
+                    },
+                    "container": {
+                        "id": 1039483,
+                        "name": "Ultimate Singles",
+                        "tournament": {
+                            "name": "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR",
+                            "addrState": "NJ"
+                        },
+                        "startAt": 1702688400,
+                        "isOnline": false,
+                        "numEntrants": 30
+                    }
+                },
+                {
+                    "placement": 4,
+                    "entrant": {
+                        "name": "FzP | TabSoda"
+                    },
+                    "container": {
+                        "id": 1007210,
+                        "name": "Smash Ultimate Singles",
+                        "tournament": {
+                            "name": "Waypoint Warriors 154",
+                            "addrState": "NY"
+                        },
+                        "startAt": 1698186600,
+                        "isOnline": false,
+                        "numEntrants": 38
+                    }
+                },
+                {
+                    "placement": 33,
+                    "entrant": {
+                        "name": "FzP | TabSoda"
+                    },
+                    "container": {
+                        "id": 971440,
+                        "name": "Ultimate Singles",
+                        "tournament": {
+                            "name": "Failsafe Fall 2023",
+                            "addrState": "NJ"
+                        },
+                        "startAt": 1697302800,
+                        "isOnline": false,
+                        "numEntrants": 127
+                    }
+                },
+                {
+                    "placement": 13,
+                    "entrant": {
+                        "name": "FzP | TabSoda"
+                    },
+                    "container": {
+                        "id": 981683,
+                        "name": "Ultimate Singles",
+                        "tournament": {
+                            "name": "Stargate #48 NJSC INSTANT Qualifier & Season FINALE!! $500+ Pot Bonus",
+                            "addrState": "NJ"
+                        },
+                        "startAt": 1695423600,
+                        "isOnline": false,
+                        "numEntrants": 35
+                    }
+                },
+                {
+                    "placement": 9,
+                    "entrant": {
+                        "name": "FzP | TabSoda"
+                    },
+                    "container": {
+                        "id": 982125,
+                        "name": "Ultimate Singles",
+                        "tournament": {
+                            "name": "Stargate #47  up to $1,000 Pot Bonus Ult / $500 SF6!",
+                            "addrState": "NJ"
+                        },
+                        "startAt": 1694818800,
+                        "isOnline": false,
+                        "numEntrants": 25
+                    }
+                },
+                {
+                    "placement": 9,
+                    "entrant": {
+                        "name": "FzP | TabSoda"
+                    },
+                    "container": {
+                        "id": 959663,
+                        "name": "Ultimate Singles",
+                        "tournament": {
+                            "name": "Emergency Run That Back Again!",
+                            "addrState": "NJ"
+                        },
+                        "startAt": 1693681200,
+                        "isOnline": false,
+                        "numEntrants": 75
+                    }
+                },
+                {
+                    "placement": 7,
+                    "entrant": {
+                        "name": "FzP | TabSoda"
+                    },
+                    "container": {
+                        "id": 968539,
+                        "name": "Ultimate Singles",
+                        "tournament": {
+                            "name": "Stargate #45 up to $1,000 Pot Bonus Ult / $500 SF6!",
+                            "addrState": "NJ"
+                        },
+                        "startAt": 1693004400,
+                        "isOnline": false,
+                        "numEntrants": 31
+                    }
+                },
+                {
+                    "placement": 17,
+                    "entrant": {
+                        "name": "FzP | TabSoda"
+                    },
+                    "container": {
+                        "id": 963865,
+                        "name": "Ultimate Singles",
+                        "tournament": {
+                            "name": "Stargate #44 up to $1,000 Pot Bonus Ult / $500 SF6!",
+                            "addrState": "NJ"
+                        },
+                        "startAt": 1692399600,
+                        "isOnline": false,
+                        "numEntrants": 36
+                    }
+                }
+            ],
+            "sets": {
+                "nodes": [
+                    {
+                        "id": 69074919,
+                        "winnerId": 15201434,
+                        "displayScore": "FzP | TabSoda 1 - MBS | Petayaa 2",
+                        "completedAt": 1703906272,
+                        "event": {
+                            "id": 1045311,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 621916,
+                                "name": "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 69074915,
+                        "winnerId": 15188227,
+                        "displayScore": "Sam's Club | RuskiNurd 1 - FzP | TabSoda 2",
+                        "completedAt": 1703905679,
+                        "event": {
+                            "id": 1045311,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 621916,
+                                "name": "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 69074911,
+                        "winnerId": 15188227,
+                        "displayScore": "FzP | TabSoda 2 - SHU | CrimsonAbe 0",
+                        "completedAt": 1703903963,
+                        "event": {
+                            "id": 1045311,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 621916,
+                                "name": "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 69074903,
+                        "winnerId": 15188227,
+                        "displayScore": "FzP | TabSoda 2 - Council | DOGSHIT PLAYER 0",
+                        "completedAt": 1703903399,
+                        "event": {
+                            "id": 1045311,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 621916,
+                                "name": "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 69074853,
+                        "winnerId": 15206458,
+                        "displayScore": "FzP | TabSoda 0 - TAS | subwhich | flauTAS 2",
+                        "completedAt": 1703902897,
+                        "event": {
+                            "id": 1045311,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 621916,
+                                "name": "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 68948533,
+                        "winnerId": 15174768,
+                        "displayScore": "WebbJP 2 - FzP | TabSoda 0",
+                        "completedAt": 1703301848,
+                        "event": {
+                            "id": 1043196,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 620800,
+                                "name": "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 68948529,
+                        "winnerId": 15155379,
+                        "displayScore": "FzP | TabSoda 2 - MLco | WrongHouse 0",
+                        "completedAt": 1703300385,
+                        "event": {
+                            "id": 1043196,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 620800,
+                                "name": "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 68948524,
+                        "winnerId": 15155379,
+                        "displayScore": "DQ",
+                        "completedAt": 1703298655,
+                        "event": {
+                            "id": 1043196,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 620800,
+                                "name": "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 68948462,
+                        "winnerId": 15170241,
+                        "displayScore": "FzP | TabSoda 1 - MBS | 30 SECONDS TO MARTH 2",
+                        "completedAt": 1703298619,
+                        "event": {
+                            "id": 1043196,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 620800,
+                                "name": "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 68733304,
+                        "winnerId": 15120143,
+                        "displayScore": "TR | MBeniS | Marvale 2 - FzP | TabSoda 1",
+                        "completedAt": 1702696868,
+                        "event": {
+                            "id": 1039483,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 618884,
+                                "name": "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 68727667,
+                        "winnerId": 15100513,
+                        "displayScore": "FzP | TabSoda 2 - TC | 1R 1",
+                        "completedAt": 1702695130,
+                        "event": {
+                            "id": 1039483,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 618884,
+                                "name": "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 68727664,
+                        "winnerId": 15100513,
+                        "displayScore": "FzP | TabSoda 2 - Crazycolorz5 1",
+                        "completedAt": 1702692931,
+                        "event": {
+                            "id": 1039483,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 618884,
+                                "name": "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 68727634,
+                        "winnerId": 15116496,
+                        "displayScore": "FzP | TabSoda 0 - Fhantum 2",
+                        "completedAt": 1702691978,
+                        "event": {
+                            "id": 1039483,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 618884,
+                                "name": "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 68727627,
+                        "winnerId": 15100513,
+                        "displayScore": "FzP | TabSoda 2 - SnoopDan 0",
+                        "completedAt": 1702691213,
+                        "event": {
+                            "id": 1039483,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 618884,
+                                "name": "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR"
+                            }
+                        }
+                    },
+                    {
+                        "id": 66803151,
+                        "winnerId": 14679544,
+                        "displayScore": "WPC | fawn 2 - FzP | TabSoda 1",
+                        "completedAt": 1698200289,
+                        "event": {
+                            "id": 1007210,
+                            "name": "Smash Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 601896,
+                                "name": "Waypoint Warriors 154"
+                            }
+                        }
+                    },
+                    {
+                        "id": 66803150,
+                        "winnerId": 14672955,
+                        "displayScore": "Oasis | Wise 1 - FzP | TabSoda 2",
+                        "completedAt": 1698198362,
+                        "event": {
+                            "id": 1007210,
+                            "name": "Smash Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 601896,
+                                "name": "Waypoint Warriors 154"
+                            }
+                        }
+                    },
+                    {
+                        "id": 66803148,
+                        "winnerId": 14672955,
+                        "displayScore": "FzP | TabSoda 2 - FzP | Sumgai 0",
+                        "completedAt": 1698195267,
+                        "event": {
+                            "id": 1007210,
+                            "name": "Smash Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 601896,
+                                "name": "Waypoint Warriors 154"
+                            }
+                        }
+                    },
+                    {
+                        "id": 66803145,
+                        "winnerId": 14672955,
+                        "displayScore": "FzP | TabSoda 2 - TG | Trapsef 1",
+                        "completedAt": 1698194597,
+                        "event": {
+                            "id": 1007210,
+                            "name": "Smash Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 601896,
+                                "name": "Waypoint Warriors 154"
+                            }
+                        }
+                    },
+                    {
+                        "id": 66803018,
+                        "winnerId": 14659553,
+                        "displayScore": "Ho3K | John Numbers 2 - FzP | TabSoda 1",
+                        "completedAt": 1698192804,
+                        "event": {
+                            "id": 1007210,
+                            "name": "Smash Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 601896,
+                                "name": "Waypoint Warriors 154"
+                            }
+                        }
+                    },
+                    {
+                        "id": 66803011,
+                        "winnerId": 14672955,
+                        "displayScore": "FzP | TabSoda 2 - Wex 0",
+                        "completedAt": 1698190126,
+                        "event": {
+                            "id": 1007210,
+                            "name": "Smash Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 601896,
+                                "name": "Waypoint Warriors 154"
+                            }
+                        }
+                    },
+                    {
+                        "id": 66802996,
+                        "winnerId": 14672955,
+                        "displayScore": "FzP | TabSoda 2 - Egg | Soft-Boiled 0",
+                        "completedAt": 1698188858,
+                        "event": {
+                            "id": 1007210,
+                            "name": "Smash Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 601896,
+                                "name": "Waypoint Warriors 154"
+                            }
+                        }
+                    },
+                    {
+                        "id": 66399449,
+                        "winnerId": 14087938,
+                        "displayScore": "Drexel | TJ13 2 - FzP | TabSoda 1",
+                        "completedAt": 1697318777,
+                        "event": {
+                            "id": 971440,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 583065,
+                                "name": "Failsafe Fall 2023"
+                            }
+                        }
+                    },
+                    {
+                        "id": 66399445,
+                        "winnerId": 14087945,
+                        "displayScore": "VL | aquaze 0 - FzP | TabSoda 2",
+                        "completedAt": 1697317626,
+                        "event": {
+                            "id": 971440,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 583065,
+                                "name": "Failsafe Fall 2023"
+                            }
+                        }
+                    },
+                    {
+                        "id": 66399440,
+                        "winnerId": 14087945,
+                        "displayScore": "FzP | TabSoda 2 - Booju 0",
+                        "completedAt": 1697316596,
+                        "event": {
+                            "id": 971440,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 583065,
+                                "name": "Failsafe Fall 2023"
+                            }
+                        }
+                    },
+                    {
+                        "id": 66399380,
+                        "winnerId": 14146387,
+                        "displayScore": "MBS | Steffen 2 - FzP | TabSoda 0",
+                        "completedAt": 1697314400,
+                        "event": {
+                            "id": 971440,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 583065,
+                                "name": "Failsafe Fall 2023"
+                            }
+                        }
+                    },
+                    {
+                        "id": 66399367,
+                        "winnerId": 14087945,
+                        "displayScore": "FzP | TabSoda 2 - TC | Narrwall 0",
+                        "completedAt": 1697312682,
+                        "event": {
+                            "id": 971440,
+                            "name": "Ultimate Singles",
+                            "videogame": {
+                                "id": 1386
+                            },
+                            "tournament": {
+                                "id": 583065,
+                                "name": "Failsafe Fall 2023"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "extensions": {
+        "cacheControl": {
+            "version": 1,
+            "hints": null
+        },
+        "queryComplexity": 177
+    },
+    "actionRecords": []
+}

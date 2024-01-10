@@ -1,0 +1,3690 @@
+{
+  "Deltaforce": {
+    "PlayerName": "Deltaforce",
+    "altTags": [
+      "Deltaforce"
+    ],
+    "eligible": true,
+    "Tier5Brackets": {},
+    "Tier4Brackets": {},
+    "Tier3Brackets": {},
+    "Tier2Brackets": {
+      "Fireside Open 2023": {
+        "placement": 9,
+        "wins": [
+          {
+            "tag": "Marcus",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Jukain",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Yeast",
+            "numOfWins": 1
+          },
+          {
+            "tag": "CrimsonAbe",
+            "numOfWins": 1
+          },
+          {
+            "tag": "CandyKongLover1",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Jon",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "BeatyBean",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "5-2"
+      },
+      "STARGATE #49 Season 5 Premiere! UP TO $1000 Pot Bonus SSBU / $100 SF6 / $100 HDR": {
+        "placement": 7,
+        "wins": [
+          {
+            "tag": "Cee",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Peco",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Pink Cage",
+            "numOfWins": 1
+          },
+          {
+            "tag": "RandyMayCrazy",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Jakal",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Dabuz",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "4-2"
+      },
+      "Failsafe Fall 2023": {
+        "placement": 25,
+        "wins": [
+          {
+            "tag": "Joshathan Gamer",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Yellow",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Space",
+            "numOfWins": 1
+          },
+          {
+            "tag": "JesusBread",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Marcus",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "\ud50c\ub808\uc774\uc5b4 4",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "4-2"
+      },
+      "avgPlacement": 13.666666666666666,
+      "record": "13-6",
+      "winrate": 68.42105263157895
+    },
+    "Tier1Brackets": {
+      "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Pharaoh",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Fhantum",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Marvale",
+            "numOfWins": 1
+          },
+          {
+            "tag": "JustinNOTbyleth",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Hareta",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Syrup",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "5-2"
+      },
+      "Center Stage #32": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "Haze",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Penn",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Moses STRSWAB",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Pharaoh",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Zomba",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "3-2"
+      },
+      "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
+        "placement": 9,
+        "wins": [
+          {
+            "tag": "DinoNuggies",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Jellyfish",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Jackson Storm",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Pharaoh",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "2-2"
+      },
+      "Fusion #185": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "Apple Reviewer",
+            "numOfWins": 1
+          },
+          {
+            "tag": "g\u00f8n",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Crystal Latte",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Mateo",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Marcus",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "3-2"
+      },
+      "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "Narrwall",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Luigikid64",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Dabuz",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Syrup",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "2-2"
+      },
+      "Fusion #184": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Haven",
+            "numOfWins": 2
+          },
+          {
+            "tag": "Sobriquet Sola",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Meli",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Seel",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [],
+        "record": "5-0"
+      },
+      "Stargate #50 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Yeast",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Marvale",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Fhantum",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Kazuha",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Sumgai",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "4-2"
+      },
+      "Fusion #183": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "Steezy",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Obmcbob",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Floppyfail",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Marcus",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Pharaoh",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "3-2"
+      },
+      "Fusion #182": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Marcus",
+            "numOfWins": 1
+          },
+          {
+            "tag": "WebbJP",
+            "numOfWins": 1
+          },
+          {
+            "tag": "MouseRat",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Haze",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Steezy",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Mr. Moon",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [],
+        "record": "6-0"
+      },
+      "Fusion #181": {
+        "placement": 7,
+        "wins": [
+          {
+            "tag": "Jukain",
+            "numOfWins": 1
+          },
+          {
+            "tag": "JustinNOTbyleth",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Ubl",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Mateo",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Jakal",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "3-2"
+      },
+      "Fusion #180": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Sobriquet Sola",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Marcus",
+            "numOfWins": 1
+          },
+          {
+            "tag": "LemonTea",
+            "numOfWins": 1
+          },
+          {
+            "tag": "FinallyRJ",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Marvale",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "4-2"
+      },
+      "Fusion #179": {
+        "placement": 9,
+        "wins": [
+          {
+            "tag": "Floppyfail",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "SmashBros!",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Undeadbraindead",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "1-2"
+      },
+      "Fusion #178": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Marcus",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Haze",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Obmcbob",
+            "numOfWins": 1
+          },
+          {
+            "tag": "LemonTea",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Zach",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Marcus",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "5-2"
+      },
+      "Fusion #177": {
+        "placement": 4,
+        "wins": [
+          {
+            "tag": "Meli",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Undeadbraindead",
+            "numOfWins": 1
+          },
+          {
+            "tag": "LRA_START",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Floppyfail",
+            "numOfWins": 1
+          },
+          {
+            "tag": "stinky3",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Mr. Moon",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Marcus",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "6-2"
+      },
+      "Fusion #176": {
+        "placement": 13,
+        "wins": [
+          {
+            "tag": "Narrwall",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Curtle101",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Marvale",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Durial321",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "2-2"
+      },
+      "Fusion #175": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "Haze",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Noku",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Mr_Mugz",
+            "numOfWins": 1
+          },
+          {
+            "tag": "stinky3",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Uchiegoochie",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "LemonTea",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Marvale",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "5-2"
+      },
+      "avgPlacement": 4.8125,
+      "record": "59-28",
+      "winrate": 67.81609195402298
+    },
+    "wins": [
+      {
+        "tag": "Haze",
+        "numOfWins": 4
+      },
+      {
+        "tag": "Marcus",
+        "numOfWins": 4
+      },
+      {
+        "tag": "Floppyfail",
+        "numOfWins": 3
+      },
+      {
+        "tag": "Fhantum",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Haven",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Jukain",
+        "numOfWins": 2
+      },
+      {
+        "tag": "JustinNOTbyleth",
+        "numOfWins": 2
+      },
+      {
+        "tag": "LemonTea",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Marvale",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Meli",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Mr. Moon",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Narrwall",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Obmcbob",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Sobriquet Sola",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Steezy",
+        "numOfWins": 2
+      },
+      {
+        "tag": "stinky3",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Yeast",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Apple Reviewer",
+        "numOfWins": 1
+      },
+      {
+        "tag": "CandyKongLover1",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Cee",
+        "numOfWins": 1
+      },
+      {
+        "tag": "CrimsonAbe",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Crystal Latte",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Curtle101",
+        "numOfWins": 1
+      },
+      {
+        "tag": "DinoNuggies",
+        "numOfWins": 1
+      },
+      {
+        "tag": "FinallyRJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "g\u00f8n",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Hareta",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Jellyfish",
+        "numOfWins": 1
+      },
+      {
+        "tag": "JesusBread",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Joshathan Gamer",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Kazuha",
+        "numOfWins": 1
+      },
+      {
+        "tag": "LRA_START",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Luigikid64",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Moses STRSWAB",
+        "numOfWins": 1
+      },
+      {
+        "tag": "MouseRat",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Mr_Mugz",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Noku",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Peco",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Penn",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Pharaoh",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Pink Cage",
+        "numOfWins": 1
+      },
+      {
+        "tag": "RandyMayCrazy",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Seel",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Space",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Ubl",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Uchiegoochie",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Undeadbraindead",
+        "numOfWins": 1
+      },
+      {
+        "tag": "WebbJP",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Yellow",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Zach",
+        "numOfWins": 1
+      }
+    ],
+    "losses": [
+      {
+        "tag": "Marcus",
+        "numOfLosses": 7
+      },
+      {
+        "tag": "Marvale",
+        "numOfLosses": 4
+      },
+      {
+        "tag": "Pharaoh",
+        "numOfLosses": 3
+      },
+      {
+        "tag": "Syrup",
+        "numOfLosses": 3
+      },
+      {
+        "tag": "Dabuz",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Jakal",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Mateo",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Sumgai",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "BeatyBean",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Durial321",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Jackson Storm",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Jon",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "LemonTea",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "SmashBros!",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Undeadbraindead",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Zomba",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "\ud50c\ub808\uc774\uc5b4 4",
+        "numOfLosses": 1
+      }
+    ],
+    "record": "72-34",
+    "winrate": 67.9245283018868,
+    "noteableWins": [
+      {
+        "tag": "Cee",
+        "rank": 9,
+        "region": "NYC",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Joshathan Gamer",
+        "rank": 9,
+        "region": "Philly",
+        "numOfWins": 1
+      }
+    ]
+  },
+  "Marvale": {
+    "PlayerName": "Marvale",
+    "altTags": [
+      "TR | MBeniS | Marvale",
+      "Marvale",
+      "Marvale"
+    ],
+    "eligible": true,
+    "Tier5Brackets": {},
+    "Tier4Brackets": {},
+    "Tier3Brackets": {},
+    "Tier2Brackets": {
+      "Fireside Open 2023": {
+        "placement": 13,
+        "wins": [
+          {
+            "tag": "Yeast",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Jukain",
+            "numOfWins": 1
+          },
+          {
+            "tag": "TheFRaiderK",
+            "numOfWins": 1
+          },
+          {
+            "tag": "MarioManiac88",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "SmashBros!",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Syrup",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "4-2"
+      },
+      "STARGATE #49 Season 5 Premiere! UP TO $1000 Pot Bonus SSBU / $100 SF6 / $100 HDR": {
+        "placement": 49,
+        "wins": [],
+        "losses": []
+      },
+      "Failsafe Fall 2023": {
+        "placement": 25,
+        "wins": [
+          {
+            "tag": "Noku",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Peco",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Micro",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Diamond",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "\ud50c\ub808\uc774\uc5b4 4",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "MPg",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "4-2"
+      },
+      "avgPlacement": 19.0,
+      "record": "8-4",
+      "winrate": 66.66666666666666
+    },
+    "Tier1Brackets": {
+      "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "SmashBros!",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Krugbo",
+            "numOfWins": 1
+          },
+          {
+            "tag": "RuskiNurd",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Scuffed",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Deltaforce",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Pharaoh",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "4-2"
+      },
+      "Fusion #185": {
+        "placement": 3,
+        "wins": [
+          {
+            "tag": "Mateo",
+            "numOfWins": 2
+          },
+          {
+            "tag": "LemonTea",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Synnister",
+            "numOfWins": 1
+          },
+          {
+            "tag": "koala cub",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Marcus",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Jakal",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "5-2"
+      },
+      "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
+        "placement": 7,
+        "wins": [
+          {
+            "tag": "TabSoda",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Dabuz",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "SmashBros!",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "1-2"
+      },
+      "Fusion #184": {
+        "placement": 7,
+        "wins": [
+          {
+            "tag": "Seel",
+            "numOfWins": 1
+          },
+          {
+            "tag": "YoBBi",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Marcus",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Sobriquet Sola",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "2-2"
+      },
+      "Stargate #50 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "Kamex",
+            "numOfWins": 1
+          },
+          {
+            "tag": "CrimsonAbe",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Sumgai",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Deltaforce",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "2-2"
+      },
+      "Fusion #183": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "Haven",
+            "numOfWins": 1
+          },
+          {
+            "tag": "ram",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Kelvin",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Mr. Moon",
+            "numOfWins": 1
+          },
+          {
+            "tag": "SnoopDan",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Haze",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "5-2"
+      },
+      "Fusion #182": {
+        "placement": 7,
+        "wins": [
+          {
+            "tag": "Jukain",
+            "numOfWins": 1
+          },
+          {
+            "tag": "SmashBros!",
+            "numOfWins": 1
+          },
+          {
+            "tag": "R0Steve",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Marcus",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "MouseRat",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "3-2"
+      },
+      "Fusion #181": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "Squidplumber",
+            "numOfWins": 1
+          },
+          {
+            "tag": "CRB",
+            "numOfWins": 1
+          },
+          {
+            "tag": "LemonTea",
+            "numOfWins": 1
+          },
+          {
+            "tag": "mt",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Pharaoh",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Rivers",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "4-2"
+      },
+      "Fusion #180": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Deltaforce",
+            "numOfWins": 2
+          },
+          {
+            "tag": "Sobriquet Sola",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Jukain",
+            "numOfWins": 1
+          },
+          {
+            "tag": "LemonTea",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Kelvin",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Obmcbob",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Sobriquet Sola",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "7-1"
+      },
+      "Fusion #179": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "Undeadbraindead",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Fabiio",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Sobriquet Sola",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Marcus",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Jakal",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "3-2"
+      },
+      "Fusion #176": {
+        "placement": 9,
+        "wins": [
+          {
+            "tag": "Deltaforce",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Obmcbob",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Mac",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "WebbJP",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Haven",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "3-2"
+      },
+      "Fusion #175": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "Marcus",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Jukain",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Deltaforce",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Wolfric",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Jakal",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "LemonTea",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "4-2"
+      },
+      "avgPlacement": 5.333333333333333,
+      "record": "43-23",
+      "winrate": 65.15151515151516
+    },
+    "wins": [
+      {
+        "tag": "Deltaforce",
+        "numOfWins": 4
+      },
+      {
+        "tag": "Jukain",
+        "numOfWins": 4
+      },
+      {
+        "tag": "LemonTea",
+        "numOfWins": 3
+      },
+      {
+        "tag": "Kelvin",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Mateo",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Obmcbob",
+        "numOfWins": 2
+      },
+      {
+        "tag": "SmashBros!",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Sobriquet Sola",
+        "numOfWins": 2
+      },
+      {
+        "tag": "CRB",
+        "numOfWins": 1
+      },
+      {
+        "tag": "CrimsonAbe",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Diamond",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Fabiio",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Haven",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Kamex",
+        "numOfWins": 1
+      },
+      {
+        "tag": "koala cub",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Krugbo",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Mac",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Marcus",
+        "numOfWins": 1
+      },
+      {
+        "tag": "MarioManiac88",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Micro",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Mr. Moon",
+        "numOfWins": 1
+      },
+      {
+        "tag": "mt",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Noku",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Peco",
+        "numOfWins": 1
+      },
+      {
+        "tag": "R0Steve",
+        "numOfWins": 1
+      },
+      {
+        "tag": "ram",
+        "numOfWins": 1
+      },
+      {
+        "tag": "RuskiNurd",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Scuffed",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Seel",
+        "numOfWins": 1
+      },
+      {
+        "tag": "SnoopDan",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Squidplumber",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Synnister",
+        "numOfWins": 1
+      },
+      {
+        "tag": "TabSoda",
+        "numOfWins": 1
+      },
+      {
+        "tag": "TheFRaiderK",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Undeadbraindead",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Wolfric",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Yeast",
+        "numOfWins": 1
+      },
+      {
+        "tag": "YoBBi",
+        "numOfWins": 1
+      }
+    ],
+    "losses": [
+      {
+        "tag": "Marcus",
+        "numOfLosses": 4
+      },
+      {
+        "tag": "Jakal",
+        "numOfLosses": 3
+      },
+      {
+        "tag": "Deltaforce",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Haze",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Pharaoh",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "SmashBros!",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Sobriquet Sola",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Dabuz",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Haven",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "LemonTea",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "MouseRat",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "MPg",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Rivers",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Sumgai",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Syrup",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "WebbJP",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "\ud50c\ub808\uc774\uc5b4 4",
+        "numOfLosses": 1
+      }
+    ],
+    "record": "51-27",
+    "winrate": 65.38461538461539,
+    "noteableWins": []
+  },
+  "Syrup": {
+    "PlayerName": "Syrup",
+    "altTags": [
+      "MBS | Syrup",
+      "Syrup",
+      "Syrup"
+    ],
+    "eligible": true,
+    "Tier5Brackets": {
+      "The Big House 11": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Pocket",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Mr. E",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Lucky",
+            "numOfWins": 1
+          },
+          {
+            "tag": "rydra",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Soar",
+            "numOfWins": 1
+          },
+          {
+            "tag": "SoGoodPop",
+            "numOfWins": 1
+          },
+          {
+            "tag": "GUMMY",
+            "numOfWins": 1
+          },
+          {
+            "tag": "WhatsAKingToAGod",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Haunting",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Pocket",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "9-2"
+      },
+      "avgPlacement": 2.0,
+      "record": "9-2",
+      "winrate": 81.81818181818183
+    },
+    "Tier4Brackets": {},
+    "Tier3Brackets": {
+      "Santa Paws": {
+        "placement": 9,
+        "wins": [
+          {
+            "tag": "ESAM",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Tavares",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Knite",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Salvo",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Huevos",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Anathema",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "BeastModePaul",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "5-2"
+      },
+      "B-Airs #400 | $1K Pot Bonus BTier Local Feat. Zomba, Jakal, Tilde, Goblin & more": {
+        "placement": 7,
+        "wins": [
+          {
+            "tag": "DTP",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Tilde",
+            "numOfWins": 1
+          },
+          {
+            "tag": "BONK!",
+            "numOfWins": 1
+          },
+          {
+            "tag": "PokefanZ",
+            "numOfWins": 1
+          },
+          {
+            "tag": "MondoRay",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Zomba",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "IcyMist",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "5-2"
+      },
+      "avgPlacement": 8.0,
+      "record": "10-4",
+      "winrate": 71.42857142857143
+    },
+    "Tier2Brackets": {
+      "Fireside Open 2023": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Jakal",
+            "numOfWins": 2
+          },
+          {
+            "tag": "LeoN",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Jon",
+            "numOfWins": 1
+          },
+          {
+            "tag": "WebbJP",
+            "numOfWins": 1
+          },
+          {
+            "tag": "ConCon",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Marvale",
+            "numOfWins": 1
+          },
+          {
+            "tag": "DinoNuggies",
+            "numOfWins": 1
+          },
+          {
+            "tag": "yogert",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "LeoN",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "9-1"
+      },
+      "Ultra HoG 1": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Light",
+            "numOfWins": 2
+          },
+          {
+            "tag": "Jakal",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Mr. E",
+            "numOfWins": 1
+          },
+          {
+            "tag": "TheActuary",
+            "numOfWins": 1
+          },
+          {
+            "tag": "\ud50c\ub808\uc774\uc5b4 4",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Sh0wers",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [],
+        "record": "7-0"
+      },
+      "BrookLAN Brawls #91: A Smash Ultimate Weekly Series": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "G-XTREME",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Cee",
+            "numOfWins": 1
+          },
+          {
+            "tag": "pret",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Reed",
+            "numOfWins": 1
+          },
+          {
+            "tag": "QueVeen",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Violet",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Gen",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Meli",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "6-2"
+      },
+      "Failsafe Fall 2023": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "MPg",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Vivi",
+            "numOfWins": 1
+          },
+          {
+            "tag": "PkChris",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Karflo",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Noku",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Hoo D. Nii",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Kenzo",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Zomba",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "7-2"
+      },
+      "avgPlacement": 2.25,
+      "record": "29-5",
+      "winrate": 85.29411764705883
+    },
+    "Tier1Brackets": {
+      "PBJ Presents: Holiday Palooza 2023!": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Tweek",
+            "numOfWins": 2
+          },
+          {
+            "tag": "Pharaoh",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Haze",
+            "numOfWins": 2
+          },
+          {
+            "tag": "boosk",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Hoo D. Nii",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Blackmoon",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Pharaoh",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "8-1"
+      },
+      "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Deltaforce",
+            "numOfWins": 2
+          },
+          {
+            "tag": "Pharaoh",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Pink Cage",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Kendon",
+            "numOfWins": 1
+          },
+          {
+            "tag": "aceythe",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [],
+        "record": "6-0"
+      },
+      "Undiscovered Turbo #4 ft. $100 POT BONUS (Undiscovered Smash #282)": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Quidd",
+            "numOfWins": 2
+          },
+          {
+            "tag": "Ling",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Bobo",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Infernape",
+            "numOfWins": 1
+          },
+          {
+            "tag": "TFO256",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [],
+        "record": "6-0"
+      },
+      "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "BeatyBean",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Sumgai",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Fhantum",
+            "numOfWins": 1
+          },
+          {
+            "tag": "30 SECONDS TO MARTH",
+            "numOfWins": 1
+          },
+          {
+            "tag": "WrongHouse",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Zomba",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "5-2"
+      },
+      "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Dabuz",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Pink Cage",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Deltaforce",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Fhantum",
+            "numOfWins": 1
+          },
+          {
+            "tag": "1R",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [],
+        "record": "5-0"
+      },
+      "Fusion #183": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Pharaoh",
+            "numOfWins": 2
+          },
+          {
+            "tag": "Marcus",
+            "numOfWins": 1
+          },
+          {
+            "tag": "ram",
+            "numOfWins": 1
+          },
+          {
+            "tag": "ToneSone",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [],
+        "record": "5-0"
+      },
+      "Fusion #179": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Jakal",
+            "numOfWins": 1
+          },
+          {
+            "tag": "WebbJP",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Marcus",
+            "numOfWins": 1
+          },
+          {
+            "tag": "SmashBros!",
+            "numOfWins": 1
+          },
+          {
+            "tag": "OmniElement",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Jakal",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "5-1"
+      },
+      "Fusion #176": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Jakal",
+            "numOfWins": 2
+          },
+          {
+            "tag": "Haven",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Haze",
+            "numOfWins": 1
+          },
+          {
+            "tag": "QueVeen",
+            "numOfWins": 1
+          },
+          {
+            "tag": "ChanelWestCoast",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [],
+        "record": "6-0"
+      },
+      "Fusion #175": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Zomba",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Jakal",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Noku",
+            "numOfWins": 1
+          },
+          {
+            "tag": "CrimsonAbe",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Zomba",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "4-2"
+      },
+      "avgPlacement": 1.2222222222222223,
+      "record": "50-6",
+      "winrate": 89.28571428571429
+    },
+    "wins": [
+      {
+        "tag": "Jakal",
+        "numOfWins": 7
+      },
+      {
+        "tag": "Pharaoh",
+        "numOfWins": 4
+      },
+      {
+        "tag": "Deltaforce",
+        "numOfWins": 3
+      },
+      {
+        "tag": "Haze",
+        "numOfWins": 3
+      },
+      {
+        "tag": "Fhantum",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Hoo D. Nii",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Light",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Marcus",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Mr. E",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Noku",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Pink Cage",
+        "numOfWins": 2
+      },
+      {
+        "tag": "QueVeen",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Quidd",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Tweek",
+        "numOfWins": 2
+      },
+      {
+        "tag": "WebbJP",
+        "numOfWins": 2
+      },
+      {
+        "tag": "1R",
+        "numOfWins": 1
+      },
+      {
+        "tag": "30 SECONDS TO MARTH",
+        "numOfWins": 1
+      },
+      {
+        "tag": "aceythe",
+        "numOfWins": 1
+      },
+      {
+        "tag": "BeatyBean",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Blackmoon",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Bobo",
+        "numOfWins": 1
+      },
+      {
+        "tag": "BONK!",
+        "numOfWins": 1
+      },
+      {
+        "tag": "boosk",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Cee",
+        "numOfWins": 1
+      },
+      {
+        "tag": "ChanelWestCoast",
+        "numOfWins": 1
+      },
+      {
+        "tag": "ConCon",
+        "numOfWins": 1
+      },
+      {
+        "tag": "CrimsonAbe",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Dabuz",
+        "numOfWins": 1
+      },
+      {
+        "tag": "DinoNuggies",
+        "numOfWins": 1
+      },
+      {
+        "tag": "DTP",
+        "numOfWins": 1
+      },
+      {
+        "tag": "ESAM",
+        "numOfWins": 1
+      },
+      {
+        "tag": "G-XTREME",
+        "numOfWins": 1
+      },
+      {
+        "tag": "GUMMY",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Haunting",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Haven",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Huevos",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Infernape",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Jon",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Karflo",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Kendon",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Kenzo",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Knite",
+        "numOfWins": 1
+      },
+      {
+        "tag": "LeoN",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Ling",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Lucky",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Marvale",
+        "numOfWins": 1
+      },
+      {
+        "tag": "MondoRay",
+        "numOfWins": 1
+      },
+      {
+        "tag": "MPg",
+        "numOfWins": 1
+      },
+      {
+        "tag": "OmniElement",
+        "numOfWins": 1
+      },
+      {
+        "tag": "PkChris",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Pocket",
+        "numOfWins": 1
+      },
+      {
+        "tag": "PokefanZ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "pret",
+        "numOfWins": 1
+      },
+      {
+        "tag": "ram",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Reed",
+        "numOfWins": 1
+      },
+      {
+        "tag": "rydra",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Salvo",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Sh0wers",
+        "numOfWins": 1
+      },
+      {
+        "tag": "SmashBros!",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Soar",
+        "numOfWins": 1
+      },
+      {
+        "tag": "SoGoodPop",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Sumgai",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Tavares",
+        "numOfWins": 1
+      },
+      {
+        "tag": "TFO256",
+        "numOfWins": 1
+      },
+      {
+        "tag": "TheActuary",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Tilde",
+        "numOfWins": 1
+      },
+      {
+        "tag": "ToneSone",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Violet",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Vivi",
+        "numOfWins": 1
+      },
+      {
+        "tag": "WhatsAKingToAGod",
+        "numOfWins": 1
+      },
+      {
+        "tag": "WrongHouse",
+        "numOfWins": 1
+      },
+      {
+        "tag": "yogert",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Zomba",
+        "numOfWins": 1
+      },
+      {
+        "tag": "\ud50c\ub808\uc774\uc5b4 4",
+        "numOfWins": 1
+      }
+    ],
+    "losses": [
+      {
+        "tag": "Zomba",
+        "numOfLosses": 7
+      },
+      {
+        "tag": "Pocket",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Anathema",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "BeastModePaul",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Gen",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "IcyMist",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Jakal",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "LeoN",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Meli",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Pharaoh",
+        "numOfLosses": 1
+      }
+    ],
+    "record": "98-17",
+    "winrate": 85.21739130434783,
+    "noteableWins": [
+      {
+        "tag": "Mr. E",
+        "rank": 2,
+        "region": "NYC",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Quidd",
+        "rank": 6,
+        "region": "NYC",
+        "numOfWins": 2
+      },
+      {
+        "tag": "BONK!",
+        "rank": 8,
+        "region": "Philly",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Cee",
+        "rank": 9,
+        "region": "NYC",
+        "numOfWins": 1
+      },
+      {
+        "tag": "DTP",
+        "rank": 5,
+        "region": "Philly",
+        "numOfWins": 1
+      },
+      {
+        "tag": "MPg",
+        "rank": 2,
+        "region": "Philly",
+        "numOfWins": 1
+      },
+      {
+        "tag": "PkChris",
+        "rank": 10,
+        "region": "NYC",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Tilde",
+        "rank": 3,
+        "region": "NYC",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Zomba",
+        "rank": 1,
+        "region": "NYC",
+        "numOfWins": 1
+      }
+    ]
+  },
+  "Pharaoh": {
+    "PlayerName": "Pharaoh",
+    "altTags": [
+      "CTR | MBS | Pharaoh",
+      "Pharaoh",
+      "Pharaoh",
+      "Pharaoh",
+      "Pharaoh"
+    ],
+    "eligible": true,
+    "Tier5Brackets": {
+      "Rise 'N Grind 2023": {
+        "placement": 13,
+        "wins": [
+          {
+            "tag": "Ludo",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Skeleton",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Chase",
+            "numOfWins": 1
+          },
+          {
+            "tag": "ToasT",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Kam",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Anathema",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "\u30df\u30fc\u30e4\u30fc/Miya",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "5-2"
+      },
+      "avgPlacement": 13.0,
+      "record": "5-2",
+      "winrate": 71.42857142857143
+    },
+    "Tier4Brackets": {},
+    "Tier3Brackets": {
+      "Santa Paws": {
+        "placement": 33,
+        "wins": [
+          {
+            "tag": "Dany",
+            "numOfWins": 1
+          },
+          {
+            "tag": "JankTrees!",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "AppleWiz",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Lima",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "2-2"
+      },
+      "King of the Ville 2023 ($1000 POT BONUS!)": {
+        "placement": 9,
+        "wins": [
+          {
+            "tag": "Yoda Cage",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Lagiakai",
+            "numOfWins": 1
+          },
+          {
+            "tag": "LowTierLegend",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Whyachi",
+            "numOfWins": 1
+          },
+          {
+            "tag": "AshuraRise",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Juice",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "BONK!",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "5-2"
+      },
+      "B-Airs #400 | $1K Pot Bonus BTier Local Feat. Zomba, Jakal, Tilde, Goblin & more": {
+        "placement": 33,
+        "wins": [
+          {
+            "tag": "Yeast",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Adastra",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Dovidio",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Towa",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "2-2"
+      },
+      "avgPlacement": 25.0,
+      "record": "9-6",
+      "winrate": 60.0
+    },
+    "Tier2Brackets": {
+      "Fireside Open 2023": {
+        "placement": 7,
+        "wins": [
+          {
+            "tag": "BeatyBean",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Pink Cage",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Narrwall",
+            "numOfWins": 1
+          },
+          {
+            "tag": "KAZ\u00cd\u00cd",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Torrent",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Chocodog",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "WebbJP",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Jon",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "6-2"
+      },
+      "avgPlacement": 7.0,
+      "record": "6-2",
+      "winrate": 75.0
+    },
+    "Tier1Brackets": {
+      "PBJ Presents: Holiday Palooza 2023!": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Syrup",
+            "numOfWins": 1
+          },
+          {
+            "tag": "BeatyBean",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Kurama",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Nick Masters",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Syrup",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Tweek",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "4-2"
+      },
+      "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR": {
+        "placement": 3,
+        "wins": [
+          {
+            "tag": "Fhantum",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Marvale",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Petayaa",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Toni Flamboni",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Deltaforce",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Syrup",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "4-2"
+      },
+      "Center Stage #32": {
+        "placement": 9,
+        "wins": [
+          {
+            "tag": "Deltaforce",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Marcus",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Penn",
+            "numOfWins": 1
+          },
+          {
+            "tag": "KUSIDREAM",
+            "numOfWins": 1
+          },
+          {
+            "tag": "envoke",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "GrlyTeenQueen",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "5-2"
+      },
+      "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "Deltaforce",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Seel",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Lardo",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "BeatyBean",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Zomba",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "3-2"
+      },
+      "Center Stage #31- Last Chance Qualifier-$150 Pot Bonus": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Marcus",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Mateo",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Haze",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Pingu's Stomping Grounds",
+            "numOfWins": 1
+          },
+          {
+            "tag": "30 SECONDS TO MARTH",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Sunbun",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [],
+        "record": "6-0"
+      },
+      "Hyperspace Ultimate #72 (100$ Pot Bonus)": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "~ShineBurst~",
+            "numOfWins": 2
+          },
+          {
+            "tag": "Obmcbob",
+            "numOfWins": 2
+          },
+          {
+            "tag": "$Krilldog$",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Yuto",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "~ShineBurst~",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "6-1"
+      },
+      "Fusion #183": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Marcus",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Haze",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Deltaforce",
+            "numOfWins": 1
+          },
+          {
+            "tag": "mt",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Syrup",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "4-2"
+      },
+      "GamerNook Weekly: The Monthly - Instant Qualifier Edition": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Apple Reviewer",
+            "numOfWins": 1
+          },
+          {
+            "tag": "JustinNOTbyleth",
+            "numOfWins": 1
+          },
+          {
+            "tag": "LVL5",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Hollow",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Rivers",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "4-2"
+      },
+      "Fusion #181": {
+        "placement": 3,
+        "wins": [
+          {
+            "tag": "Mateo",
+            "numOfWins": 2
+          },
+          {
+            "tag": "Marvale",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Pink Cage",
+            "numOfWins": 1
+          },
+          {
+            "tag": "jake",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Rivers",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Jakal",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "5-2"
+      },
+      "That Quarterly Jawn": {
+        "placement": 7,
+        "wins": [
+          {
+            "tag": "Yeast",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Hoo D. Nii",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Lankles",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "boosk",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Juice",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "3-2"
+      },
+      "Fusion #179": {
+        "placement": 17,
+        "wins": [],
+        "losses": []
+      },
+      "Center Stage #25": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "LemonTea",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Jason",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Haze",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Haven",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "2-2"
+      },
+      "Center Stage #24-Halloween Edition": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Mateo",
+            "numOfWins": 1
+          },
+          {
+            "tag": "LemonTea",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Obmcbob",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Taylor",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Mateo",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "4-2"
+      },
+      "NJCU Gothic Gauntlet 2023 - NJCCC Event": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "SmashBros!",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Sobriquet Sola",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Her Jett",
+            "numOfWins": 1
+          },
+          {
+            "tag": "QueVeen",
+            "numOfWins": 1
+          },
+          {
+            "tag": "sickle",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Sunbun",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [],
+        "record": "6-0"
+      },
+      "avgPlacement": 3.3076923076923075,
+      "record": "56-21",
+      "winrate": 72.72727272727273
+    },
+    "wins": [
+      {
+        "tag": "Mateo",
+        "numOfWins": 4
+      },
+      {
+        "tag": "Deltaforce",
+        "numOfWins": 3
+      },
+      {
+        "tag": "Marcus",
+        "numOfWins": 3
+      },
+      {
+        "tag": "Obmcbob",
+        "numOfWins": 3
+      },
+      {
+        "tag": "BeatyBean",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Haze",
+        "numOfWins": 2
+      },
+      {
+        "tag": "LemonTea",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Marvale",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Pink Cage",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Sunbun",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Yeast",
+        "numOfWins": 2
+      },
+      {
+        "tag": "~ShineBurst~",
+        "numOfWins": 2
+      },
+      {
+        "tag": "$Krilldog$",
+        "numOfWins": 1
+      },
+      {
+        "tag": "30 SECONDS TO MARTH",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Adastra",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Apple Reviewer",
+        "numOfWins": 1
+      },
+      {
+        "tag": "AshuraRise",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Chase",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Chocodog",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Dany",
+        "numOfWins": 1
+      },
+      {
+        "tag": "envoke",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Fhantum",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Her Jett",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Hollow",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Hoo D. Nii",
+        "numOfWins": 1
+      },
+      {
+        "tag": "jake",
+        "numOfWins": 1
+      },
+      {
+        "tag": "JankTrees!",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Jason",
+        "numOfWins": 1
+      },
+      {
+        "tag": "JustinNOTbyleth",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Kam",
+        "numOfWins": 1
+      },
+      {
+        "tag": "KAZ\u00cd\u00cd",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Kurama",
+        "numOfWins": 1
+      },
+      {
+        "tag": "KUSIDREAM",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Lagiakai",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Lankles",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Lardo",
+        "numOfWins": 1
+      },
+      {
+        "tag": "LowTierLegend",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Ludo",
+        "numOfWins": 1
+      },
+      {
+        "tag": "LVL5",
+        "numOfWins": 1
+      },
+      {
+        "tag": "mt",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Narrwall",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Nick Masters",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Penn",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Petayaa",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Pingu's Stomping Grounds",
+        "numOfWins": 1
+      },
+      {
+        "tag": "QueVeen",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Seel",
+        "numOfWins": 1
+      },
+      {
+        "tag": "sickle",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Skeleton",
+        "numOfWins": 1
+      },
+      {
+        "tag": "SmashBros!",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Sobriquet Sola",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Syrup",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Taylor",
+        "numOfWins": 1
+      },
+      {
+        "tag": "ToasT",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Toni Flamboni",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Torrent",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Whyachi",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Yoda Cage",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Yuto",
+        "numOfWins": 1
+      }
+    ],
+    "losses": [
+      {
+        "tag": "Syrup",
+        "numOfLosses": 4
+      },
+      {
+        "tag": "Rivers",
+        "numOfLosses": 3
+      },
+      {
+        "tag": "GrlyTeenQueen",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Juice",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Mateo",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Anathema",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "AppleWiz",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "BeatyBean",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "BONK!",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "boosk",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Deltaforce",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Dovidio",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Haven",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Haze",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Jakal",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Jon",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Lima",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Towa",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Tweek",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "WebbJP",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Zomba",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "~ShineBurst~",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "\u30df\u30fc\u30e4\u30fc/Miya",
+        "numOfLosses": 1
+      }
+    ],
+    "record": "76-31",
+    "winrate": 71.02803738317756,
+    "noteableWins": [
+      {
+        "tag": "Yoda Cage",
+        "rank": 11,
+        "region": "Philly",
+        "numOfWins": 1
+      }
+    ]
+  },
+  "Tweek": {
+    "PlayerName": "Tweek",
+    "altTags": [
+      "LG | Tweek",
+      "bee / Tweek",
+      "Team Tweek"
+    ],
+    "eligible": true,
+    "Tier5Brackets": {
+      "Port Priority 8": {
+        "placement": 9,
+        "wins": [
+          {
+            "tag": "Anathema",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Asimo",
+            "numOfWins": 1
+          },
+          {
+            "tag": "MVD",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Neo",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Shoe",
+            "numOfWins": 1
+          },
+          {
+            "tag": "RandumMNK",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Jeff",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Eri",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Light",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Kaninabe",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "8-2"
+      },
+      "Luminosity Makes Moves Miami 2023": {
+        "placement": 9,
+        "wins": [
+          {
+            "tag": "Anathema",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Scend",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Keen",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Monthu",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Sizzler",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Zomba",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Dabuz",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "5-2"
+      },
+      "Rise 'N Grind 2023": {
+        "placement": 257,
+        "wins": [],
+        "losses": []
+      },
+      "avgPlacement": 9.0,
+      "record": "13-4",
+      "winrate": 76.47058823529412
+    },
+    "Tier4Brackets": {},
+    "Tier3Brackets": {},
+    "Tier2Brackets": {},
+    "Tier1Brackets": {
+      "PBJ Presents: Holiday Palooza 2023!": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Pharaoh",
+            "numOfWins": 1
+          },
+          {
+            "tag": "xavier",
+            "numOfWins": 1
+          },
+          {
+            "tag": "A9",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Apsara",
+            "numOfWins": 1
+          },
+          {
+            "tag": "ggecko",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Syrup",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "5-2"
+      },
+      "Battle Over The Bridge 117 (The Dawn of ROA in SJ)": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Steffen",
+            "numOfWins": 2
+          },
+          {
+            "tag": "snogi",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Aryeh",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Apsara",
+            "numOfWins": 1
+          },
+          {
+            "tag": "feelingkettle",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [],
+        "record": "6-0"
+      },
+      "avgPlacement": 1.5,
+      "record": "11-2",
+      "winrate": 84.61538461538461
+    },
+    "wins": [
+      {
+        "tag": "Anathema",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Apsara",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Steffen",
+        "numOfWins": 2
+      },
+      {
+        "tag": "A9",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Aryeh",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Asimo",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Eri",
+        "numOfWins": 1
+      },
+      {
+        "tag": "feelingkettle",
+        "numOfWins": 1
+      },
+      {
+        "tag": "ggecko",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Jeff",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Keen",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Monthu",
+        "numOfWins": 1
+      },
+      {
+        "tag": "MVD",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Neo",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Pharaoh",
+        "numOfWins": 1
+      },
+      {
+        "tag": "RandumMNK",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Scend",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Shoe",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Sizzler",
+        "numOfWins": 1
+      },
+      {
+        "tag": "snogi",
+        "numOfWins": 1
+      },
+      {
+        "tag": "xavier",
+        "numOfWins": 1
+      }
+    ],
+    "losses": [
+      {
+        "tag": "Syrup",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Dabuz",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Kaninabe",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Light",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Zomba",
+        "numOfLosses": 1
+      }
+    ],
+    "record": "24-6",
+    "winrate": 80.0,
+    "noteableWins": []
+  }
+}

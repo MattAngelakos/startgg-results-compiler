@@ -1,0 +1,833 @@
+{
+  "players": {
+    "PlayerName": "String",
+    "altTags": [],
+    "eligible": false,
+    "Tier5Brackets": {
+      "bracketname1": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "tag1",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "tag1",
+            "numOfLosses": 1
+          }
+        ]
+      },
+      "bracketname2": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "tag1",
+            "numOfWins": 2
+          }
+        ],
+        "losses": [
+          {
+            "tag": "tag1",
+            "numOfLosses": 2
+          }
+        ]
+      }
+    },
+    "Tier4Brackets": {
+      "bracketname4a": {
+        "placement": 4,
+        "wins": [
+          {
+            "tag": "tag3",
+            "numOfWins": 4
+          }
+        ],
+        "losses": [
+          {
+            "tag": "tag3",
+            "numOfLosses": 4
+          }
+        ]
+      }
+    },
+    "Tier3Brackets": {
+      "bracketname3a": {
+        "placement": 3,
+        "wins": [
+          {
+            "tag": "tag2",
+            "numOfWins": 3
+          }
+        ],
+        "losses": [
+          {
+            "tag": "tag2",
+            "numOfLosses": 3
+          }
+        ]
+      }
+    },
+    "Tier2Brackets": {
+      "bracketname2a": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "tag1",
+            "numOfWins": 2
+          }
+        ],
+        "losses": [
+          {
+            "tag": "tag1",
+            "numOfLosses": 2
+          }
+        ]
+      }
+    },
+    "Tier1Brackets": {
+      "bracketname1a": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "tag1",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "tag1",
+            "numOfLosses": 1
+          }
+        ]
+      }
+    },
+    "wins": [
+      {
+        "tag": "tag1",
+        "numOfWins": 10
+      }
+    ],
+    "losses": [
+      {
+        "tag": "tag1",
+        "numOfLosses": 5
+      }
+    ]
+  },
+  "JohnDoe": {
+    "PlayerName": "JohnDoe",
+    "altTags": [],
+    "eligible": false,
+    "Tier5Brackets": {
+      "bracketname5a": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "tag4",
+            "numOfWins": 5
+          }
+        ],
+        "losses": [
+          {
+            "tag": "tag4",
+            "numOfLosses": 5
+          }
+        ]
+      }
+    },
+    "Tier4Brackets": {
+      "bracketname4b": {
+        "placement": 4,
+        "wins": [
+          {
+            "tag": "tag3",
+            "numOfWins": 4
+          }
+        ],
+        "losses": [
+          {
+            "tag": "tag3",
+            "numOfLosses": 4
+          }
+        ]
+      }
+    },
+    "Tier3Brackets": {
+      "bracketname3b": {
+        "placement": 3,
+        "wins": [
+          {
+            "tag": "tag2",
+            "numOfWins": 3
+          }
+        ],
+        "losses": [
+          {
+            "tag": "tag2",
+            "numOfLosses": 3
+          }
+        ]
+      }
+    },
+    "Tier2Brackets": {
+      "bracketname2b": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "tag1",
+            "numOfWins": 2
+          }
+        ],
+        "losses": [
+          {
+            "tag": "tag1",
+            "numOfLosses": 2
+          }
+        ]
+      }
+    },
+    "Tier1Brackets": {
+      "bracketname1b": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "tag1",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "tag1",
+            "numOfLosses": 1
+          }
+        ]
+      }
+    },
+    "wins": [
+      {
+        "tag": "tag2",
+        "numOfWins": 15
+      },
+      {
+        "tag": "TabSoda",
+        "numOfWins": 2
+      }
+    ],
+    "losses": [
+      {
+        "tag": "tag2",
+        "numOfLosses": 7
+      }
+    ]
+  },
+  "TabSoda": {
+    "PlayerName": "TabSoda",
+    "altTags": [
+      "FzP | TabSoda"
+    ],
+    "eligible": true,
+    "Tier5Brackets": {},
+    "Tier4Brackets": {},
+    "Tier3Brackets": {},
+    "Tier2Brackets": {
+      "Failsafe Fall 2023": {
+        "placement": 33,
+        "wins": [
+          {
+            "tag": "aquaze",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Booju",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Narrwall",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "TJ13",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Steffen",
+            "numOfLosses": 1
+          }
+        ]
+      }
+    },
+    "Tier1Brackets": {
+      "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR": {
+        "placement": 13,
+        "wins": [
+          {
+            "tag": "RuskiNurd",
+            "numOfWins": 1
+          },
+          {
+            "tag": "CrimsonAbe",
+            "numOfWins": 1
+          },
+          {
+            "tag": "DOGSHIT PLAYER",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Petayaa",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "flauTAS",
+            "numOfLosses": 1
+          }
+        ]
+      },
+      "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
+        "placement": 17,
+        "wins": [
+          {
+            "tag": "WrongHouse",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "WebbJP",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "30 SECONDS TO MARTH",
+            "numOfLosses": 1
+          }
+        ]
+      },
+      "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
+        "placement": 9,
+        "wins": [
+          {
+            "tag": "1R",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Crazycolorz5",
+            "numOfWins": 1
+          },
+          {
+            "tag": "SnoopDan",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Marvale",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Fhantum",
+            "numOfLosses": 1
+          }
+        ]
+      },
+      "Waypoint Warriors 154": {
+        "placement": 4,
+        "wins": [
+          {
+            "tag": "Wise",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Sumgai",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Trapsef",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Wex",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Soft-Boiled",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "fawn",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "John Numbers",
+            "numOfLosses": 1
+          }
+        ]
+      }
+    },
+    "wins": [
+      {
+        "tag": "1R",
+        "numOfWins": 1
+      },
+      {
+        "tag": "aquaze",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Booju",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Crazycolorz5",
+        "numOfWins": 1
+      },
+      {
+        "tag": "CrimsonAbe",
+        "numOfWins": 1
+      },
+      {
+        "tag": "DOGSHIT PLAYER",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Narrwall",
+        "numOfWins": 1
+      },
+      {
+        "tag": "RuskiNurd",
+        "numOfWins": 1
+      },
+      {
+        "tag": "SnoopDan",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Soft-Boiled",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Sumgai",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Trapsef",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Wex",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Wise",
+        "numOfWins": 1
+      },
+      {
+        "tag": "WrongHouse",
+        "numOfWins": 1
+      }
+    ],
+    "losses": [
+      {
+        "tag": "30 SECONDS TO MARTH",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "fawn",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Fhantum",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "flauTAS",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "John Numbers",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Marvale",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Petayaa",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Steffen",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "TJ13",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "WebbJP",
+        "numOfLosses": 1
+      }
+    ]
+  },
+  "ex": {
+    "PlayerName": "ex",
+    "altTags": [],
+    "eligible": false,
+    "Tier5Brackets": {},
+    "Tier4Brackets": {},
+    "Tier3Brackets": {},
+    "Tier2Brackets": {},
+    "Tier1Brackets": {},
+    "wins": [],
+    "losses": []
+  },
+  "Jackson Storm": {
+    "PlayerName": "Jackson Storm",
+    "altTags": [
+      "chicken case of ideas"
+    ],
+    "eligible": true,
+    "Tier5Brackets": {},
+    "Tier4Brackets": {},
+    "Tier3Brackets": {},
+    "Tier2Brackets": {
+      "STARGATE #49 Season 5 Premiere! UP TO $1000 Pot Bonus SSBU / $100 SF6 / $100 HDR": {
+        "placement": 9,
+        "wins": [
+          {
+            "tag": "Krugbo",
+            "numOfWins": 1
+          },
+          {
+            "tag": "K1NG",
+            "numOfWins": 1
+          },
+          {
+            "tag": "YellowSmellow",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Jakal",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "GuyGuy",
+            "numOfLosses": 1
+          }
+        ]
+      },
+      "BrookLAN Brawls #93: A Smash Ultimate Weekly Series": {
+        "placement": 13,
+        "wins": [],
+        "losses": []
+      },
+      "BrookLAN Brawls #91: A Smash Ultimate Weekly Series": {
+        "placement": 5,
+        "wins": [],
+        "losses": []
+      }
+    },
+    "Tier1Brackets": {
+      "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
+        "placement": 7,
+        "wins": [
+          {
+            "tag": "Deltaforce",
+            "numOfWins": 1
+          },
+          {
+            "tag": "K1NG",
+            "numOfWins": 1
+          },
+          {
+            "tag": "flauTAS",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Vars",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "WebbJP",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Fhantum",
+            "numOfLosses": 1
+          }
+        ]
+      },
+      "Xeno323": {
+        "placement": 7,
+        "wins": [
+          {
+            "tag": "Jazzy G.",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Gaius",
+            "numOfWins": 1
+          },
+          {
+            "tag": "bluesclues",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "BeatyBean",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Meli",
+            "numOfLosses": 1
+          }
+        ]
+      },
+      "Smashiversary 2023": {
+        "placement": 2,
+        "wins": [],
+        "losses": []
+      },
+      "BrookLAN Brawls #96: A Smash Ultimate Weekly Series": {
+        "placement": 13,
+        "wins": [
+          {
+            "tag": "Barsthejourney",
+            "numOfWins": 1
+          },
+          {
+            "tag": "garten of pibby steve",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "DTP",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Reyluno",
+            "numOfLosses": 1
+          }
+        ]
+      },
+      "Xeno319": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "fawn",
+            "numOfWins": 1
+          },
+          {
+            "tag": "vitz",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Vivi",
+            "numOfWins": 1
+          },
+          {
+            "tag": "K1NG",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Hareta",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Hikari",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Max",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "John Numbers",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "fawn",
+            "numOfLosses": 1
+          }
+        ]
+      },
+      "BrookLAN Brawls #95: A Smash Ultimate Weekly Series": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "John Numbers",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Joe-J",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Vivi",
+            "numOfWins": 1
+          },
+          {
+            "tag": "BmX",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Barsthejourney",
+            "numOfWins": 1
+          },
+          {
+            "tag": "Chrisp",
+            "numOfWins": 1
+          }
+        ],
+        "losses": [
+          {
+            "tag": "John Numbers",
+            "numOfLosses": 2
+          }
+        ]
+      }
+    },
+    "wins": [
+      {
+        "tag": "K1NG",
+        "numOfWins": 3
+      },
+      {
+        "tag": "Barsthejourney",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Vivi",
+        "numOfWins": 2
+      },
+      {
+        "tag": "bluesclues",
+        "numOfWins": 1
+      },
+      {
+        "tag": "BmX",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Chrisp",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Deltaforce",
+        "numOfWins": 1
+      },
+      {
+        "tag": "fawn",
+        "numOfWins": 1
+      },
+      {
+        "tag": "flauTAS",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Gaius",
+        "numOfWins": 1
+      },
+      {
+        "tag": "garten of pibby steve",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Hareta",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Hikari",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Jazzy G.",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Joe-J",
+        "numOfWins": 1
+      },
+      {
+        "tag": "John Numbers",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Krugbo",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Max",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Vars",
+        "numOfWins": 1
+      },
+      {
+        "tag": "vitz",
+        "numOfWins": 1
+      },
+      {
+        "tag": "YellowSmellow",
+        "numOfWins": 1
+      }
+    ],
+    "losses": [
+      {
+        "tag": "John Numbers",
+        "numOfLosses": 3
+      },
+      {
+        "tag": "BeatyBean",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "DTP",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "fawn",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Fhantum",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "GuyGuy",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Jakal",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Meli",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Reyluno",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "WebbJP",
+        "numOfLosses": 1
+      }
+    ]
+  }
+}
