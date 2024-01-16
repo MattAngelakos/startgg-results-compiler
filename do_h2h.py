@@ -40,7 +40,7 @@ for index, row in df.iterrows():
                     numOfWins+=numOfWinsAlt
                     numOfWins+=numOfLossesAlt
             newH2H = str(numOfWins)+"-"+str(numOfLosses)
-            df.at[index, opponent] = newH2H"""
+            df.at[index, opponent] = newH2H
 first_col = df['tag']
 sorted_cols_df = df.drop(columns=['tag'])
 # Function to extract the total number of losing h2hs from a col
@@ -121,4 +121,4 @@ for key, cell in tab.get_celld().items():
             cell.set_facecolor('lightgray')
 
 # Show the table
-plt.show()
+plt.show()"""
