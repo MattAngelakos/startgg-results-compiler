@@ -122,7 +122,7 @@ def do_query(id, year_start, month_start, day_start, hour_start, minute_start, y
       "losses": []
     }
     dataPlayers[tag] = new_player_data
-    dataPlayers = saveJson(dataPlayers)
+    dataPlayers = saveJson(dataPlayers, 'playersTest.json')
   tourneys = pd.read_csv('tournaments.csv')
   bad_tourneys = pd.read_csv('bad_tournaments.csv')
   def add_row_to_tourneys(csv_file, new_row):
@@ -143,7 +143,7 @@ def do_query(id, year_start, month_start, day_start, hour_start, minute_start, y
       if name not in tourneys['tournament_name'].values:
         if not any(name in value for value in bad_tourneys['name'].astype(str)):
           entrant_count = value['container']['numEntrants']
-          if if1(date_time_unix_start, date_time_unix_end, value, entrant_count): 
+          if if1(date_time_unix_start, date_time_unix_end, value, entrant_count, 'standings'): 
             if if2(eventName):
               tourneys = do_tiering(add_row_to_tourneys, name, entrant_count, name)
               numBrackets+=1
@@ -208,16 +208,16 @@ def do_query(id, year_start, month_start, day_start, hour_start, minute_start, y
       if not any(nameT in value for value in bad_tourneys['name'].astype(str)):
         entrant_count = value['event']['numEntrants']
         eventName = value['event']['name']
-        if if1(date_time_unix_start, date_time_unix_end, value, entrant_count): 
+        if if1(date_time_unix_start, date_time_unix_end, value, entrant_count, 'sets'): 
           if if2(eventName):
             tourneys = do_tiering(add_row_to_tourneys, name, entrant_count, nameT)
             dataPlayers = doRecord(dataPlayers, tag, tourneys, value, nameT, id)
         else:
           bad_tourneys = addAndGetRow(add_row_to_tourneys, [nameT], 'bad_tournaments.csv')
-  dataPlayers = saveJson(dataPlayers)
+  dataPlayers = saveJson(dataPlayers, 'playersTest.json')
   dataPlayers[tag]['losses'] = sorted(dataPlayers[tag]['losses'], key=lambda x: (-x['numOfLosses'], x['tag'].lower()))
   dataPlayers[tag]['wins'] = sorted(dataPlayers[tag]['wins'], key=lambda x: (-x['numOfWins'], x['tag'].lower()))
-  dataPlayers = saveJson(dataPlayers)
+  dataPlayers = saveJson(dataPlayers, 'playersTest.json')
 
 def doRecord(dataPlayers, tag, tourneys, value, nameT, id):
     eventNameSet = value['event']['name']
@@ -332,16 +332,21 @@ def do_tiering(add_row_to_tourneys, name, entrant_count, nameT):
 def if2(eventName):
     return (("double" not in eventName.lower()) and ("2v2" not in eventName.lower()) and ("hdr" not in eventName.lower()) and ("ultimate event: special series" not in eventName.lower()) and ("squad" not in eventName.lower()))
 
-def if1(date_time_unix_start, date_time_unix_end, value, entrant_count):
-    return (value['container']['isOnline'] == False and entrant_count > 15 and (int(date_time_unix_start) <= value['container']['startAt'] <= int(date_time_unix_end)))
+def if1(date_time_unix_start, date_time_unix_end, value, entrant_count, query):
+    print(query)
+    print(value)
+    if query == 'standings':
+      return (value['container']['isOnline'] == False and entrant_count > 15 and (int(date_time_unix_start) <= value['container']['startAt'] <= int(date_time_unix_end)))
+    elif query == 'sets':
+      return (value['event']['isOnline'] == False and entrant_count > 15 and (int(date_time_unix_start) <= value['event']['startAt'] <= int(date_time_unix_end)))
 
 def addAndGetRow(add_row_to_tourneys, row, name_of_file):
     add_row_to_tourneys(name_of_file, row)
     tournament = pd.read_csv(name_of_file)
     return tournament
-def saveJson(dataPlayers):
-    with open('playersTest.json', 'w') as file:
+def saveJson(dataPlayers, filename):
+    with open(filename, 'w') as file:
       json.dump(dataPlayers, file, indent=2)
-    f2 = open('playersTest.json')
+    f2 = open(filename)
     dataPlayers = json.load(f2)
     return dataPlayers

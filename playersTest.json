@@ -4457,16 +4457,16 @@
         "numOfWins": 1
       },
       {
-        "tag": "Yoda Cage",
-        "rank": 5,
-        "region": "Philly",
-        "numOfWins": 1
-      },
-      {
         "tag": "Syrup",
         "rank": 0,
         "region": "world",
         "id": 1216463,
+        "numOfWins": 1
+      },
+      {
+        "tag": "Yoda Cage",
+        "rank": 5,
+        "region": "Philly",
         "numOfWins": 1
       }
     ],
