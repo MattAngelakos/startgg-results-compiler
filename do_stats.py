@@ -97,13 +97,15 @@ def do_the_stats(playerJson, oorcsv):
                 if not noteable.empty:
                     winData = noteable.iloc[0].to_dict()
                     winData['numOfWins'] = wins['numOfWins']
-                    playerData['noteableWins'].append(winData)
+                    if winData not in playerData['noteableWins']:
+                        playerData['noteableWins'].append(winData)
                 lumirank = dfLumi[dfLumi['tag'] == wins['tag']]
                 if not lumirank.empty:
                     winData = lumirank.iloc[0].to_dict()
                     capOrFact = do_verification(winData['id'], wins['winnerId'])
                     if capOrFact:
                         winData['numOfWins'] = wins['numOfWins']
-                        playerData['noteableWins'].append(winData)
+                        if winData not in playerData['noteableWins']:
+                            playerData['noteableWins'].append(winData)
     with open(playerJson, 'w') as file:
           json.dump(data, file, indent=2)

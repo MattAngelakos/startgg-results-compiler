@@ -56,7 +56,9 @@ def do_querynewyork(id, year_start, month_start, day_start, hour_start, minute_s
             "eligible": eligible,
             "wins": [],
             "noteableWins": [],
-            "losses": []
+            "losses": [],
+            "mostRecentSet": tag,
+            "mostRecentBracket": tag
         }
         dataPlayers[tag] = new_player_data
         dataPlayers = saveJson(dataPlayers, 'players.json')
@@ -70,6 +72,10 @@ def do_querynewyork(id, year_start, month_start, day_start, hour_start, minute_s
     threeNYBrackets = False
     numNYBrackets = 0
     for key, value in enumerate(data['data']['player']['recentStandings']):
+        if key == 0:
+           recentBracket = value
+        if value == dataPlayers[tag]['mostRecentBracket']:
+           break
         if not threeNYBrackets:
             if numNYBrackets == 4:
                 threeNYBrackets = True
@@ -95,6 +101,7 @@ def do_querynewyork(id, year_start, month_start, day_start, hour_start, minute_s
                     dataPlayers[tag]['altTags'].append(entrantTag)
     if(threeNYBrackets):
         dataPlayers[tag]['eligible'] = True
+    dataPlayers[tag]['mostRecentBracket'] = recentBracket
     with open('players.json', 'w') as file:
         json.dump(dataPlayers, file, indent=2)
     f2 = open('players.json')
@@ -126,6 +133,11 @@ def do_querynewyork(id, year_start, month_start, day_start, hour_start, minute_s
     }''')
     data = json.loads(results)
     for key, value, in enumerate(data['data']['player']['sets']['nodes']):
+        if key == 0:
+          mostRecent = value
+        if value == dataPlayers[tag]['mostRecentSet']:
+          print("fuck")
+          break
         nameT = value['event']['tournament']['name']
         if nameT in tourneys['tournament_name'].values:
             dataPlayers = doRecordNew(dataPlayers, tag, tourneys, value, nameT, id)
@@ -139,6 +151,7 @@ def do_querynewyork(id, year_start, month_start, day_start, hour_start, minute_s
                         dataPlayers = doRecord(dataPlayers, tag, tourneys, value, nameT, id)
                 else:
                     bad_tourneys = addAndGetRow(add_row_to_tourneys, [nameT], 'bad_tournaments.csv')
+    dataPlayers[tag]['mostRecentSet'] = mostRecent
     dataPlayers = saveJson(dataPlayers, 'players.json')
     dataPlayers[tag]['losses'] = sorted(dataPlayers[tag]['losses'], key=lambda x: (-x['numOfLosses'], x['tag'].lower()))
     dataPlayers[tag]['wins'] = sorted(dataPlayers[tag]['wins'], key=lambda x: (-x['numOfWins'], x['tag'].lower()))

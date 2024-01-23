@@ -52,13 +52,14 @@ for i, row in players.iterrows():
         do_query(id=str(row['playerId']), year_start=year_start, month_start=month_start, day_start=1, hour_start=6, minute_start=0, year_end=year_end, month_end=month_end, day_end=1, hour_end=6, minute_end=0)
         pass
     elif val == "NY":
-        do_querynewyork(id=str(row['playerId']), year_start=year_start, month_start=month_start, day_start=1, hour_start=6, minute_start=0, year_end=year_end, month_end=month_end, day_end=1, hour_end=6, minute_end=0)
+        pass
+        #do_querynewyork(id=str(row['playerId']), year_start=year_start, month_start=month_start, day_start=1, hour_start=6, minute_start=0, year_end=year_end, month_end=month_end, day_end=1, hour_end=6, minute_end=0)
     time.sleep(5)
 if val == "NJ":
-    #do_the_stats('playersTest.json', 'oor.csv')
+    do_the_stats('playersTest.json', 'oor.csv')
     do_the_h2h('playersTest.json','h2h.csv')
 elif val == "NY":
     do_the_stats_ny('players.json', 'oor.csv')
     do_the_h2h('players.json','h2hny.csv')
-    killLosses()
+    #killLosses()
 #do_query(id=str(1216463), year_start=2023, month_start=10, day_start=1, hour_start=6, minute_start=0, year_end=2024, month_end=1, day_end=1, hour_end=6, minute_end=0)

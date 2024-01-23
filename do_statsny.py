@@ -13,20 +13,21 @@ def do_the_stats_ny(playerJson, oorcsv):
     df = pd.read_csv(oorcsv)
     dfLumi = pd.read_csv('lumirank.csv')
     for player, playerData in data.items():
-        if(playerData['eligible']):
+        #if(playerData['eligible']):
             for wins in playerData['wins']:
                 noteable = df[df['tag'] == wins['tag']]
                 if not noteable.empty:
                     winData = noteable.iloc[0].to_dict()
                     winData['numOfWins'] = wins['numOfWins']
-                    print(winData)
-                    playerData['noteableWins'].append(winData)
+                    if winData not in playerData['noteableWins']:
+                        playerData['noteableWins'].append(winData)
                 lumirank = dfLumi[dfLumi['tag'] == wins['tag']]
                 if not lumirank.empty:
                     winData = lumirank.iloc[0].to_dict()
                     capOrFact = do_verification(winData['id'], wins['winnerId'])
                     if capOrFact:
                         winData['numOfWins'] = wins['numOfWins']
-                        playerData['noteableWins'].append(winData)
+                        if winData not in playerData['noteableWins']:
+                            playerData['noteableWins'].append(winData)
     with open(playerJson, 'w') as file:
           json.dump(data, file, indent=2)
