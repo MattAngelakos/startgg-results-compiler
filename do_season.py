@@ -73,4 +73,17 @@ elif val == "NY":
         do_the_h2h('players.json','h2hny.csv')
     if remove.lower() == 'y':
         killLosses()
-#do_query(id=str(1216463), year_start=2023, month_start=10, day_start=1, hour_start=6, minute_start=0, year_end=2024, month_end=1, day_end=1, hour_end=6, minute_end=0)
+kill = input("Do you want to remove any players?(Y or N): ")
+if kill.lower() == 'y':
+    while True:
+        target = input("Enter player(enter to quit): ")
+        if target == "":
+            break
+        f = open('players.json')
+        data = json.load(f)
+        data.pop(target, None)
+        if input == 'NJ':
+            data = saveJson(data, 'playersTest.json')
+        elif input == 'NY':
+            data = saveJson(data, 'players.json')
+#do_query(id=str(1216463), year_start=2023, month_start=10, day_start=1, hour_start=6, minute_start=0, year_end=2024, month_end=1, day_end=1, hour_end=6, minute_end=0)i
