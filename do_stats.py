@@ -80,12 +80,14 @@ def do_the_stats(playerJson, oorcsv):
                     avgPlacement = avgPlacement/numOfBrackets
                     playerData['Tier'+str(i)+'Brackets']['avgPlacement']=avgPlacement
                     playerData['Tier'+str(i)+'Brackets']['record']=str(numOfWinsTotal)+"-"+str(numOfLossesTotal)
-                    playerData['Tier'+str(i)+'Brackets']['winrate']=(numOfWinsTotal/(numOfWinsTotal+numOfLossesTotal))*100
+                    if not (numOfWinsTotal == 0 and numOfLossesTotal == 0):
+                        playerData['Tier'+str(i)+'Brackets']['winrate']=(numOfWinsTotal/(numOfWinsTotal+numOfLossesTotal))*100
                     print(f"Tier{i}Average Placement: {avgPlacement}, Record: {numOfWinsTotal}-{numOfLossesTotal}")
                 allWins+=numOfWinsTotal
                 allLosses+=numOfLossesTotal
             playerData['record']=str(allWins)+"-"+str(allLosses)
-            playerData['winrate']=(allWins/(allWins+allLosses))*100
+            if not allWins == 0 and allLosses == 0:
+                playerData['winrate']=(allWins/(allWins+allLosses))*100
             if numOfUniqueBrackets >= 3 and playerData['eligible']:
                 playerData['eligible'] = True
             else:

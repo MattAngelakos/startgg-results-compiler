@@ -28,19 +28,22 @@ def do_the_h2h(playerJson, h2hcsv):
         except:
             numOfLosses=0
         return numOfWins,numOfLosses
-
+    print(df)
     for index, row in df.iterrows():
         tag = row.iloc[0]
+        print(tag)
         for opponent, h2h in zip(df.columns[1:], row.iloc[1:]):
             if opponent != tag:
                 numOfWins, numOfLosses = add(data, tag, opponent)
+                print(opponent, numOfWins)
                 for alt in data[opponent]['altTags']:
                     if opponent not in alt:
-                        numOfWinsAlt, numOfLossesAlt = add(data, tag, opponent)
+                        numOfWinsAlt, numOfLossesAlt = add(data, tag, alt)
                         numOfWins+=numOfWinsAlt
                         numOfWins+=numOfLossesAlt
                 newH2H = str(numOfWins)+"-"+str(numOfLosses)
                 df.at[index, opponent] = newH2H
+    print(df)
     first_col = df['tag']
     sorted_cols_df = df.drop(columns=['tag'])
 # Function to extract the total number of losing h2hs from a col
