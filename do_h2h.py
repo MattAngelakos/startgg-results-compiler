@@ -105,11 +105,12 @@ def do_the_h2h(playerJson, h2hcsv):
         else:
             return "lightgray"
     
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(20,12))
     ax.axis('off')
 # Plot the DataFrame as a table with colored cells
-    tab = table(ax, df, loc='center', cellLoc='center', colWidths=[0.2]*len(df.columns))
-
+    tab = table(ax, df, loc='center', cellLoc='center', colWidths=[0.03]*len(df.columns))
+    tab.auto_set_font_size(False)
+    tab.set_fontsize(5)
     for key, cell in tab.get_celld().items():
         if key[0] == 0:
             cell.set_text_props(weight='bold')
@@ -123,5 +124,5 @@ def do_the_h2h(playerJson, h2hcsv):
             else:
                 cell.set_facecolor('lightgray')
 
-# Show the table
+# Show the table       
     plt.show()

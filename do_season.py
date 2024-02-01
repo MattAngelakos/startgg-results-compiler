@@ -13,11 +13,11 @@ client = GraphQLClient('https://api.start.gg/gql/' + apiVersion)
 client.inject_token('Bearer ' + authToken)
 val = input("What Region: ") 
 if val == "NJ":
-    players = pd.read_csv('playersTest.csv')
-    filename = 'playersTest.csv'
+    players = pd.read_csv('players.csv')
+    filename = 'players.csv'
 elif val == "NY":
-    players = pd.read_csv('playersTest.csv')
-    filename = 'playersTest.csv'
+    players = pd.read_csv('players.csv')
+    filename = 'players.csv'
 else:
     raise ValueError
 query = input("Do you want to preform the query? (Y or N): ")
@@ -63,14 +63,14 @@ if query.lower() == 'y':
         time.sleep(5)
 if val == "NJ":
     if stats.lower() == 'y':
-        do_the_stats('playersTest.json', 'oor.csv')
+        do_the_stats('playersNJ.json', 'oorNJ.csv')
     if h2h.lower() == 'y':
-        do_the_h2h('playersTest.json','h2h.csv')
+        do_the_h2h('playersNJ.json','h2h.csv')
 elif val == "NY":
     if stats.lower() == 'y':
-        do_the_stats_ny('players.json', 'oor.csv')
+        do_the_stats_ny('playersNY.json', 'oorNY.csv')
     if h2h.lower() == 'y':
-        do_the_h2h('players.json','h2hny.csv')
+        do_the_h2h('playersNY.json','h2hny.csv')
     if remove.lower() == 'y':
         killLosses()
 kill = input("Do you want to remove any players?(Y or N): ")
@@ -79,11 +79,18 @@ if kill.lower() == 'y':
         target = input("Enter player(enter to quit): ")
         if target == "":
             break
-        f = open('players.json')
+        if val == 'NJ':
+            f = open('playersNJ.json')
+        elif val == 'NY':
+            f = open('playersNY.json')
         data = json.load(f)
         data.pop(target, None)
-        if input == 'NJ':
-            data = saveJson(data, 'playersTest.json')
-        elif input == 'NY':
-            data = saveJson(data, 'players.json')
+        if val == 'NJ':
+            data = saveJson(data, 'playersNJ.json')
+        elif val == 'NY':
+            data = saveJson(data, 'playersNY.json')
+"""bad_tourneys = pd.read_csv('bad_tournaments.csv')
+name = "Highland Masters 59"
+if not any(value in name for value in bad_tourneys['name'].astype(str)):
+    print("hi")"""
 #do_query(id=str(1216463), year_start=2023, month_start=10, day_start=1, hour_start=6, minute_start=0, year_end=2024, month_end=1, day_end=1, hour_end=6, minute_end=0)i
