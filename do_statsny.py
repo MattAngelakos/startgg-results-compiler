@@ -15,6 +15,7 @@ def do_the_stats_ny(playerJson, oorcsv):
     for player, playerData in data.items():
         #if(playerData['eligible']):
             for wins in playerData['wins']:
+                print(wins)
                 noteable = df[df['tag'] == wins['tag']]
                 if not noteable.empty:
                     winData = noteable.iloc[0].to_dict()

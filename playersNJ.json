@@ -404,6 +404,13 @@
         "rank": 10,
         "region": "NYC",
         "numOfWins": 1
+      },
+      {
+        "tag": "Rivers",
+        "id": 6301,
+        "rank": 155,
+        "region": "lumirank",
+        "numOfWins": 1
       }
     ],
     "losses": [
@@ -491,8 +498,12 @@
             "tag": "Haven",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "3-2"
+      },
+      "avgPlacement": 13.0,
+      "record": "3-2",
+      "winrate": 60.0
     },
     "Tier1Brackets": {
       "New Jersey Circuit Finale": {
@@ -555,8 +566,12 @@
             "tag": "Pharaoh",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "6-2"
+      },
+      "avgPlacement": 3.0,
+      "record": "6-2",
+      "winrate": 75.0
     },
     "wins": [
       {
@@ -658,7 +673,8 @@
         "isOnline": false,
         "numEntrants": 52
       }
-    }
+    },
+    "record": "9-4"
   },
   "Deltaforce": {
     "PlayerName": "Deltaforce",
@@ -2623,6 +2639,20 @@
         "rank": 5,
         "region": "Philly",
         "numOfWins": 1
+      },
+      {
+        "tag": "Mr. E",
+        "id": 15889,
+        "rank": 100,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "WebbJP",
+        "id": 1224902,
+        "rank": 113,
+        "region": "lumirank",
+        "numOfWins": 1
       }
     ],
     "losses": [
@@ -3146,6 +3176,13 @@
         "rank": 12,
         "region": "Mass",
         "numOfWins": 1
+      },
+      {
+        "tag": "Jakal",
+        "id": 231113,
+        "rank": 84,
+        "region": "lumirank",
+        "numOfWins": 2
       }
     ],
     "losses": [
@@ -5014,7 +5051,8 @@
             ]
           }
         ],
-        "losses": []
+        "losses": [],
+        "record": "5-0"
       },
       "Fries on a Salad #125": {
         "placement": 1,
@@ -5061,8 +5099,12 @@
             "tag": "IcyMist",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "6-1"
+      },
+      "avgPlacement": 1.0,
+      "record": "11-1",
+      "winrate": 91.66666666666666
     },
     "wins": [
       {
@@ -5125,7 +5167,15 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "IcyMist",
+        "id": 147658,
+        "rank": 101,
+        "region": "lumirank",
+        "numOfWins": 2
+      }
+    ],
     "losses": [
       {
         "tag": "IcyMist",
@@ -5148,7 +5198,8 @@
         "isOnline": false,
         "numEntrants": 23
       }
-    }
+    },
+    "record": "11-1"
   },
   "LemonTea": {
     "PlayerName": "LemonTea",
@@ -5741,8 +5792,12 @@
             "tag": "Syrup",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "4-1"
+      },
+      "avgPlacement": 5.0,
+      "record": "4-1",
+      "winrate": 80.0
     },
     "Tier1Brackets": {
       "Center Stage King of Kings Invitational": {
@@ -5781,7 +5836,14 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "PkChris",
+        "rank": 5,
+        "region": "NYC",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Syrup",
@@ -5804,7 +5866,8 @@
         "isOnline": false,
         "numEntrants": 102
       }
-    }
+    },
+    "record": "4-1"
   },
   "Haven": {
     "PlayerName": "Haven",
@@ -5847,8 +5910,12 @@
             "tag": "Stand Proud",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "3-2"
+      },
+      "avgPlacement": 97.0,
+      "record": "3-2",
+      "winrate": 60.0
     },
     "Tier4Brackets": {},
     "Tier3Brackets": {},
@@ -5901,8 +5968,12 @@
             "tag": "Beast",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "5-2"
+      },
+      "avgPlacement": 3.0,
+      "record": "5-2",
+      "winrate": 71.42857142857143
     },
     "Tier1Brackets": {
       "Center Stage King of Kings Invitational": {
@@ -5963,7 +6034,14 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Shon",
+        "rank": 15,
+        "region": "NYC",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Beast",
@@ -5998,7 +6076,8 @@
         "isOnline": false,
         "numEntrants": 891
       }
-    }
+    },
+    "record": "8-4"
   },
   "Sumgai": {
     "PlayerName": "Sumgai",
@@ -7073,7 +7152,15 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Jakal",
+        "id": 231113,
+        "rank": 84,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Pharaoh",
@@ -9350,6 +9437,34 @@
         "rank": 8,
         "region": "NYC",
         "numOfWins": 1
+      },
+      {
+        "tag": "Kola",
+        "id": 18802,
+        "rank": 36,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Light",
+        "id": 158871,
+        "rank": 6,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Mr. E",
+        "id": 15889,
+        "rank": 100,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Quidd",
+        "id": 1005189,
+        "rank": 56,
+        "region": "lumirank",
+        "numOfWins": 1
       }
     ],
     "losses": [
@@ -9692,8 +9807,12 @@
             "tag": "Petayaa",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "3-2"
+      },
+      "avgPlacement": 17.0,
+      "record": "3-2",
+      "winrate": 60.0
     },
     "Tier1Brackets": {
       "RU Smashin' Spring 2024 #1: Go to Failsafe on 1/27": {
@@ -9736,13 +9855,17 @@
             ]
           }
         ],
-        "losses": []
+        "losses": [],
+        "record": "6-0"
       },
       "New Jersey Circuit Finale": {
         "placement": 33,
         "wins": [],
         "losses": []
-      }
+      },
+      "avgPlacement": 1.0,
+      "record": "6-0",
+      "winrate": 100.0
     },
     "wins": [
       {
@@ -9830,7 +9953,8 @@
         "isOnline": false,
         "numEntrants": 39
       }
-    }
+    },
+    "record": "9-2"
   },
   "BEEKEEPER JAN2024!": {
     "PlayerName": "BEEKEEPER JAN2024!",
@@ -11708,6 +11832,13 @@
         "rank": 10,
         "region": "CT",
         "numOfWins": 1
+      },
+      {
+        "tag": "WebbJP",
+        "id": 1224902,
+        "rank": 113,
+        "region": "lumirank",
+        "numOfWins": 1
       }
     ],
     "losses": [
@@ -11840,8 +11971,12 @@
             "tag": "snogi",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "3-2"
+      },
+      "avgPlacement": 9.0,
+      "record": "3-2",
+      "winrate": 60.0
     },
     "wins": [
       {
@@ -11893,7 +12028,8 @@
         "isOnline": false,
         "numEntrants": 17
       }
-    }
+    },
+    "record": "3-2"
   },
   "boosk": {
     "PlayerName": "boosk",
@@ -11929,8 +12065,12 @@
             "tag": "T3 DOM",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "2-2"
+      },
+      "avgPlacement": 257.0,
+      "record": "2-2",
+      "winrate": 50.0
     },
     "Tier4Brackets": {},
     "Tier3Brackets": {},
@@ -11970,8 +12110,12 @@
             "tag": "Pink Cage",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "3-2"
+      },
+      "avgPlacement": 7.0,
+      "record": "3-2",
+      "winrate": 60.0
     },
     "wins": [
       {
@@ -12045,7 +12189,8 @@
         "isOnline": false,
         "numEntrants": 30
       }
-    }
+    },
+    "record": "5-4"
   },
   "Wise": {
     "PlayerName": "Wise",
@@ -12089,7 +12234,8 @@
         "isOnline": false,
         "numEntrants": 199
       }
-    }
+    },
+    "record": "0-0"
   },
   "Krugbo": {
     "PlayerName": "Krugbo",
@@ -12931,8 +13077,12 @@
             ]
           }
         ],
-        "losses": []
-      }
+        "losses": [],
+        "record": "10-0"
+      },
+      "avgPlacement": 1.0,
+      "record": "10-0",
+      "winrate": 100.0
     },
     "Tier4Brackets": {},
     "Tier3Brackets": {},
@@ -12971,8 +13121,12 @@
             ]
           }
         ],
-        "losses": []
-      }
+        "losses": [],
+        "record": "5-0"
+      },
+      "avgPlacement": 1.0,
+      "record": "5-0",
+      "winrate": 100.0
     },
     "wins": [
       {
@@ -13069,7 +13223,42 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Sonix",
+        "id": 258371,
+        "rank": 3,
+        "region": "lumirank",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Cody",
+        "rank": 12,
+        "region": "NYC",
+        "numOfWins": 1
+      },
+      {
+        "tag": "MkLeo",
+        "id": 222927,
+        "rank": 11,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "SHADIC",
+        "id": 823045,
+        "rank": 44,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Tilde",
+        "id": 525344,
+        "rank": 61,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [],
     "mostRecentSet": {
       "displayScore": "LG | Tweek 3 - Pink Cage 0",
@@ -13087,7 +13276,9 @@
         "isOnline": false,
         "numEntrants": 30
       }
-    }
+    },
+    "record": "15-0",
+    "winrate": 100.0
   },
   "Steffen": {
     "PlayerName": "Steffen",
@@ -13123,8 +13314,12 @@
             "tag": "SHADIC",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "2-2"
+      },
+      "avgPlacement": 129.0,
+      "record": "2-2",
+      "winrate": 50.0
     },
     "Tier4Brackets": {},
     "Tier3Brackets": {},
@@ -13176,7 +13371,8 @@
             "tag": "Mateo",
             "numOfLosses": 1
           }
-        ]
+        ],
+        "record": "7-1"
       },
       "Center Stage #33": {
         "placement": 2,
@@ -13229,8 +13425,12 @@
             "tag": "Pharaoh",
             "numOfLosses": 2
           }
-        ]
-      }
+        ],
+        "record": "6-2"
+      },
+      "avgPlacement": 5.5,
+      "record": "13-3",
+      "winrate": 81.25
     },
     "wins": [
       {
@@ -13321,7 +13521,14 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Apple Reviewer",
+        "rank": 5,
+        "region": "New England",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Pharaoh",
@@ -13356,7 +13563,8 @@
         "isOnline": false,
         "numEntrants": 36
       }
-    }
+    },
+    "record": "15-5"
   },
   "SmashBros!": {
     "PlayerName": "SmashBros!",
@@ -14443,8 +14651,12 @@
             "tag": "Beast",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "5-2"
+      },
+      "avgPlacement": 4.0,
+      "record": "5-2",
+      "winrate": 71.42857142857143
     },
     "Tier1Brackets": {
       "Fusion #189": {
@@ -14495,13 +14707,17 @@
             "tag": "Marcus",
             "numOfLosses": 1
           }
-        ]
+        ],
+        "record": "5-2"
       },
       "New Jersey Circuit Finale": {
         "placement": 4,
         "wins": [],
         "losses": []
-      }
+      },
+      "avgPlacement": 3.0,
+      "record": "5-2",
+      "winrate": 71.42857142857143
     },
     "wins": [
       {
@@ -14575,7 +14791,14 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Cody",
+        "rank": 12,
+        "region": "NYC",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Beast",
@@ -14610,7 +14833,8 @@
         "isOnline": false,
         "numEntrants": 14
       }
-    }
+    },
+    "record": "10-4"
   },
   "xavier": {
     "PlayerName": "xavier",
@@ -14658,13 +14882,17 @@
             "tag": "Mateo",
             "numOfLosses": 1
           }
-        ]
+        ],
+        "record": "3-2"
       },
       "New Jersey Circuit Finale": {
         "placement": 25,
         "wins": [],
         "losses": []
-      }
+      },
+      "avgPlacement": 3.0,
+      "record": "3-2",
+      "winrate": 60.0
     },
     "wins": [
       {
@@ -14716,7 +14944,8 @@
         "isOnline": false,
         "numEntrants": 20
       }
-    }
+    },
+    "record": "3-2"
   },
   "Synnister": {
     "PlayerName": "Synnister",
@@ -15941,8 +16170,12 @@
             "tag": "BeastModePaul",
             "numOfLosses": 1
           }
-        ]
-      }
+        ],
+        "record": "4-2"
+      },
+      "avgPlacement": 97.0,
+      "record": "4-2",
+      "winrate": 66.66666666666666
     },
     "Tier4Brackets": {},
     "Tier3Brackets": {},
@@ -15978,7 +16211,14 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Tony Pajamas",
+        "rank": 8,
+        "region": "CT",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "BeastModePaul",
@@ -16005,7 +16245,8 @@
         "isOnline": true,
         "numEntrants": 25
       }
-    }
+    },
+    "record": "4-2"
   },
   "EO": {
     "PlayerName": "EO",
@@ -16350,7 +16591,15 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "WebbJP",
+        "id": 1224902,
+        "rank": 113,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Pink Cage",

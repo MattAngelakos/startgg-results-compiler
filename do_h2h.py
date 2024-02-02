@@ -130,3 +130,10 @@ def do_the_h2h(playerJson, h2hcsv):
 
 # Show the table       
     plt.show()
+def do_lumi():
+    df = pd.read_csv('lumirank.csv')
+    for index, row in df.iterrows():
+        df.at[index, 'rank'] = int(index+1)
+        df.at[index, 'region'] = 'lumirank'
+    df['rank'] = df['rank'].astype(int)
+    df.to_csv('lumirank.csv', index=False)

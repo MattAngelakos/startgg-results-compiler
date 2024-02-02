@@ -328,7 +328,142 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Pharaoh",
+        "rank": 6,
+        "region": "NJ",
+        "numOfWins": 3
+      },
+      {
+        "tag": "Syrup",
+        "rank": 1,
+        "region": "NJ",
+        "numOfWins": 3
+      },
+      {
+        "tag": "Syrup",
+        "id": 1216463,
+        "rank": 104,
+        "region": "lumirank",
+        "numOfWins": 3
+      },
+      {
+        "tag": "WebbJP",
+        "rank": 4,
+        "region": "NJ",
+        "numOfWins": 3
+      },
+      {
+        "tag": "WebbJP",
+        "id": 1224902,
+        "rank": 113,
+        "region": "lumirank",
+        "numOfWins": 3
+      },
+      {
+        "tag": "\u3042\u3068\u308a\u3048",
+        "id": 553122,
+        "rank": 52,
+        "region": "lumirank",
+        "numOfWins": 3
+      },
+      {
+        "tag": "Dabuz",
+        "id": 4702,
+        "rank": 14,
+        "region": "lumirank",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Jakal",
+        "rank": 3,
+        "region": "NJ",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Jakal",
+        "id": 231113,
+        "rank": 84,
+        "region": "lumirank",
+        "numOfWins": 2
+      },
+      {
+        "tag": "33\u307a\u3089\u3093box",
+        "id": 3014971,
+        "rank": 130,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Asimo",
+        "id": 1569435,
+        "rank": 17,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "BassMage",
+        "id": 229756,
+        "rank": 80,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Beast",
+        "rank": 4,
+        "region": "Philly",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Cosmos",
+        "id": 64466,
+        "rank": 76,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Dovidio",
+        "rank": 8,
+        "region": "Philly",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Gachipi",
+        "id": 2702463,
+        "rank": 120,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Metara",
+        "id": 2742735,
+        "rank": 134,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Neo",
+        "id": 1497801,
+        "rank": 30,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Ouch!?",
+        "id": 300502,
+        "rank": 68,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "\u305b\u3093\u3089",
+        "id": 1904953,
+        "rank": 91,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "GuyGuy",
@@ -428,7 +563,28 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Syrup",
+        "rank": 1,
+        "region": "NJ",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Syrup",
+        "id": 1216463,
+        "rank": 104,
+        "region": "lumirank",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Andrik",
+        "id": 131374,
+        "rank": 137,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Zomba",
@@ -508,7 +664,34 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Alo!",
+        "rank": 7,
+        "region": "Philly",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Anathema",
+        "id": 71203,
+        "rank": 78,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "BeastModePaul",
+        "id": 1868170,
+        "rank": 79,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Oolong",
+        "rank": 1,
+        "region": "MDVA",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Maister",
@@ -868,7 +1051,39 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Haze",
+        "rank": 14,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "naitosharp",
+        "rank": 3,
+        "region": "New England",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Quidd",
+        "id": 1005189,
+        "rank": 56,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "SmashBros!",
+        "rank": 8,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "ZekeReds",
+        "rank": 6,
+        "region": "CT",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Meli",
@@ -1236,7 +1451,59 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Haze",
+        "rank": 14,
+        "region": "NJ",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Alternis",
+        "rank": 8,
+        "region": "MDVA",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Beast",
+        "rank": 4,
+        "region": "Philly",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Ling",
+        "rank": 2,
+        "region": "New England",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Mr. E",
+        "id": 15889,
+        "rank": 100,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Syrup",
+        "rank": 1,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Syrup",
+        "id": 1216463,
+        "rank": 104,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Zomba",
+        "id": 370802,
+        "rank": 15,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Mr. E",
@@ -1466,7 +1733,15 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Mr. E",
+        "id": 15889,
+        "rank": 100,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Meli",
@@ -1856,7 +2131,26 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Exciled",
+        "rank": 12,
+        "region": "Mass",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Pink Cage",
+        "rank": 9,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "smub",
+        "rank": 2,
+        "region": "MDVA",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "John Numbers",
@@ -2240,7 +2534,33 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Juice",
+        "rank": 1,
+        "region": "Philly",
+        "numOfWins": 1
+      },
+      {
+        "tag": "MKBigBoss",
+        "id": 546734,
+        "rank": 51,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Pharaoh",
+        "rank": 6,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "SmashBros!",
+        "rank": 8,
+        "region": "NJ",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Mr. E",
@@ -2413,7 +2733,20 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Mega",
+        "rank": 15,
+        "region": "New England",
+        "numOfWins": 1
+      },
+      {
+        "tag": "naitosharp",
+        "rank": 3,
+        "region": "New England",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Cee",
@@ -2610,7 +2943,21 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Mr. E",
+        "id": 15889,
+        "rank": 100,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Towa",
+        "rank": 10,
+        "region": "MDVA",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Monte",
@@ -2756,7 +3103,14 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "naitosharp",
+        "rank": 3,
+        "region": "New England",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "CALPH",
@@ -2963,7 +3317,21 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Mr. E",
+        "id": 15889,
+        "rank": 100,
+        "region": "lumirank",
+        "numOfWins": 2
+      },
+      {
+        "tag": "BeatyBean",
+        "rank": 10,
+        "region": "NJ",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Endothia",
@@ -3134,7 +3502,20 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Bruho",
+        "rank": 12,
+        "region": "New England",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Deltaforce",
+        "rank": 11,
+        "region": "NJ",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Monte",
@@ -3390,7 +3771,14 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Mateo",
+        "rank": 13,
+        "region": "NJ",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Smurf",
@@ -3634,7 +4022,14 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Moat",
+        "rank": 10,
+        "region": "CT",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "John Numbers",
@@ -4025,7 +4420,27 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Haze",
+        "rank": 14,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Mateo",
+        "rank": 13,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Mr. E",
+        "id": 15889,
+        "rank": 100,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "John Numbers",
@@ -4262,7 +4677,14 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Pink Cage",
+        "rank": 9,
+        "region": "NJ",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Mr. E",
@@ -4567,7 +4989,27 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Juice",
+        "rank": 1,
+        "region": "Philly",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Marcus",
+        "rank": 7,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Mr. E",
+        "id": 15889,
+        "rank": 100,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Shon",
@@ -4911,7 +5353,40 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Deltaforce",
+        "rank": 11,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Mateo",
+        "rank": 13,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Mr. E",
+        "id": 15889,
+        "rank": 100,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Pharaoh",
+        "rank": 6,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Quidd",
+        "id": 1005189,
+        "rank": 56,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "GuyGuy",
@@ -5222,7 +5697,27 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Haze",
+        "rank": 14,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Marcus",
+        "rank": 7,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Mr. E",
+        "id": 15889,
+        "rank": 100,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "21 Card Trick",
@@ -5579,7 +6074,33 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "BlassTD",
+        "rank": 11,
+        "region": "Philly",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Deltaforce",
+        "rank": 11,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Light",
+        "rank": 1,
+        "region": "New England",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Mr. E",
+        "id": 15889,
+        "rank": 100,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "John Numbers",
@@ -5888,7 +6409,39 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "BeatyBean",
+        "rank": 10,
+        "region": "NJ",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Deltaforce",
+        "rank": 11,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Haze",
+        "rank": 14,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Jon",
+        "rank": 3,
+        "region": "Philly",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Quandale Dinglelingleton",
+        "id": 2286649,
+        "rank": 142,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Chrin",
@@ -6077,7 +6630,14 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "SmashBros!",
+        "rank": 8,
+        "region": "NJ",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Bubbs",
@@ -6216,7 +6776,15 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Mr. E",
+        "id": 15889,
+        "rank": 100,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Amaryllis",
@@ -6347,7 +6915,21 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Mateo",
+        "rank": 13,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Zomba",
+        "id": 370802,
+        "rank": 15,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Beast",
@@ -6782,7 +7364,26 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Juice",
+        "rank": 1,
+        "region": "Philly",
+        "numOfWins": 1
+      },
+      {
+        "tag": "smub",
+        "rank": 2,
+        "region": "MDVA",
+        "numOfWins": 1
+      },
+      {
+        "tag": "Squidplumber",
+        "rank": 12,
+        "region": "MDVA",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "WebbJP",
@@ -7005,7 +7606,14 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Moat",
+        "rank": 10,
+        "region": "CT",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Free KayFlock",
@@ -7312,7 +7920,28 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "MVD",
+        "id": 21460,
+        "rank": 90,
+        "region": "lumirank",
+        "numOfWins": 1
+      },
+      {
+        "tag": "WebbJP",
+        "rank": 4,
+        "region": "NJ",
+        "numOfWins": 1
+      },
+      {
+        "tag": "WebbJP",
+        "id": 1224902,
+        "rank": 113,
+        "region": "lumirank",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Epic_Gabriel",
@@ -7620,7 +8249,20 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Moat",
+        "rank": 10,
+        "region": "CT",
+        "numOfWins": 1
+      },
+      {
+        "tag": "SmashBros!",
+        "rank": 8,
+        "region": "NJ",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Glutamate",
@@ -8056,7 +8698,20 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "SmashBros!",
+        "rank": 8,
+        "region": "NJ",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Haven",
+        "rank": 12,
+        "region": "NJ",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "frawg",
@@ -8234,7 +8889,20 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Moat",
+        "rank": 10,
+        "region": "CT",
+        "numOfWins": 2
+      },
+      {
+        "tag": "Light",
+        "rank": 1,
+        "region": "New England",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "Free KayFlock",
@@ -8404,7 +9072,14 @@
         ]
       }
     ],
-    "noteableWins": [],
+    "noteableWins": [
+      {
+        "tag": "Robber",
+        "rank": 14,
+        "region": "Mass",
+        "numOfWins": 1
+      }
+    ],
     "losses": [
       {
         "tag": "BeatyBean",
@@ -9229,6 +9904,246 @@
       },
       {
         "tag": "Zomba",
+        "numOfLosses": 1
+      }
+    ]
+  },
+  "vlz": {
+    "PlayerName": "vlz",
+    "altTags": [
+      "Jorge"
+    ],
+    "eligible": true,
+    "wins": [
+      {
+        "tag": "Carlos",
+        "numOfWins": 1,
+        "winnerId": [
+          14899670
+        ]
+      },
+      {
+        "tag": "Citadel",
+        "numOfWins": 1,
+        "winnerId": [
+          15416224
+        ]
+      },
+      {
+        "tag": "Ebrima",
+        "numOfWins": 1,
+        "winnerId": [
+          15339652
+        ]
+      },
+      {
+        "tag": "GothGamerGhost",
+        "numOfWins": 1,
+        "winnerId": [
+          15489697
+        ]
+      },
+      {
+        "tag": "joequarters",
+        "numOfWins": 1,
+        "winnerId": [
+          15236257
+        ]
+      },
+      {
+        "tag": "La Chancla",
+        "numOfWins": 1,
+        "winnerId": [
+          15339652
+        ]
+      },
+      {
+        "tag": "LevelOne",
+        "numOfWins": 1,
+        "winnerId": [
+          15352040
+        ]
+      },
+      {
+        "tag": "LOA5000",
+        "numOfWins": 1,
+        "winnerId": [
+          14899670
+        ]
+      },
+      {
+        "tag": "Lumikade",
+        "numOfWins": 1,
+        "winnerId": [
+          15426577
+        ]
+      },
+      {
+        "tag": "Menace",
+        "numOfWins": 1,
+        "winnerId": [
+          15352040
+        ]
+      },
+      {
+        "tag": "Moose",
+        "numOfWins": 1,
+        "winnerId": [
+          15329543
+        ]
+      },
+      {
+        "tag": "Peebs",
+        "numOfWins": 1,
+        "winnerId": [
+          15489697
+        ]
+      },
+      {
+        "tag": "Piss",
+        "numOfWins": 1,
+        "winnerId": [
+          15329543
+        ]
+      },
+      {
+        "tag": "Saturn (B)",
+        "numOfWins": 1,
+        "winnerId": [
+          15236257
+        ]
+      },
+      {
+        "tag": "silverskrapz",
+        "numOfWins": 1,
+        "winnerId": [
+          15236257
+        ]
+      },
+      {
+        "tag": "SwissWriter",
+        "numOfWins": 1,
+        "winnerId": [
+          15352040
+        ]
+      },
+      {
+        "tag": "Valen",
+        "numOfWins": 1,
+        "winnerId": [
+          15339652
+        ]
+      },
+      {
+        "tag": "Valis",
+        "numOfWins": 1,
+        "winnerId": [
+          15352040
+        ]
+      },
+      {
+        "tag": "Wex",
+        "numOfWins": 1,
+        "winnerId": [
+          15287077
+        ]
+      },
+      {
+        "tag": "White Jack Harlow",
+        "numOfWins": 1,
+        "winnerId": [
+          15287077
+        ]
+      }
+    ],
+    "noteableWins": [],
+    "losses": [
+      {
+        "tag": "Bachilles",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Diabeo",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "fawn",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Glutamate",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "hellokittyislandadventur",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "HelpR",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Isaiah",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "John Numbers",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Karflo",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "La Chancla",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Lust",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Mega",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Meli",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "ob",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "On Cap No God",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Peco",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Pink Cage",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Prof3ssorMGW",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Relaxe",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Shon",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Sonicfiend",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "vessel",
         "numOfLosses": 1
       }
     ]

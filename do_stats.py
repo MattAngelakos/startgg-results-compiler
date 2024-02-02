@@ -37,7 +37,7 @@ def do_the_stats(playerJson, oorcsv):
     dfLumi = pd.read_csv('lumirank.csv')
     pattern = r'^(.*?)(?=\s\d|\s#)'
     for player, playerData in data.items():
-        if(playerData['eligible']):
+        #if(playerData['eligible']):
             print(player)
             allWins = 0
             allLosses = 0
