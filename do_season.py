@@ -47,7 +47,7 @@ if query.lower() == 'y':
                 }
             },
             {
-                "slug": ""+row['startggId']+""
+                "slug": '''+row['startggId']+'''
             }''')
             data = json.loads(results)
             print(data['data']['user']['player']['id'])

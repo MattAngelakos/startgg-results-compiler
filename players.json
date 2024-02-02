@@ -8837,5 +8837,400 @@
         "numOfLosses": 1
       }
     ]
+  },
+  "Shon": {
+    "PlayerName": "Shon",
+    "altTags": [],
+    "eligible": true,
+    "wins": [
+      {
+        "tag": "LRA_START",
+        "numOfWins": 3,
+        "winnerId": [
+          15497188,
+          15237424,
+          15224062
+        ]
+      },
+      {
+        "tag": "Nah I'd Win",
+        "numOfWins": 3,
+        "winnerId": [
+          15232434,
+          15237424,
+          15224062
+        ]
+      },
+      {
+        "tag": "shrutik",
+        "numOfWins": 3,
+        "winnerId": [
+          15224062,
+          15221903,
+          15221903
+        ]
+      },
+      {
+        "tag": "John Numbers",
+        "numOfWins": 2,
+        "winnerId": [
+          15224062,
+          15224062
+        ]
+      },
+      {
+        "tag": "K1NG",
+        "numOfWins": 2,
+        "winnerId": [
+          15497188,
+          15294708
+        ]
+      },
+      {
+        "tag": "Vivi",
+        "numOfWins": 2,
+        "winnerId": [
+          15497188,
+          15304621
+        ]
+      },
+      {
+        "tag": "30 SECONDS TO MARTH",
+        "numOfWins": 1,
+        "winnerId": [
+          15114758
+        ]
+      },
+      {
+        "tag": "Amaryllis",
+        "numOfWins": 1,
+        "winnerId": [
+          15304621
+        ]
+      },
+      {
+        "tag": "ARJAY!!!",
+        "numOfWins": 1,
+        "winnerId": [
+          15237424
+        ]
+      },
+      {
+        "tag": "Baren",
+        "numOfWins": 1,
+        "winnerId": [
+          15237424
+        ]
+      },
+      {
+        "tag": "bbqchippiez",
+        "numOfWins": 1,
+        "winnerId": [
+          15285307
+        ]
+      },
+      {
+        "tag": "bluesclues",
+        "numOfWins": 1,
+        "winnerId": [
+          15221903
+        ]
+      },
+      {
+        "tag": "BmX",
+        "numOfWins": 1,
+        "winnerId": [
+          15285307
+        ]
+      },
+      {
+        "tag": "Chan",
+        "numOfWins": 1,
+        "winnerId": [
+          15294708
+        ]
+      },
+      {
+        "tag": "cool cat",
+        "numOfWins": 1,
+        "winnerId": [
+          15232434
+        ]
+      },
+      {
+        "tag": "Gaius",
+        "numOfWins": 1,
+        "winnerId": [
+          15285307
+        ]
+      },
+      {
+        "tag": "Hareta",
+        "numOfWins": 1,
+        "winnerId": [
+          15114758
+        ]
+      },
+      {
+        "tag": "HelpR",
+        "numOfWins": 1,
+        "winnerId": [
+          15114758
+        ]
+      },
+      {
+        "tag": "Infernape",
+        "numOfWins": 1,
+        "winnerId": [
+          15313313
+        ]
+      },
+      {
+        "tag": "jarbsnoanime",
+        "numOfWins": 1,
+        "winnerId": [
+          15224062
+        ]
+      },
+      {
+        "tag": "Jintus",
+        "numOfWins": 1,
+        "winnerId": [
+          15232434
+        ]
+      },
+      {
+        "tag": "Justinjpeg",
+        "numOfWins": 1,
+        "winnerId": [
+          15497188
+        ]
+      },
+      {
+        "tag": "Kamex",
+        "numOfWins": 1,
+        "winnerId": [
+          15304621
+        ]
+      },
+      {
+        "tag": "Karflo",
+        "numOfWins": 1,
+        "winnerId": [
+          15224062
+        ]
+      },
+      {
+        "tag": "LUTE",
+        "numOfWins": 1,
+        "winnerId": [
+          15221903
+        ]
+      },
+      {
+        "tag": "MANIAC",
+        "numOfWins": 1,
+        "winnerId": [
+          15224062
+        ]
+      },
+      {
+        "tag": "Nexus",
+        "numOfWins": 1,
+        "winnerId": [
+          15286152
+        ]
+      },
+      {
+        "tag": "PkChris",
+        "numOfWins": 1,
+        "winnerId": [
+          15285307
+        ]
+      },
+      {
+        "tag": "ProJo",
+        "numOfWins": 1,
+        "winnerId": [
+          15114758
+        ]
+      },
+      {
+        "tag": "Raptor",
+        "numOfWins": 1,
+        "winnerId": [
+          15497188
+        ]
+      },
+      {
+        "tag": "Revolver",
+        "numOfWins": 1,
+        "winnerId": [
+          15286152
+        ]
+      },
+      {
+        "tag": "Salt King",
+        "numOfWins": 1,
+        "winnerId": [
+          15221903
+        ]
+      },
+      {
+        "tag": "Sho",
+        "numOfWins": 1,
+        "winnerId": [
+          15304621
+        ]
+      },
+      {
+        "tag": "Space",
+        "numOfWins": 1,
+        "winnerId": [
+          15224062
+        ]
+      },
+      {
+        "tag": "SparkSkill",
+        "numOfWins": 1,
+        "winnerId": [
+          15313313
+        ]
+      },
+      {
+        "tag": "Stage Hazard",
+        "numOfWins": 1,
+        "winnerId": [
+          15294708
+        ]
+      },
+      {
+        "tag": "Triple A",
+        "numOfWins": 1,
+        "winnerId": [
+          15304621
+        ]
+      },
+      {
+        "tag": "Vars",
+        "numOfWins": 1,
+        "winnerId": [
+          15232434
+        ]
+      },
+      {
+        "tag": "Venikki",
+        "numOfWins": 1,
+        "winnerId": [
+          15294708
+        ]
+      },
+      {
+        "tag": "Vinylic.",
+        "numOfWins": 1,
+        "winnerId": [
+          15286152
+        ]
+      },
+      {
+        "tag": "vlz",
+        "numOfWins": 1,
+        "winnerId": [
+          15304621
+        ]
+      },
+      {
+        "tag": "Wheezer",
+        "numOfWins": 1,
+        "winnerId": [
+          15285307
+        ]
+      },
+      {
+        "tag": "YAMES",
+        "numOfWins": 1,
+        "winnerId": [
+          15313313
+        ]
+      },
+      {
+        "tag": "Zuhiy",
+        "numOfWins": 1,
+        "winnerId": [
+          15497188
+        ]
+      }
+    ],
+    "noteableWins": [],
+    "losses": [
+      {
+        "tag": "John Numbers",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Mr. E",
+        "numOfLosses": 2
+      },
+      {
+        "tag": "Exciled",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "fawn",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Gatsby",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Haven",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Judgy",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Longo",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Meli",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Nah I'd Win",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Pacha",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "pango",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "PkChris",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Raptor",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Salt King",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "shrutik",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Zomba",
+        "numOfLosses": 1
+      }
+    ]
   }
 }
