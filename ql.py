@@ -222,7 +222,7 @@ def do_query(id, year_start, month_start, day_start, hour_start, minute_start, y
       break
     nameT = value['event']['tournament']['name']
     if nameT in tourneys['tournament_name'].values:
-        dataPlayers = doRecord(dataPlayers, tag, tourneys, value, nameT, id)
+        dataPlayers = doRecord(dataPlayers, tag, tourneys, value, nameT, id, "NJ")
     else:
       if not any(value in nameT for value in bad_tourneys['name'].astype(str)):
         entrant_count = value['event']['numEntrants']
@@ -230,7 +230,7 @@ def do_query(id, year_start, month_start, day_start, hour_start, minute_start, y
         if if1(date_time_unix_start, date_time_unix_end, value, entrant_count, 'sets'): 
           if if2(eventName):
             tourneys = do_tiering(add_row_to_tourneys, name, entrant_count, nameT)
-            dataPlayers = doRecord(dataPlayers, tag, tourneys, value, nameT, id)
+            dataPlayers = doRecord(dataPlayers, tag, tourneys, value, nameT, id, "NJ")
         else:
           bad_tourneys = addAndGetRow(add_row_to_tourneys, [nameT], 'bad_tournaments.csv')
   dataPlayers[tag]['mostRecentSet'] = mostRecent
@@ -350,7 +350,7 @@ def do_tiering(add_row_to_tourneys, name, entrant_count, nameT):
     return tourneys
 
 def if2(eventName):
-    return (("double" not in eventName.lower()) and ("2v2" not in eventName.lower()) and ("hdr" not in eventName.lower()) and ("ladder" not in eventName.lower()) and ("ultimate event: special series" not in eventName.lower()) and ("squad" not in eventName.lower()) and ("emperor" not in eventName.lower()) and ("circuit finale" not in eventName.lower()) )
+    return (("double" not in eventName.lower()) and ("2v2" not in eventName.lower()) and ("hdr" not in eventName.lower()) and ("ladder" not in eventName.lower()) and ("ultimate event: special series" not in eventName.lower()) and ("squad" not in eventName.lower())) #and ("emperor" not in eventName.lower()) and ("circuit finale" not in eventName.lower()))
 
 def if1(date_time_unix_start, date_time_unix_end, value, entrant_count, query):
     if query == 'standings':

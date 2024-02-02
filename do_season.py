@@ -24,7 +24,7 @@ query = input("Do you want to preform the query? (Y or N): ")
 stats = input("Do you want to preform the stats? (Y or N): ")
 h2h = input("Do you want to preform the h2h? (Y or N): ")
 if val == "NY":
-    remove = input("Do you want to remove the losses? (Y or N)")
+    remove = input("Do you want to remove the losses? (Y or N): ")
 if query.lower() == 'y':
     month_start, year_start = input("Enter month start and season year in the format ex: 10 2023 for 10/2023-12/2023: ").split()
     year_start=int(year_start)
@@ -58,8 +58,11 @@ if query.lower() == 'y':
             do_query(id=str(row['playerId']), year_start=year_start, month_start=month_start, day_start=1, hour_start=6, minute_start=0, year_end=year_end, month_end=month_end, day_end=1, hour_end=6, minute_end=0)
             pass
         elif val == "NY":
+            ids = row['playerId']
+            ids = str(ids)
+            print(ids)
+            do_querynewyork(id=ids, year_start=year_start, month_start=month_start, day_start=1, hour_start=6, minute_start=0, year_end=year_end, month_end=month_end, day_end=1, hour_end=6, minute_end=0)
             pass
-            #do_querynewyork(id=str(row['playerId']), year_start=year_start, month_start=month_start, day_start=1, hour_start=6, minute_start=0, year_end=year_end, month_end=month_end, day_end=1, hour_end=6, minute_end=0)
         time.sleep(5)
 if val == "NJ":
     if stats.lower() == 'y':
@@ -68,9 +71,9 @@ if val == "NJ":
         do_the_h2h('playersNJ.json','h2h.csv')
 elif val == "NY":
     if stats.lower() == 'y':
-        do_the_stats_ny('playersNY.json', 'oorNY.csv')
+        do_the_stats_ny('players.json', 'oorNY.csv')
     if h2h.lower() == 'y':
-        do_the_h2h('playersNY.json','h2hny.csv')
+        do_the_h2h('players.json','h2hny.csv')
     if remove.lower() == 'y':
         killLosses()
 kill = input("Do you want to remove any players?(Y or N): ")
@@ -82,13 +85,13 @@ if kill.lower() == 'y':
         if val == 'NJ':
             f = open('playersNJ.json')
         elif val == 'NY':
-            f = open('playersNY.json')
+            f = open('players.json')
         data = json.load(f)
         data.pop(target, None)
         if val == 'NJ':
             data = saveJson(data, 'playersNJ.json')
         elif val == 'NY':
-            data = saveJson(data, 'playersNY.json')
+            data = saveJson(data, 'players.json')
 """bad_tourneys = pd.read_csv('bad_tournaments.csv')
 name = "Highland Masters 59"
 if not any(value in name for value in bad_tourneys['name'].astype(str)):

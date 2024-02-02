@@ -56,9 +56,7 @@ def do_querynewyork(id, year_start, month_start, day_start, hour_start, minute_s
             "eligible": eligible,
             "wins": [],
             "noteableWins": [],
-            "losses": [],
-            "mostRecentSet": tag,
-            "mostRecentBracket": tag
+            "losses": []
         }
         dataPlayers[tag] = new_player_data
         dataPlayers = saveJson(dataPlayers, 'players.json')
@@ -72,10 +70,6 @@ def do_querynewyork(id, year_start, month_start, day_start, hour_start, minute_s
     threeNYBrackets = False
     numNYBrackets = 0
     for key, value in enumerate(data['data']['player']['recentStandings']):
-        if key == 0:
-           recentBracket = value
-        if value == dataPlayers[tag]['mostRecentBracket']:
-           break
         if not threeNYBrackets:
             if numNYBrackets == 4:
                 threeNYBrackets = True
@@ -83,7 +77,7 @@ def do_querynewyork(id, year_start, month_start, day_start, hour_start, minute_s
         entrant_count = value['container']['numEntrants']
         eventName = str(value['container']['name']).lower()
         if name not in tourneys['tournament_name'].values:
-            if not any(name in value for value in bad_tourneys['name'].astype(str)):
+            if not any(value in name for value in bad_tourneys['name'].astype(str)):
                 entrant_count = value['container']['numEntrants']
                 if if1(date_time_unix_start, date_time_unix_end, value, entrant_count, 'standings'): 
                     if if2(eventName):
@@ -101,7 +95,6 @@ def do_querynewyork(id, year_start, month_start, day_start, hour_start, minute_s
                     dataPlayers[tag]['altTags'].append(entrantTag)
     if(threeNYBrackets):
         dataPlayers[tag]['eligible'] = True
-    dataPlayers[tag]['mostRecentBracket'] = recentBracket
     with open('players.json', 'w') as file:
         json.dump(dataPlayers, file, indent=2)
     f2 = open('players.json')
@@ -133,25 +126,19 @@ def do_querynewyork(id, year_start, month_start, day_start, hour_start, minute_s
     }''')
     data = json.loads(results)
     for key, value, in enumerate(data['data']['player']['sets']['nodes']):
-        if key == 0:
-          mostRecent = value
-        if value == dataPlayers[tag]['mostRecentSet']:
-          print("fuck")
-          break
         nameT = value['event']['tournament']['name']
         if nameT in tourneys['tournament_name'].values:
             dataPlayers = doRecordNew(dataPlayers, tag, tourneys, value, nameT, id)
         else:
-            if not any(nameT in value for value in bad_tourneys['name'].astype(str)):
+            if not any(value in nameT for value in bad_tourneys['name'].astype(str)):
                 entrant_count = value['event']['numEntrants']
                 eventName = value['event']['name']
                 if if1(date_time_unix_start, date_time_unix_end, value, entrant_count, 'sets'): 
                     if if2(eventName):
                         tourneys = do_tiering(add_row_to_tourneys, name, entrant_count, nameT)
-                        dataPlayers = doRecord(dataPlayers, tag, tourneys, value, nameT, id)
+                        dataPlayers = doRecordNew(dataPlayers, tag, tourneys, value, nameT, id)
                 else:
                     bad_tourneys = addAndGetRow(add_row_to_tourneys, [nameT], 'bad_tournaments.csv')
-    dataPlayers[tag]['mostRecentSet'] = mostRecent
     dataPlayers = saveJson(dataPlayers, 'players.json')
     dataPlayers[tag]['losses'] = sorted(dataPlayers[tag]['losses'], key=lambda x: (-x['numOfLosses'], x['tag'].lower()))
     dataPlayers[tag]['wins'] = sorted(dataPlayers[tag]['wins'], key=lambda x: (-x['numOfWins'], x['tag'].lower()))
