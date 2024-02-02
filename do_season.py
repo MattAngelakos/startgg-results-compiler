@@ -7,7 +7,7 @@ import time
 from do_stats import *
 from do_statsny import *
 from do_h2h import *
-authToken = '838bca69b8fcc334b7606c19a4b6449a'
+authToken = input('put in your key: ')
 apiVersion = 'alpha'
 client = GraphQLClient('https://api.start.gg/gql/' + apiVersion)
 client.inject_token('Bearer ' + authToken)

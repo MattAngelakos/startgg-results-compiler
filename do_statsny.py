@@ -3,7 +3,7 @@ import re
 import pandas as pd
 from graphqlclient import GraphQLClient
 from do_stats import *
-authToken = '838bca69b8fcc334b7606c19a4b6449a'
+from do_season import authToken
 apiVersion = 'alpha'
 client = GraphQLClient('https://api.start.gg/gql/' + apiVersion)
 client.inject_token('Bearer ' + authToken)
