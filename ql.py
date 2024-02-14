@@ -218,7 +218,6 @@ def do_query(id, year_start, month_start, day_start, hour_start, minute_start, y
     if key == 0:
       mostRecent = value
     if value == dataPlayers[tag]['mostRecentSet']:
-      print("fuck")
       break
     nameT = value['event']['tournament']['name']
     if nameT in tourneys['tournament_name'].values:
