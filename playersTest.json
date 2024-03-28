@@ -3,52 +3,196 @@
     "PlayerName": "Deltaforce",
     "altTags": [],
     "eligible": true,
-    "Tier5Brackets": {},
+    "Tier5Brackets": {
+      "Luminosity Makes BIG Moves 2024": {
+        "placement": 97,
+        "wins": [
+          {
+            "tag": "BeatyBean",
+            "numOfWins": 1,
+            "winnerId": [
+              14914657
+            ]
+          },
+          {
+            "tag": "Skitz",
+            "numOfWins": 1,
+            "winnerId": [
+              14914657
+            ]
+          },
+          {
+            "tag": "KDHD",
+            "numOfWins": 1,
+            "winnerId": [
+              14914657
+            ]
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Regalo",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Sonix",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "3-2"
+      },
+      "avgPlacement": 97.0,
+      "record": "3-2",
+      "winrate": 60.0
+    },
     "Tier4Brackets": {},
     "Tier3Brackets": {},
     "Tier2Brackets": {
-      "Fireside Open 2023": {
-        "placement": 9,
+      "Fusion #186 - LMBM Prep Event!": {
+        "placement": 5,
         "wins": [
           {
             "tag": "Marcus",
             "numOfWins": 1,
             "winnerId": [
-              15015619
+              15222320
+            ]
+          },
+          {
+            "tag": "Lust",
+            "numOfWins": 1,
+            "winnerId": [
+              15222320
+            ]
+          },
+          {
+            "tag": "Vars",
+            "numOfWins": 1,
+            "winnerId": [
+              15222320
+            ]
+          },
+          {
+            "tag": "Toni Flamboni",
+            "numOfWins": 1,
+            "winnerId": [
+              15222320
+            ]
+          }
+        ],
+        "losses": [
+          {
+            "tag": "WebbJP",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Haven",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "4-2"
+      },
+      "avgPlacement": 5.0,
+      "record": "4-2",
+      "winrate": 66.66666666666666
+    },
+    "Tier1Brackets": {
+      "Fusion #189": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Sobriquet Sola",
+            "numOfWins": 1,
+            "winnerId": [
+              15417049
+            ]
+          },
+          {
+            "tag": "aquaze",
+            "numOfWins": 1,
+            "winnerId": [
+              15417049
             ]
           },
           {
             "tag": "Jukain",
             "numOfWins": 1,
             "winnerId": [
-              15015619
+              15417049
             ]
           },
           {
-            "tag": "Yeast",
+            "tag": "LVL6",
             "numOfWins": 1,
             "winnerId": [
-              15015619
+              15417049
             ]
           },
           {
-            "tag": "CrimsonAbe",
+            "tag": "Mellow",
             "numOfWins": 1,
             "winnerId": [
-              15015619
-            ]
-          },
-          {
-            "tag": "CandyKongLover1",
-            "numOfWins": 1,
-            "winnerId": [
-              15015619
+              15417049
             ]
           }
         ],
         "losses": [
           {
-            "tag": "Jon",
+            "tag": "Marcus",
+            "numOfLosses": 2
+          }
+        ],
+        "record": "5-2"
+      },
+      "Stargate #56 - Up to $1,000 Ult / $100 SF6 / $100 HDR": {
+        "placement": 2,
+        "wins": [
+          {
+            "tag": "Luigikid64",
+            "numOfWins": 1,
+            "winnerId": [
+              15386930
+            ]
+          },
+          {
+            "tag": "BeatyBean",
+            "numOfWins": 1,
+            "winnerId": [
+              15386930
+            ]
+          },
+          {
+            "tag": "SmashBros!",
+            "numOfWins": 1,
+            "winnerId": [
+              15386930
+            ]
+          },
+          {
+            "tag": "Fhantum",
+            "numOfWins": 1,
+            "winnerId": [
+              15386930
+            ]
+          },
+          {
+            "tag": "Ebrima",
+            "numOfWins": 1,
+            "winnerId": [
+              15386930
+            ]
+          },
+          {
+            "tag": "slate",
+            "numOfWins": 1,
+            "winnerId": [
+              15386930
+            ]
+          }
+        ],
+        "losses": [
+          {
+            "tag": "Luigikid64",
             "numOfLosses": 1
           },
           {
@@ -56,1167 +200,237 @@
             "numOfLosses": 1
           }
         ],
-        "record": "5-2"
+        "record": "6-2"
       },
-      "STARGATE #49 Season 5 Premiere! UP TO $1000 Pot Bonus SSBU / $100 SF6 / $100 HDR": {
-        "placement": 7,
-        "wins": [
-          {
-            "tag": "Cee",
-            "numOfWins": 1,
-            "winnerId": [
-              14961142
-            ]
-          },
-          {
-            "tag": "Peco",
-            "numOfWins": 1,
-            "winnerId": [
-              14961142
-            ]
-          },
-          {
-            "tag": "Pink Cage",
-            "numOfWins": 1,
-            "winnerId": [
-              14961142
-            ]
-          },
-          {
-            "tag": "RandyMayCrazy",
-            "numOfWins": 1,
-            "winnerId": [
-              14961142
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Jakal",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Dabuz",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "4-2"
-      },
-      "Failsafe Fall 2023": {
-        "placement": 25,
-        "wins": [
-          {
-            "tag": "Joshathan Gamer",
-            "numOfWins": 1,
-            "winnerId": [
-              14148076
-            ]
-          },
-          {
-            "tag": "Yellow",
-            "numOfWins": 1,
-            "winnerId": [
-              14148076
-            ]
-          },
-          {
-            "tag": "Space",
-            "numOfWins": 1,
-            "winnerId": [
-              14148076
-            ]
-          },
-          {
-            "tag": "JesusBread",
-            "numOfWins": 1,
-            "winnerId": [
-              14148076
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Marcus",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "\ud50c\ub808\uc774\uc5b4 4",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "4-2"
-      },
-      "avgPlacement": 13.666666666666666,
-      "record": "13-6",
-      "winrate": 68.42105263157895
-    },
-    "Tier1Brackets": {
-      "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR": {
-        "placement": 2,
-        "wins": [
-          {
-            "tag": "Pharaoh",
-            "numOfWins": 1,
-            "winnerId": [
-              15208395
-            ]
-          },
-          {
-            "tag": "Fhantum",
-            "numOfWins": 1,
-            "winnerId": [
-              15208395
-            ]
-          },
-          {
-            "tag": "Marvale",
-            "numOfWins": 1,
-            "winnerId": [
-              15208395
-            ]
-          },
-          {
-            "tag": "JustinNOTbyleth",
-            "numOfWins": 1,
-            "winnerId": [
-              15208395
-            ]
-          },
-          {
-            "tag": "Hareta",
-            "numOfWins": 1,
-            "winnerId": [
-              15208395
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Syrup",
-            "numOfLosses": 2
-          }
-        ],
-        "record": "5-2"
-      },
-      "Center Stage #32": {
-        "placement": 17,
-        "wins": [
-          {
-            "tag": "Haze",
-            "numOfWins": 1,
-            "winnerId": [
-              15202057
-            ]
-          },
-          {
-            "tag": "Penn",
-            "numOfWins": 1,
-            "winnerId": [
-              15202057
-            ]
-          },
-          {
-            "tag": "Moses STRSWAB",
-            "numOfWins": 1,
-            "winnerId": [
-              15202057
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Pharaoh",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Zomba",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "3-2"
-      },
-      "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
+      "STARGATE #55 up to $1,000 ULT(+$50) / $100 SF6 / $100 HDR": {
         "placement": 9,
         "wins": [
           {
-            "tag": "DinoNuggies",
+            "tag": "K1NG",
             "numOfWins": 1,
             "winnerId": [
-              15163810
+              15315207
             ]
           },
           {
-            "tag": "Jellyfish",
+            "tag": "Ethab Taxi",
             "numOfWins": 1,
             "winnerId": [
-              15163810
+              15315207
             ]
           }
         ],
         "losses": [
           {
-            "tag": "Jackson Storm",
+            "tag": "Pink Cage",
             "numOfLosses": 1
           },
           {
-            "tag": "Pharaoh",
+            "tag": "Sumgai",
             "numOfLosses": 1
           }
         ],
         "record": "2-2"
       },
-      "Fusion #185": {
-        "placement": 5,
+      "STARGATE #54 LMBM Weekend - Up to $1,000 ULT / $100 SF6 / $100 HDR": {
+        "placement": 9,
         "wins": [
           {
-            "tag": "Apple Reviewer",
+            "tag": "Luxa",
             "numOfWins": 1,
             "winnerId": [
-              15152577
+              15253051
             ]
           },
           {
-            "tag": "g\u00f8n",
+            "tag": "ShadowKO",
             "numOfWins": 1,
             "winnerId": [
-              15152577
-            ]
-          },
-          {
-            "tag": "Crystal Latte",
-            "numOfWins": 1,
-            "winnerId": [
-              15152577
+              15253051
             ]
           }
         ],
         "losses": [
           {
-            "tag": "Mateo",
+            "tag": "Hispanic! At The Disco",
             "numOfLosses": 1
-          },
-          {
-            "tag": "Marcus",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "3-2"
-      },
-      "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
-        "placement": 5,
-        "wins": [
-          {
-            "tag": "Narrwall",
-            "numOfWins": 1,
-            "winnerId": [
-              15130472
-            ]
           },
           {
             "tag": "Luigikid64",
-            "numOfWins": 1,
-            "winnerId": [
-              15130472
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Dabuz",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Syrup",
             "numOfLosses": 1
           }
         ],
         "record": "2-2"
       },
-      "Fusion #184": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Haven",
-            "numOfWins": 2,
-            "winnerId": [
-              15103431,
-              15103431
-            ]
-          },
-          {
-            "tag": "Sobriquet Sola",
-            "numOfWins": 1,
-            "winnerId": [
-              15103431
-            ]
-          },
-          {
-            "tag": "Meli",
-            "numOfWins": 1,
-            "winnerId": [
-              15103431
-            ]
-          },
-          {
-            "tag": "Seel",
-            "numOfWins": 1,
-            "winnerId": [
-              15103431
-            ]
-          }
-        ],
-        "losses": [],
-        "record": "5-0"
-      },
-      "Stargate #50 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
-        "placement": 2,
-        "wins": [
-          {
-            "tag": "Yeast",
-            "numOfWins": 1,
-            "winnerId": [
-              15079385
-            ]
-          },
-          {
-            "tag": "Marvale",
-            "numOfWins": 1,
-            "winnerId": [
-              15079385
-            ]
-          },
-          {
-            "tag": "Fhantum",
-            "numOfWins": 1,
-            "winnerId": [
-              15079385
-            ]
-          },
-          {
-            "tag": "Kazuha",
-            "numOfWins": 1,
-            "winnerId": [
-              15079385
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Sumgai",
-            "numOfLosses": 2
-          }
-        ],
-        "record": "4-2"
-      },
-      "Fusion #183": {
-        "placement": 5,
-        "wins": [
-          {
-            "tag": "Steezy",
-            "numOfWins": 1,
-            "winnerId": [
-              15047932
-            ]
-          },
-          {
-            "tag": "Obmcbob",
-            "numOfWins": 1,
-            "winnerId": [
-              15047932
-            ]
-          },
-          {
-            "tag": "Floppyfail",
-            "numOfWins": 1,
-            "winnerId": [
-              15047932
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Marcus",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Pharaoh",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "3-2"
-      },
-      "Fusion #182": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Marcus",
-            "numOfWins": 1,
-            "winnerId": [
-              14985917
-            ]
-          },
-          {
-            "tag": "WebbJP",
-            "numOfWins": 1,
-            "winnerId": [
-              14985917
-            ]
-          },
-          {
-            "tag": "MouseRat",
-            "numOfWins": 1,
-            "winnerId": [
-              14985917
-            ]
-          },
-          {
-            "tag": "Haze",
-            "numOfWins": 1,
-            "winnerId": [
-              14985917
-            ]
-          },
-          {
-            "tag": "Steezy",
-            "numOfWins": 1,
-            "winnerId": [
-              14985917
-            ]
-          },
-          {
-            "tag": "Mr. Moon",
-            "numOfWins": 1,
-            "winnerId": [
-              14985917
-            ]
-          }
-        ],
-        "losses": [],
-        "record": "6-0"
-      },
-      "Fusion #181": {
-        "placement": 7,
-        "wins": [
-          {
-            "tag": "Jukain",
-            "numOfWins": 1,
-            "winnerId": [
-              14935982
-            ]
-          },
-          {
-            "tag": "JustinNOTbyleth",
-            "numOfWins": 1,
-            "winnerId": [
-              14935982
-            ]
-          },
-          {
-            "tag": "Ubl",
-            "numOfWins": 1,
-            "winnerId": [
-              14935982
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Mateo",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Jakal",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "3-2"
-      },
-      "Fusion #180": {
-        "placement": 2,
-        "wins": [
-          {
-            "tag": "Sobriquet Sola",
-            "numOfWins": 1,
-            "winnerId": [
-              14873131
-            ]
-          },
-          {
-            "tag": "Marcus",
-            "numOfWins": 1,
-            "winnerId": [
-              14873131
-            ]
-          },
-          {
-            "tag": "LemonTea",
-            "numOfWins": 1,
-            "winnerId": [
-              14873131
-            ]
-          },
-          {
-            "tag": "FinallyRJ",
-            "numOfWins": 1,
-            "winnerId": [
-              14873131
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Marvale",
-            "numOfLosses": 2
-          }
-        ],
-        "record": "4-2"
-      },
-      "Fusion #179": {
-        "placement": 9,
-        "wins": [
-          {
-            "tag": "Floppyfail",
-            "numOfWins": 1,
-            "winnerId": [
-              14806334
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "SmashBros!",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Undeadbraindead",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "1-2"
-      },
-      "Fusion #178": {
-        "placement": 2,
-        "wins": [
-          {
-            "tag": "Marcus",
-            "numOfWins": 1,
-            "winnerId": [
-              14669748
-            ]
-          },
-          {
-            "tag": "Haze",
-            "numOfWins": 1,
-            "winnerId": [
-              14669748
-            ]
-          },
-          {
-            "tag": "Obmcbob",
-            "numOfWins": 1,
-            "winnerId": [
-              14669748
-            ]
-          },
-          {
-            "tag": "LemonTea",
-            "numOfWins": 1,
-            "winnerId": [
-              14669748
-            ]
-          },
-          {
-            "tag": "Zach",
-            "numOfWins": 1,
-            "winnerId": [
-              14669748
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Marcus",
-            "numOfLosses": 2
-          }
-        ],
-        "record": "5-2"
-      },
-      "Fusion #177": {
-        "placement": 4,
-        "wins": [
-          {
-            "tag": "Meli",
-            "numOfWins": 1,
-            "winnerId": [
-              14599826
-            ]
-          },
-          {
-            "tag": "Undeadbraindead",
-            "numOfWins": 1,
-            "winnerId": [
-              14599826
-            ]
-          },
-          {
-            "tag": "LRA_START",
-            "numOfWins": 1,
-            "winnerId": [
-              14599826
-            ]
-          },
-          {
-            "tag": "Floppyfail",
-            "numOfWins": 1,
-            "winnerId": [
-              14599826
-            ]
-          },
-          {
-            "tag": "stinky3",
-            "numOfWins": 1,
-            "winnerId": [
-              14599826
-            ]
-          },
-          {
-            "tag": "Mr. Moon",
-            "numOfWins": 1,
-            "winnerId": [
-              14599826
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Marcus",
-            "numOfLosses": 2
-          }
-        ],
-        "record": "6-2"
-      },
-      "Fusion #176": {
-        "placement": 13,
-        "wins": [
-          {
-            "tag": "Narrwall",
-            "numOfWins": 1,
-            "winnerId": [
-              14527429
-            ]
-          },
-          {
-            "tag": "Curtle101",
-            "numOfWins": 1,
-            "winnerId": [
-              14527429
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Marvale",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Durial321",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "2-2"
-      },
-      "Fusion #175": {
-        "placement": 5,
-        "wins": [
-          {
-            "tag": "Haze",
-            "numOfWins": 1,
-            "winnerId": [
-              14457763
-            ]
-          },
-          {
-            "tag": "Noku",
-            "numOfWins": 1,
-            "winnerId": [
-              14457763
-            ]
-          },
-          {
-            "tag": "Mr_Mugz",
-            "numOfWins": 1,
-            "winnerId": [
-              14457763
-            ]
-          },
-          {
-            "tag": "stinky3",
-            "numOfWins": 1,
-            "winnerId": [
-              14457763
-            ]
-          },
-          {
-            "tag": "Uchiegoochie",
-            "numOfWins": 1,
-            "winnerId": [
-              14457763
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "LemonTea",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Marvale",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "5-2"
-      },
-      "avgPlacement": 5.5625,
-      "record": "59-28",
-      "winrate": 67.81609195402298
+      "avgPlacement": 5.5,
+      "record": "15-8",
+      "winrate": 65.21739130434783
     },
     "wins": [
       {
-        "tag": "Haze",
-        "numOfWins": 4,
+        "tag": "BeatyBean",
+        "numOfWins": 2,
         "winnerId": [
-          15202057,
-          14985917,
-          14669748,
-          14457763
+          15386930,
+          14914657
         ]
       },
       {
-        "tag": "Marcus",
-        "numOfWins": 4,
+        "tag": "aquaze",
+        "numOfWins": 1,
         "winnerId": [
-          15015619,
-          14985917,
-          14873131,
-          14669748
+          15417049
         ]
       },
       {
-        "tag": "Floppyfail",
-        "numOfWins": 3,
+        "tag": "Ebrima",
+        "numOfWins": 1,
         "winnerId": [
-          15047932,
-          14806334,
-          14599826
+          15386930
+        ]
+      },
+      {
+        "tag": "Ethab Taxi",
+        "numOfWins": 1,
+        "winnerId": [
+          15315207
         ]
       },
       {
         "tag": "Fhantum",
-        "numOfWins": 2,
+        "numOfWins": 1,
         "winnerId": [
-          15208395,
-          15079385
-        ]
-      },
-      {
-        "tag": "Haven",
-        "numOfWins": 2,
-        "winnerId": [
-          15103431,
-          15103431
+          15386930
         ]
       },
       {
         "tag": "Jukain",
-        "numOfWins": 2,
-        "winnerId": [
-          15015619,
-          14935982
-        ]
-      },
-      {
-        "tag": "JustinNOTbyleth",
-        "numOfWins": 2,
-        "winnerId": [
-          15208395,
-          14935982
-        ]
-      },
-      {
-        "tag": "LemonTea",
-        "numOfWins": 2,
-        "winnerId": [
-          14873131,
-          14669748
-        ]
-      },
-      {
-        "tag": "Marvale",
-        "numOfWins": 2,
-        "winnerId": [
-          15208395,
-          15079385
-        ]
-      },
-      {
-        "tag": "Meli",
-        "numOfWins": 2,
-        "winnerId": [
-          15103431,
-          14599826
-        ]
-      },
-      {
-        "tag": "Mr. Moon",
-        "numOfWins": 2,
-        "winnerId": [
-          14985917,
-          14599826
-        ]
-      },
-      {
-        "tag": "Narrwall",
-        "numOfWins": 2,
-        "winnerId": [
-          15130472,
-          14527429
-        ]
-      },
-      {
-        "tag": "Obmcbob",
-        "numOfWins": 2,
-        "winnerId": [
-          15047932,
-          14669748
-        ]
-      },
-      {
-        "tag": "Sobriquet Sola",
-        "numOfWins": 2,
-        "winnerId": [
-          15103431,
-          14873131
-        ]
-      },
-      {
-        "tag": "Steezy",
-        "numOfWins": 2,
-        "winnerId": [
-          15047932,
-          14985917
-        ]
-      },
-      {
-        "tag": "stinky3",
-        "numOfWins": 2,
-        "winnerId": [
-          14599826,
-          14457763
-        ]
-      },
-      {
-        "tag": "Yeast",
-        "numOfWins": 2,
-        "winnerId": [
-          15079385,
-          15015619
-        ]
-      },
-      {
-        "tag": "Apple Reviewer",
         "numOfWins": 1,
         "winnerId": [
-          15152577
+          15417049
         ]
       },
       {
-        "tag": "CandyKongLover1",
+        "tag": "K1NG",
         "numOfWins": 1,
         "winnerId": [
-          15015619
+          15315207
         ]
       },
       {
-        "tag": "Cee",
+        "tag": "KDHD",
         "numOfWins": 1,
         "winnerId": [
-          14961142
-        ]
-      },
-      {
-        "tag": "CrimsonAbe",
-        "numOfWins": 1,
-        "winnerId": [
-          15015619
-        ]
-      },
-      {
-        "tag": "Crystal Latte",
-        "numOfWins": 1,
-        "winnerId": [
-          15152577
-        ]
-      },
-      {
-        "tag": "Curtle101",
-        "numOfWins": 1,
-        "winnerId": [
-          14527429
-        ]
-      },
-      {
-        "tag": "DinoNuggies",
-        "numOfWins": 1,
-        "winnerId": [
-          15163810
-        ]
-      },
-      {
-        "tag": "FinallyRJ",
-        "numOfWins": 1,
-        "winnerId": [
-          14873131
-        ]
-      },
-      {
-        "tag": "g\u00f8n",
-        "numOfWins": 1,
-        "winnerId": [
-          15152577
-        ]
-      },
-      {
-        "tag": "Hareta",
-        "numOfWins": 1,
-        "winnerId": [
-          15208395
-        ]
-      },
-      {
-        "tag": "Jellyfish",
-        "numOfWins": 1,
-        "winnerId": [
-          15163810
-        ]
-      },
-      {
-        "tag": "JesusBread",
-        "numOfWins": 1,
-        "winnerId": [
-          14148076
-        ]
-      },
-      {
-        "tag": "Joshathan Gamer",
-        "numOfWins": 1,
-        "winnerId": [
-          14148076
-        ]
-      },
-      {
-        "tag": "Kazuha",
-        "numOfWins": 1,
-        "winnerId": [
-          15079385
-        ]
-      },
-      {
-        "tag": "LRA_START",
-        "numOfWins": 1,
-        "winnerId": [
-          14599826
+          14914657
         ]
       },
       {
         "tag": "Luigikid64",
         "numOfWins": 1,
         "winnerId": [
-          15130472
+          15386930
         ]
       },
       {
-        "tag": "Moses STRSWAB",
+        "tag": "Lust",
         "numOfWins": 1,
         "winnerId": [
-          15202057
+          15222320
         ]
       },
       {
-        "tag": "MouseRat",
+        "tag": "Luxa",
         "numOfWins": 1,
         "winnerId": [
-          14985917
+          15253051
         ]
       },
       {
-        "tag": "Mr_Mugz",
+        "tag": "LVL6",
         "numOfWins": 1,
         "winnerId": [
-          14457763
+          15417049
         ]
       },
       {
-        "tag": "Noku",
+        "tag": "Marcus",
         "numOfWins": 1,
         "winnerId": [
-          14457763
+          15222320
         ]
       },
       {
-        "tag": "Peco",
+        "tag": "Mellow",
         "numOfWins": 1,
         "winnerId": [
-          14961142
+          15417049
         ]
       },
       {
-        "tag": "Penn",
+        "tag": "ShadowKO",
         "numOfWins": 1,
         "winnerId": [
-          15202057
+          15253051
         ]
       },
       {
-        "tag": "Pharaoh",
+        "tag": "Skitz",
         "numOfWins": 1,
         "winnerId": [
-          15208395
+          14914657
         ]
       },
       {
-        "tag": "Pink Cage",
+        "tag": "slate",
         "numOfWins": 1,
         "winnerId": [
-          14961142
+          15386930
         ]
       },
       {
-        "tag": "RandyMayCrazy",
+        "tag": "SmashBros!",
         "numOfWins": 1,
         "winnerId": [
-          14961142
+          15386930
         ]
       },
       {
-        "tag": "Seel",
+        "tag": "Sobriquet Sola",
         "numOfWins": 1,
         "winnerId": [
-          15103431
+          15417049
         ]
       },
       {
-        "tag": "Space",
+        "tag": "Toni Flamboni",
         "numOfWins": 1,
         "winnerId": [
-          14148076
+          15222320
         ]
       },
       {
-        "tag": "Ubl",
+        "tag": "Vars",
         "numOfWins": 1,
         "winnerId": [
-          14935982
-        ]
-      },
-      {
-        "tag": "Uchiegoochie",
-        "numOfWins": 1,
-        "winnerId": [
-          14457763
-        ]
-      },
-      {
-        "tag": "Undeadbraindead",
-        "numOfWins": 1,
-        "winnerId": [
-          14599826
-        ]
-      },
-      {
-        "tag": "WebbJP",
-        "numOfWins": 1,
-        "winnerId": [
-          14985917
-        ]
-      },
-      {
-        "tag": "Yellow",
-        "numOfWins": 1,
-        "winnerId": [
-          14148076
-        ]
-      },
-      {
-        "tag": "Zach",
-        "numOfWins": 1,
-        "winnerId": [
-          14669748
+          15222320
         ]
       }
     ],
     "noteableWins": [
       {
-        "tag": "Meli",
-        "rank": 10,
-        "region": "NYC",
-        "numOfWins": 2
-      },
-      {
-        "tag": "Apple Reviewer",
-        "rank": 10,
+        "tag": "Luxa",
+        "rank": 15,
         "region": "New England",
-        "numOfWins": 1
-      },
-      {
-        "tag": "Cee",
-        "rank": 11,
-        "region": "NYC",
-        "numOfWins": 1
-      },
-      {
-        "tag": "LRA_START",
-        "rank": 14,
-        "region": "NYC",
-        "numOfWins": 1
-      },
-      {
-        "tag": "Yellow",
-        "rank": 14,
-        "region": "Philly",
         "numOfWins": 1
       }
     ],
     "losses": [
       {
+        "tag": "Luigikid64",
+        "numOfLosses": 2
+      },
+      {
         "tag": "Marcus",
-        "numOfLosses": 7
-      },
-      {
-        "tag": "Marvale",
-        "numOfLosses": 4
-      },
-      {
-        "tag": "Pharaoh",
-        "numOfLosses": 3
-      },
-      {
-        "tag": "Syrup",
-        "numOfLosses": 3
-      },
-      {
-        "tag": "Dabuz",
-        "numOfLosses": 2
-      },
-      {
-        "tag": "Jakal",
-        "numOfLosses": 2
-      },
-      {
-        "tag": "Mateo",
-        "numOfLosses": 2
-      },
-      {
-        "tag": "Sumgai",
         "numOfLosses": 2
       },
       {
@@ -1224,40 +438,52 @@
         "numOfLosses": 1
       },
       {
-        "tag": "Durial321",
+        "tag": "Haven",
         "numOfLosses": 1
       },
       {
-        "tag": "Jackson Storm",
+        "tag": "Hispanic! At The Disco",
         "numOfLosses": 1
       },
       {
-        "tag": "Jon",
+        "tag": "Pink Cage",
         "numOfLosses": 1
       },
       {
-        "tag": "LemonTea",
+        "tag": "Regalo",
         "numOfLosses": 1
       },
       {
-        "tag": "SmashBros!",
+        "tag": "Sonix",
         "numOfLosses": 1
       },
       {
-        "tag": "Undeadbraindead",
+        "tag": "Sumgai",
         "numOfLosses": 1
       },
       {
-        "tag": "Zomba",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "\ud50c\ub808\uc774\uc5b4 4",
+        "tag": "WebbJP",
         "numOfLosses": 1
       }
     ],
-    "record": "72-34",
-    "winrate": 67.9245283018868
+    "mostRecentSet": {
+      "displayScore": "Marcus 3 - Deltaforce 2",
+      "winnerId": 15418188,
+      "event": {
+        "id": 1059377,
+        "name": "Ultimate Singles",
+        "videogame": {
+          "id": 1386
+        },
+        "tournament": {
+          "name": "Fusion #189"
+        },
+        "startAt": 1705968000,
+        "isOnline": false,
+        "numEntrants": 34
+      }
+    },
+    "record": "22-12"
   },
   "Marvale": {
     "PlayerName": "Marvale",
@@ -1266,393 +492,88 @@
       "The Touchers"
     ],
     "eligible": true,
-    "Tier5Brackets": {},
-    "Tier4Brackets": {},
-    "Tier3Brackets": {},
-    "Tier2Brackets": {
-      "Fireside Open 2023": {
-        "placement": 13,
+    "Tier5Brackets": {
+      "Luminosity Makes BIG Moves 2024": {
+        "placement": 97,
         "wins": [
           {
-            "tag": "Yeast",
+            "tag": "HENRY LUMA",
             "numOfWins": 1,
             "winnerId": [
-              14978032
+              14946376
             ]
           },
           {
-            "tag": "Jukain",
+            "tag": "Numera",
             "numOfWins": 1,
             "winnerId": [
-              14978032
+              14946376
             ]
           },
           {
-            "tag": "TheFRaiderK",
+            "tag": "Luigikid64",
             "numOfWins": 1,
             "winnerId": [
-              14978032
+              14946376
             ]
           },
           {
-            "tag": "MarioManiac88",
+            "tag": "Jebus",
             "numOfWins": 1,
             "winnerId": [
-              14978032
+              14946376
             ]
           }
         ],
         "losses": [
           {
-            "tag": "SmashBros!",
+            "tag": "JeJaJeJa",
             "numOfLosses": 1
           },
           {
-            "tag": "Syrup",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "4-2"
-      },
-      "STARGATE #49 Season 5 Premiere! UP TO $1000 Pot Bonus SSBU / $100 SF6 / $100 HDR": {
-        "placement": 49,
-        "wins": [],
-        "losses": []
-      },
-      "Failsafe Fall 2023": {
-        "placement": 25,
-        "wins": [
-          {
-            "tag": "Noku",
-            "numOfWins": 1,
-            "winnerId": [
-              14576232
-            ]
-          },
-          {
-            "tag": "Peco",
-            "numOfWins": 1,
-            "winnerId": [
-              14576232
-            ]
-          },
-          {
-            "tag": "Micro",
-            "numOfWins": 1,
-            "winnerId": [
-              14576232
-            ]
-          },
-          {
-            "tag": "Diamond",
-            "numOfWins": 1,
-            "winnerId": [
-              14576232
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "\ud50c\ub808\uc774\uc5b4 4",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "MPg",
+            "tag": "Amalgam8ion",
             "numOfLosses": 1
           }
         ],
         "record": "4-2"
       },
-      "avgPlacement": 19.0,
-      "record": "8-4",
+      "avgPlacement": 97.0,
+      "record": "4-2",
       "winrate": 66.66666666666666
     },
+    "Tier4Brackets": {},
+    "Tier3Brackets": {},
+    "Tier2Brackets": {},
     "Tier1Brackets": {
-      "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR": {
-        "placement": 5,
-        "wins": [
-          {
-            "tag": "SmashBros!",
-            "numOfWins": 1,
-            "winnerId": [
-              15208124
-            ]
-          },
-          {
-            "tag": "Krugbo",
-            "numOfWins": 1,
-            "winnerId": [
-              15208124
-            ]
-          },
-          {
-            "tag": "RuskiNurd",
-            "numOfWins": 1,
-            "winnerId": [
-              15208124
-            ]
-          },
-          {
-            "tag": "Scuffed",
-            "numOfWins": 1,
-            "winnerId": [
-              15208124
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Deltaforce",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Pharaoh",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "4-2"
-      },
-      "Fusion #185": {
+      "Fusion #187": {
         "placement": 3,
         "wins": [
           {
-            "tag": "Mateo",
-            "numOfWins": 2,
-            "winnerId": [
-              15152692,
-              15152692
-            ]
-          },
-          {
-            "tag": "LemonTea",
-            "numOfWins": 1,
-            "winnerId": [
-              15152692
-            ]
-          },
-          {
-            "tag": "Synnister",
-            "numOfWins": 1,
-            "winnerId": [
-              15152692
-            ]
-          },
-          {
-            "tag": "koala cub",
-            "numOfWins": 1,
-            "winnerId": [
-              15152692
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Marcus",
-            "numOfLosses": 1
-          },
-          {
             "tag": "Jakal",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "5-2"
-      },
-      "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
-        "placement": 7,
-        "wins": [
-          {
-            "tag": "TabSoda",
             "numOfWins": 1,
             "winnerId": [
-              15120143
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Dabuz",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "SmashBros!",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "1-2"
-      },
-      "Fusion #184": {
-        "placement": 7,
-        "wins": [
-          {
-            "tag": "Seel",
-            "numOfWins": 1,
-            "winnerId": [
-              15101058
+              15278347
             ]
           },
           {
-            "tag": "YoBBi",
+            "tag": "JustinNOTbyleth",
             "numOfWins": 1,
             "winnerId": [
-              15101058
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Marcus",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Sobriquet Sola",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "2-2"
-      },
-      "Stargate #50 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
-        "placement": 5,
-        "wins": [
-          {
-            "tag": "Kamex",
-            "numOfWins": 1,
-            "winnerId": [
-              15066661
+              15278347
             ]
           },
           {
-            "tag": "CrimsonAbe",
+            "tag": "Fhantum",
             "numOfWins": 1,
             "winnerId": [
-              15066661
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Sumgai",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Deltaforce",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "2-2"
-      },
-      "Fusion #183": {
-        "placement": 5,
-        "wins": [
-          {
-            "tag": "Haven",
-            "numOfWins": 1,
-            "winnerId": [
-              15044961
-            ]
-          },
-          {
-            "tag": "ram",
-            "numOfWins": 1,
-            "winnerId": [
-              15044961
+              15278347
             ]
           },
           {
             "tag": "Kelvin",
             "numOfWins": 1,
             "winnerId": [
-              15044961
-            ]
-          },
-          {
-            "tag": "Mr. Moon",
-            "numOfWins": 1,
-            "winnerId": [
-              15044961
-            ]
-          },
-          {
-            "tag": "SnoopDan",
-            "numOfWins": 1,
-            "winnerId": [
-              15044961
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Haze",
-            "numOfLosses": 2
-          }
-        ],
-        "record": "5-2"
-      },
-      "Fusion #182": {
-        "placement": 7,
-        "wins": [
-          {
-            "tag": "Jukain",
-            "numOfWins": 1,
-            "winnerId": [
-              14984096
-            ]
-          },
-          {
-            "tag": "SmashBros!",
-            "numOfWins": 1,
-            "winnerId": [
-              14984096
-            ]
-          },
-          {
-            "tag": "R0Steve",
-            "numOfWins": 1,
-            "winnerId": [
-              14984096
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Marcus",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "MouseRat",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "3-2"
-      },
-      "Fusion #181": {
-        "placement": 5,
-        "wins": [
-          {
-            "tag": "Squidplumber",
-            "numOfWins": 1,
-            "winnerId": [
-              14929996
-            ]
-          },
-          {
-            "tag": "CRB",
-            "numOfWins": 1,
-            "winnerId": [
-              14929996
-            ]
-          },
-          {
-            "tag": "LemonTea",
-            "numOfWins": 1,
-            "winnerId": [
-              14929996
-            ]
-          },
-          {
-            "tag": "mt",
-            "numOfWins": 1,
-            "winnerId": [
-              14929996
+              15278347
             ]
           }
         ],
@@ -1662,453 +583,163 @@
             "numOfLosses": 1
           },
           {
-            "tag": "Rivers",
+            "tag": "Mateo",
             "numOfLosses": 1
           }
         ],
         "record": "4-2"
       },
-      "Fusion #180": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Deltaforce",
-            "numOfWins": 1
-          },
-          {
-            "tag": "Sobriquet Sola",
-            "numOfWins": 1,
-            "winnerId": [
-              14871692
-            ]
-          },
-          {
-            "tag": "Jukain",
-            "numOfWins": 1,
-            "winnerId": [
-              14871692
-            ]
-          },
-          {
-            "tag": "LemonTea",
-            "numOfWins": 1,
-            "winnerId": [
-              14871692
-            ]
-          },
-          {
-            "tag": "Kelvin",
-            "numOfWins": 1,
-            "winnerId": [
-              14871692
-            ]
-          },
-          {
-            "tag": "Obmcbob",
-            "numOfWins": 1,
-            "winnerId": [
-              14871692
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Sobriquet Sola",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "6-1"
-      },
-      "Fusion #179": {
-        "placement": 5,
-        "wins": [
-          {
-            "tag": "Undeadbraindead",
-            "numOfWins": 1,
-            "winnerId": [
-              14806746
-            ]
-          },
-          {
-            "tag": "Fabiio",
-            "numOfWins": 1,
-            "winnerId": [
-              14806746
-            ]
-          },
-          {
-            "tag": "Sobriquet Sola",
-            "numOfWins": 1,
-            "winnerId": [
-              14806746
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Marcus",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Jakal",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "3-2"
-      },
-      "Fusion #176": {
+      "Center Stage King of Kings Invitational": {
         "placement": 9,
         "wins": [
           {
-            "tag": "Deltaforce",
+            "tag": "Biddy",
             "numOfWins": 1,
             "winnerId": [
-              14525169
+              15244682
             ]
           },
           {
-            "tag": "Obmcbob",
+            "tag": "Rayne",
             "numOfWins": 1,
             "winnerId": [
-              14525169
+              15244682
             ]
           }
         ],
         "losses": [
           {
-            "tag": "WebbJP",
+            "tag": "Luminous!",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Lucky",
             "numOfLosses": 1
           }
         ],
-        "record": "2-1"
+        "record": "2-2"
       },
-      "avgPlacement": 5.363636363636363,
-      "record": "37-20",
-      "winrate": 64.91228070175438
+      "avgPlacement": 6.0,
+      "record": "6-4",
+      "winrate": 60.0
     },
     "wins": [
       {
-        "tag": "Deltaforce",
-        "numOfWins": 3,
+        "tag": "Biddy",
+        "numOfWins": 1,
         "winnerId": [
-          14871692,
-          14871692,
-          14525169
+          15244682
         ]
       },
       {
-        "tag": "Jukain",
-        "numOfWins": 3,
+        "tag": "Fhantum",
+        "numOfWins": 1,
         "winnerId": [
-          14978032,
-          14984096,
-          14871692
+          15278347
         ]
       },
       {
-        "tag": "LemonTea",
-        "numOfWins": 3,
+        "tag": "HENRY LUMA",
+        "numOfWins": 1,
         "winnerId": [
-          15152692,
-          14929996,
-          14871692
+          14946376
+        ]
+      },
+      {
+        "tag": "Jakal",
+        "numOfWins": 1,
+        "winnerId": [
+          15278347
+        ]
+      },
+      {
+        "tag": "Jebus",
+        "numOfWins": 1,
+        "winnerId": [
+          14946376
+        ]
+      },
+      {
+        "tag": "JustinNOTbyleth",
+        "numOfWins": 1,
+        "winnerId": [
+          15278347
         ]
       },
       {
         "tag": "Kelvin",
-        "numOfWins": 2,
-        "winnerId": [
-          15044961,
-          14871692
-        ]
-      },
-      {
-        "tag": "Mateo",
-        "numOfWins": 2,
-        "winnerId": [
-          15152692,
-          15152692
-        ]
-      },
-      {
-        "tag": "Obmcbob",
-        "numOfWins": 2,
-        "winnerId": [
-          14871692,
-          14525169
-        ]
-      },
-      {
-        "tag": "SmashBros!",
-        "numOfWins": 2,
-        "winnerId": [
-          15208124,
-          14984096
-        ]
-      },
-      {
-        "tag": "Sobriquet Sola",
-        "numOfWins": 2,
-        "winnerId": [
-          14871692,
-          14806746
-        ]
-      },
-      {
-        "tag": "CRB",
         "numOfWins": 1,
         "winnerId": [
-          14929996
+          15278347
         ]
       },
       {
-        "tag": "CrimsonAbe",
+        "tag": "Luigikid64",
         "numOfWins": 1,
         "winnerId": [
-          15066661
+          14946376
         ]
       },
       {
-        "tag": "Diamond",
+        "tag": "Numera",
         "numOfWins": 1,
         "winnerId": [
-          14576232
+          14946376
         ]
       },
       {
-        "tag": "Fabiio",
+        "tag": "Rayne",
         "numOfWins": 1,
         "winnerId": [
-          14806746
-        ]
-      },
-      {
-        "tag": "Haven",
-        "numOfWins": 1,
-        "winnerId": [
-          15044961
-        ]
-      },
-      {
-        "tag": "Kamex",
-        "numOfWins": 1,
-        "winnerId": [
-          15066661
-        ]
-      },
-      {
-        "tag": "koala cub",
-        "numOfWins": 1,
-        "winnerId": [
-          15152692
-        ]
-      },
-      {
-        "tag": "Krugbo",
-        "numOfWins": 1,
-        "winnerId": [
-          15208124
-        ]
-      },
-      {
-        "tag": "MarioManiac88",
-        "numOfWins": 1,
-        "winnerId": [
-          14978032
-        ]
-      },
-      {
-        "tag": "Micro",
-        "numOfWins": 1,
-        "winnerId": [
-          14576232
-        ]
-      },
-      {
-        "tag": "Mr. Moon",
-        "numOfWins": 1,
-        "winnerId": [
-          15044961
-        ]
-      },
-      {
-        "tag": "mt",
-        "numOfWins": 1,
-        "winnerId": [
-          14929996
-        ]
-      },
-      {
-        "tag": "Noku",
-        "numOfWins": 1,
-        "winnerId": [
-          14576232
-        ]
-      },
-      {
-        "tag": "Peco",
-        "numOfWins": 1,
-        "winnerId": [
-          14576232
-        ]
-      },
-      {
-        "tag": "R0Steve",
-        "numOfWins": 1,
-        "winnerId": [
-          14984096
-        ]
-      },
-      {
-        "tag": "ram",
-        "numOfWins": 1,
-        "winnerId": [
-          15044961
-        ]
-      },
-      {
-        "tag": "RuskiNurd",
-        "numOfWins": 1,
-        "winnerId": [
-          15208124
-        ]
-      },
-      {
-        "tag": "Scuffed",
-        "numOfWins": 1,
-        "winnerId": [
-          15208124
-        ]
-      },
-      {
-        "tag": "Seel",
-        "numOfWins": 1,
-        "winnerId": [
-          15101058
-        ]
-      },
-      {
-        "tag": "SnoopDan",
-        "numOfWins": 1,
-        "winnerId": [
-          15044961
-        ]
-      },
-      {
-        "tag": "Squidplumber",
-        "numOfWins": 1,
-        "winnerId": [
-          14929996
-        ]
-      },
-      {
-        "tag": "Synnister",
-        "numOfWins": 1,
-        "winnerId": [
-          15152692
-        ]
-      },
-      {
-        "tag": "TabSoda",
-        "numOfWins": 1,
-        "winnerId": [
-          15120143
-        ]
-      },
-      {
-        "tag": "TheFRaiderK",
-        "numOfWins": 1,
-        "winnerId": [
-          14978032
-        ]
-      },
-      {
-        "tag": "Undeadbraindead",
-        "numOfWins": 1,
-        "winnerId": [
-          14806746
-        ]
-      },
-      {
-        "tag": "Yeast",
-        "numOfWins": 1,
-        "winnerId": [
-          14978032
-        ]
-      },
-      {
-        "tag": "YoBBi",
-        "numOfWins": 1,
-        "winnerId": [
-          15101058
+          15244682
         ]
       }
     ],
     "noteableWins": [],
     "losses": [
       {
-        "tag": "Marcus",
-        "numOfLosses": 4
+        "tag": "Amalgam8ion",
+        "numOfLosses": 1
       },
       {
-        "tag": "Deltaforce",
-        "numOfLosses": 2
+        "tag": "JeJaJeJa",
+        "numOfLosses": 1
       },
       {
-        "tag": "Haze",
-        "numOfLosses": 2
+        "tag": "Lucky",
+        "numOfLosses": 1
       },
       {
-        "tag": "Jakal",
-        "numOfLosses": 2
+        "tag": "Luminous!",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Mateo",
+        "numOfLosses": 1
       },
       {
         "tag": "Pharaoh",
-        "numOfLosses": 2
-      },
-      {
-        "tag": "SmashBros!",
-        "numOfLosses": 2
-      },
-      {
-        "tag": "Sobriquet Sola",
-        "numOfLosses": 2
-      },
-      {
-        "tag": "Dabuz",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "MouseRat",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "MPg",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Rivers",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Sumgai",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Syrup",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "WebbJP",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "\ud50c\ub808\uc774\uc5b4 4",
         "numOfLosses": 1
       }
     ],
-    "record": "45-24",
-    "winrate": 65.21739130434783
+    "mostRecentSet": {
+      "displayScore": "Justice 2 - TR | MBeniS | Marvale 1",
+      "winnerId": 15295342,
+      "event": {
+        "id": 1049433,
+        "name": "Ultimate Singles",
+        "videogame": {
+          "id": 1386
+        },
+        "tournament": {
+          "name": "The Coinbox #87"
+        },
+        "startAt": 1705532400,
+        "isOnline": true,
+        "numEntrants": 1024
+      }
+    },
+    "record": "10-6"
   },
   "Syrup": {
     "PlayerName": "Syrup",
@@ -2116,1366 +747,250 @@
       "MBS | Syrup",
       "The Touchers"
     ],
-    "eligible": true,
+    "eligible": false,
     "Tier5Brackets": {
-      "The Big House 11": {
-        "placement": 2,
+      "Luminosity Makes BIG Moves 2024": {
+        "placement": 25,
         "wins": [
           {
-            "tag": "Pocket",
+            "tag": "Epic_Gabriel",
             "numOfWins": 1,
             "winnerId": [
-              14287647
+              14778987
             ]
           },
           {
-            "tag": "Mr. E",
+            "tag": "frawg",
             "numOfWins": 1,
             "winnerId": [
-              14287647
+              14778987
             ]
           },
           {
             "tag": "Lucky",
             "numOfWins": 1,
             "winnerId": [
-              14287647
+              14778987
             ]
           },
           {
-            "tag": "rydra",
+            "tag": "GrlyTeenQueen",
             "numOfWins": 1,
             "winnerId": [
-              14287647
+              14778987
             ]
           },
           {
-            "tag": "Soar",
+            "tag": "Peco",
             "numOfWins": 1,
             "winnerId": [
-              14287647
+              14778987
             ]
           },
           {
-            "tag": "SoGoodPop",
+            "tag": "Absol",
             "numOfWins": 1,
             "winnerId": [
-              14287647
-            ]
-          },
-          {
-            "tag": "GUMMY",
-            "numOfWins": 1,
-            "winnerId": [
-              14287647
-            ]
-          },
-          {
-            "tag": "WhatsAKingToAGod",
-            "numOfWins": 1,
-            "winnerId": [
-              14287647
-            ]
-          },
-          {
-            "tag": "Haunting",
-            "numOfWins": 1,
-            "winnerId": [
-              14287647
+              14778987
             ]
           }
         ],
         "losses": [
           {
-            "tag": "Pocket",
-            "numOfLosses": 2
+            "tag": "MuteAce",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Monte",
+            "numOfLosses": 1
           }
-        ],
-        "record": "9-2"
-      },
-      "avgPlacement": 2.0,
-      "record": "9-2",
-      "winrate": 81.81818181818183
+        ]
+      }
     },
     "Tier4Brackets": {},
     "Tier3Brackets": {
-      "Santa Paws": {
-        "placement": 9,
+      "BrookLAN Brawls #100": {
+        "placement": 4,
         "wins": [
-          {
-            "tag": "ESAM",
-            "numOfWins": 1,
-            "winnerId": [
-              13636159
-            ]
-          },
-          {
-            "tag": "Tavares",
-            "numOfWins": 1,
-            "winnerId": [
-              13636159
-            ]
-          },
-          {
-            "tag": "Knite",
-            "numOfWins": 1,
-            "winnerId": [
-              13636159
-            ]
-          },
-          {
-            "tag": "Salvo",
-            "numOfWins": 1,
-            "winnerId": [
-              13636159
-            ]
-          },
-          {
-            "tag": "Huevos",
-            "numOfWins": 1,
-            "winnerId": [
-              13636159
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Anathema",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "BeastModePaul",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "5-2"
-      },
-      "B-Airs #400 | $1K Pot Bonus BTier Local Feat. Zomba, Jakal, Tilde, Goblin & more": {
-        "placement": 7,
-        "wins": [
-          {
-            "tag": "DTP",
-            "numOfWins": 1,
-            "winnerId": [
-              14329236
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Zomba",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "1-1"
-      },
-      "avgPlacement": 8.0,
-      "record": "6-3",
-      "winrate": 66.66666666666666
-    },
-    "Tier2Brackets": {
-      "Fireside Open 2023": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Jakal",
-            "numOfWins": 2,
-            "winnerId": [
-              14967130,
-              14967130
-            ]
-          },
-          {
-            "tag": "LeoN",
-            "numOfWins": 1,
-            "winnerId": [
-              14967130
-            ]
-          },
-          {
-            "tag": "Jon",
-            "numOfWins": 1,
-            "winnerId": [
-              14967130
-            ]
-          },
-          {
-            "tag": "WebbJP",
-            "numOfWins": 1,
-            "winnerId": [
-              14967130
-            ]
-          },
-          {
-            "tag": "ConCon",
-            "numOfWins": 1,
-            "winnerId": [
-              14967130
-            ]
-          },
-          {
-            "tag": "Marvale",
-            "numOfWins": 1,
-            "winnerId": [
-              14967130
-            ]
-          },
-          {
-            "tag": "DinoNuggies",
-            "numOfWins": 1,
-            "winnerId": [
-              14967130
-            ]
-          },
-          {
-            "tag": "yogert",
-            "numOfWins": 1,
-            "winnerId": [
-              14967130
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "LeoN",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "9-1"
-      },
-      "Ultra HoG 1": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Light",
-            "numOfWins": 2,
-            "winnerId": [
-              14858892,
-              14858892
-            ]
-          },
-          {
-            "tag": "Jakal",
-            "numOfWins": 1,
-            "winnerId": [
-              14858892
-            ]
-          },
-          {
-            "tag": "Mr. E",
-            "numOfWins": 1,
-            "winnerId": [
-              14858892
-            ]
-          },
-          {
-            "tag": "TheActuary",
-            "numOfWins": 1,
-            "winnerId": [
-              14858892
-            ]
-          },
-          {
-            "tag": "\ud50c\ub808\uc774\uc5b4 4",
-            "numOfWins": 1,
-            "winnerId": [
-              14858892
-            ]
-          },
-          {
-            "tag": "Sh0wers",
-            "numOfWins": 1,
-            "winnerId": [
-              14858892
-            ]
-          }
-        ],
-        "losses": [],
-        "record": "7-0"
-      },
-      "BrookLAN Brawls #91: A Smash Ultimate Weekly Series": {
-        "placement": 5,
-        "wins": [
-          {
-            "tag": "G-XTREME",
-            "numOfWins": 1,
-            "winnerId": [
-              14587649
-            ]
-          },
-          {
-            "tag": "Cee",
-            "numOfWins": 1,
-            "winnerId": [
-              14587649
-            ]
-          },
-          {
-            "tag": "pret",
-            "numOfWins": 1,
-            "winnerId": [
-              14587649
-            ]
-          },
-          {
-            "tag": "Reed",
-            "numOfWins": 1,
-            "winnerId": [
-              14587649
-            ]
-          },
-          {
-            "tag": "QueVeen",
-            "numOfWins": 1,
-            "winnerId": [
-              14587649
-            ]
-          },
-          {
-            "tag": "Violet",
-            "numOfWins": 1,
-            "winnerId": [
-              14587649
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Gen",
-            "numOfLosses": 1
-          },
           {
             "tag": "Meli",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "6-2"
-      },
-      "Failsafe Fall 2023": {
-        "placement": 2,
-        "wins": [
-          {
-            "tag": "MPg",
             "numOfWins": 1,
             "winnerId": [
-              14381362
+              15290617
             ]
           },
           {
-            "tag": "Vivi",
+            "tag": "Smirk",
             "numOfWins": 1,
             "winnerId": [
-              14381362
-            ]
-          },
-          {
-            "tag": "PkChris",
-            "numOfWins": 1,
-            "winnerId": [
-              14381362
-            ]
-          },
-          {
-            "tag": "Karflo",
-            "numOfWins": 1,
-            "winnerId": [
-              14381362
-            ]
-          },
-          {
-            "tag": "Noku",
-            "numOfWins": 1,
-            "winnerId": [
-              14381362
-            ]
-          },
-          {
-            "tag": "Hoo D. Nii",
-            "numOfWins": 1,
-            "winnerId": [
-              14381362
-            ]
-          },
-          {
-            "tag": "Kenzo",
-            "numOfWins": 1,
-            "winnerId": [
-              14381362
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Zomba",
-            "numOfLosses": 2
-          }
-        ],
-        "record": "7-2"
-      },
-      "avgPlacement": 2.25,
-      "record": "29-5",
-      "winrate": 85.29411764705883
-    },
-    "Tier1Brackets": {
-      "PBJ Presents: Holiday Palooza 2023!": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Tweek",
-            "numOfWins": 2,
-            "winnerId": [
-              15194161,
-              15194161
-            ]
-          },
-          {
-            "tag": "Pharaoh",
-            "numOfWins": 1,
-            "winnerId": [
-              15194161
-            ]
-          },
-          {
-            "tag": "Haze",
-            "numOfWins": 2,
-            "winnerId": [
-              15194161,
-              15194161
-            ]
-          },
-          {
-            "tag": "boosk",
-            "numOfWins": 1,
-            "winnerId": [
-              15194161
-            ]
-          },
-          {
-            "tag": "Hoo D. Nii",
-            "numOfWins": 1,
-            "winnerId": [
-              15194161
-            ]
-          },
-          {
-            "tag": "Blackmoon",
-            "numOfWins": 1,
-            "winnerId": [
-              15194161
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Pharaoh",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "8-1"
-      },
-      "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Deltaforce",
-            "numOfWins": 2,
-            "winnerId": [
-              15208308,
-              15208308
-            ]
-          },
-          {
-            "tag": "Pharaoh",
-            "numOfWins": 1,
-            "winnerId": [
-              15208308
-            ]
-          },
-          {
-            "tag": "Pink Cage",
-            "numOfWins": 1,
-            "winnerId": [
-              15208308
-            ]
-          },
-          {
-            "tag": "Kendon",
-            "numOfWins": 1,
-            "winnerId": [
-              15208308
-            ]
-          },
-          {
-            "tag": "aceythe",
-            "numOfWins": 1,
-            "winnerId": [
-              15208308
-            ]
-          }
-        ],
-        "losses": [],
-        "record": "6-0"
-      },
-      "Undiscovered Turbo #4 ft. $100 POT BONUS (Undiscovered Smash #282)": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Quidd",
-            "numOfWins": 2,
-            "winnerId": [
-              15190694,
-              15190694
-            ]
-          },
-          {
-            "tag": "Ling",
-            "numOfWins": 1,
-            "winnerId": [
-              15190694
-            ]
-          },
-          {
-            "tag": "Bobo",
-            "numOfWins": 1,
-            "winnerId": [
-              15190694
-            ]
-          },
-          {
-            "tag": "Infernape",
-            "numOfWins": 1,
-            "winnerId": [
-              15190694
-            ]
-          },
-          {
-            "tag": "TFO256",
-            "numOfWins": 1,
-            "winnerId": [
-              15190694
-            ]
-          }
-        ],
-        "losses": [],
-        "record": "6-0"
-      },
-      "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
-        "placement": 2,
-        "wins": [
-          {
-            "tag": "BeatyBean",
-            "numOfWins": 1,
-            "winnerId": [
-              15175663
-            ]
-          },
-          {
-            "tag": "Sumgai",
-            "numOfWins": 1,
-            "winnerId": [
-              15175663
-            ]
-          },
-          {
-            "tag": "Fhantum",
-            "numOfWins": 1,
-            "winnerId": [
-              15175663
-            ]
-          },
-          {
-            "tag": "30 SECONDS TO MARTH",
-            "numOfWins": 1,
-            "winnerId": [
-              15175663
-            ]
-          },
-          {
-            "tag": "WrongHouse",
-            "numOfWins": 1,
-            "winnerId": [
-              15175663
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Zomba",
-            "numOfLosses": 2
-          }
-        ],
-        "record": "5-2"
-      },
-      "STARGATE #51 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Dabuz",
-            "numOfWins": 1,
-            "winnerId": [
-              15127848
-            ]
-          },
-          {
-            "tag": "Pink Cage",
-            "numOfWins": 1,
-            "winnerId": [
-              15127848
-            ]
-          },
-          {
-            "tag": "Deltaforce",
-            "numOfWins": 1,
-            "winnerId": [
-              15127848
-            ]
-          },
-          {
-            "tag": "Fhantum",
-            "numOfWins": 1,
-            "winnerId": [
-              15127848
-            ]
-          },
-          {
-            "tag": "1R",
-            "numOfWins": 1,
-            "winnerId": [
-              15127848
-            ]
-          }
-        ],
-        "losses": [],
-        "record": "5-0"
-      },
-      "Fusion #183": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Pharaoh",
-            "numOfWins": 2,
-            "winnerId": [
-              15047691,
-              15047691
-            ]
-          },
-          {
-            "tag": "Marcus",
-            "numOfWins": 1,
-            "winnerId": [
-              15047691
-            ]
-          },
-          {
-            "tag": "ram",
-            "numOfWins": 1,
-            "winnerId": [
-              15047691
-            ]
-          },
-          {
-            "tag": "ToneSone",
-            "numOfWins": 1,
-            "winnerId": [
-              15047691
-            ]
-          }
-        ],
-        "losses": [],
-        "record": "5-0"
-      },
-      "Fusion #179": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Jakal",
-            "numOfWins": 1,
-            "winnerId": [
-              14807459
-            ]
-          },
-          {
-            "tag": "WebbJP",
-            "numOfWins": 1,
-            "winnerId": [
-              14807459
-            ]
-          },
-          {
-            "tag": "Marcus",
-            "numOfWins": 1,
-            "winnerId": [
-              14807459
+              15290617
             ]
           },
           {
             "tag": "SmashBros!",
             "numOfWins": 1,
             "winnerId": [
-              14807459
+              15290617
             ]
           },
           {
-            "tag": "OmniElement",
+            "tag": "EJJ",
             "numOfWins": 1,
             "winnerId": [
-              14807459
+              15290617
+            ]
+          },
+          {
+            "tag": "Lonesome",
+            "numOfWins": 1,
+            "winnerId": [
+              15290617
+            ]
+          },
+          {
+            "tag": "Lumikade",
+            "numOfWins": 1,
+            "winnerId": [
+              15290617
             ]
           }
         ],
         "losses": [
           {
-            "tag": "Jakal",
+            "tag": "Zomba",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "GuyGuy",
             "numOfLosses": 1
           }
-        ],
-        "record": "5-1"
-      },
-      "Fusion #176": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Jakal",
-            "numOfWins": 1
-          },
-          {
-            "tag": "Haven",
-            "numOfWins": 1,
-            "winnerId": [
-              14526411
-            ]
-          },
-          {
-            "tag": "Haze",
-            "numOfWins": 1,
-            "winnerId": [
-              14526411
-            ]
-          },
-          {
-            "tag": "QueVeen",
-            "numOfWins": 1,
-            "winnerId": [
-              14526411
-            ]
-          },
-          {
-            "tag": "ChanelWestCoast",
-            "numOfWins": 1,
-            "winnerId": [
-              14526411
-            ]
-          }
-        ],
-        "losses": [],
-        "record": "5-0"
-      },
-      "avgPlacement": 1.125,
-      "record": "45-4",
-      "winrate": 91.83673469387756
+        ]
+      }
     },
+    "Tier2Brackets": {},
+    "Tier1Brackets": {},
     "wins": [
       {
-        "tag": "Jakal",
-        "numOfWins": 6,
-        "winnerId": [
-          14967130,
-          14967130,
-          14858892,
-          14807459,
-          14526411,
-          14526411
-        ]
-      },
-      {
-        "tag": "Pharaoh",
-        "numOfWins": 4,
-        "winnerId": [
-          15194161,
-          15208308,
-          15047691,
-          15047691
-        ]
-      },
-      {
-        "tag": "Deltaforce",
-        "numOfWins": 3,
-        "winnerId": [
-          15208308,
-          15208308,
-          15127848
-        ]
-      },
-      {
-        "tag": "Haze",
-        "numOfWins": 3,
-        "winnerId": [
-          15194161,
-          15194161,
-          14526411
-        ]
-      },
-      {
-        "tag": "Fhantum",
-        "numOfWins": 2,
-        "winnerId": [
-          15175663,
-          15127848
-        ]
-      },
-      {
-        "tag": "Hoo D. Nii",
-        "numOfWins": 2,
-        "winnerId": [
-          15194161,
-          14381362
-        ]
-      },
-      {
-        "tag": "Light",
-        "numOfWins": 2,
-        "winnerId": [
-          14858892,
-          14858892
-        ]
-      },
-      {
-        "tag": "Marcus",
-        "numOfWins": 2,
-        "winnerId": [
-          15047691,
-          14807459
-        ]
-      },
-      {
-        "tag": "Mr. E",
-        "numOfWins": 2,
-        "winnerId": [
-          14858892,
-          14287647
-        ]
-      },
-      {
-        "tag": "Pink Cage",
-        "numOfWins": 2,
-        "winnerId": [
-          15208308,
-          15127848
-        ]
-      },
-      {
-        "tag": "QueVeen",
-        "numOfWins": 2,
-        "winnerId": [
-          14587649,
-          14526411
-        ]
-      },
-      {
-        "tag": "Quidd",
-        "numOfWins": 2,
-        "winnerId": [
-          15190694,
-          15190694
-        ]
-      },
-      {
-        "tag": "Tweek",
-        "numOfWins": 2,
-        "winnerId": [
-          15194161,
-          15194161
-        ]
-      },
-      {
-        "tag": "WebbJP",
-        "numOfWins": 2,
-        "winnerId": [
-          14967130,
-          14807459
-        ]
-      },
-      {
-        "tag": "1R",
+        "tag": "Absol",
         "numOfWins": 1,
         "winnerId": [
-          15127848
+          14778987
         ]
       },
       {
-        "tag": "30 SECONDS TO MARTH",
+        "tag": "EJJ",
         "numOfWins": 1,
         "winnerId": [
-          15175663
+          15290617
         ]
       },
       {
-        "tag": "aceythe",
+        "tag": "Epic_Gabriel",
         "numOfWins": 1,
         "winnerId": [
-          15208308
+          14778987
         ]
       },
       {
-        "tag": "BeatyBean",
+        "tag": "frawg",
         "numOfWins": 1,
         "winnerId": [
-          15175663
+          14778987
         ]
       },
       {
-        "tag": "Blackmoon",
+        "tag": "GrlyTeenQueen",
         "numOfWins": 1,
         "winnerId": [
-          15194161
+          14778987
         ]
       },
       {
-        "tag": "Bobo",
+        "tag": "Lonesome",
         "numOfWins": 1,
         "winnerId": [
-          15190694
-        ]
-      },
-      {
-        "tag": "boosk",
-        "numOfWins": 1,
-        "winnerId": [
-          15194161
-        ]
-      },
-      {
-        "tag": "Cee",
-        "numOfWins": 1,
-        "winnerId": [
-          14587649
-        ]
-      },
-      {
-        "tag": "ChanelWestCoast",
-        "numOfWins": 1,
-        "winnerId": [
-          14526411
-        ]
-      },
-      {
-        "tag": "ConCon",
-        "numOfWins": 1,
-        "winnerId": [
-          14967130
-        ]
-      },
-      {
-        "tag": "Dabuz",
-        "numOfWins": 1,
-        "winnerId": [
-          15127848
-        ]
-      },
-      {
-        "tag": "DinoNuggies",
-        "numOfWins": 1,
-        "winnerId": [
-          14967130
-        ]
-      },
-      {
-        "tag": "DTP",
-        "numOfWins": 1,
-        "winnerId": [
-          14329236
-        ]
-      },
-      {
-        "tag": "ESAM",
-        "numOfWins": 1,
-        "winnerId": [
-          13636159
-        ]
-      },
-      {
-        "tag": "G-XTREME",
-        "numOfWins": 1,
-        "winnerId": [
-          14587649
-        ]
-      },
-      {
-        "tag": "GUMMY",
-        "numOfWins": 1,
-        "winnerId": [
-          14287647
-        ]
-      },
-      {
-        "tag": "Haunting",
-        "numOfWins": 1,
-        "winnerId": [
-          14287647
-        ]
-      },
-      {
-        "tag": "Haven",
-        "numOfWins": 1,
-        "winnerId": [
-          14526411
-        ]
-      },
-      {
-        "tag": "Huevos",
-        "numOfWins": 1,
-        "winnerId": [
-          13636159
-        ]
-      },
-      {
-        "tag": "Infernape",
-        "numOfWins": 1,
-        "winnerId": [
-          15190694
-        ]
-      },
-      {
-        "tag": "Jon",
-        "numOfWins": 1,
-        "winnerId": [
-          14967130
-        ]
-      },
-      {
-        "tag": "Karflo",
-        "numOfWins": 1,
-        "winnerId": [
-          14381362
-        ]
-      },
-      {
-        "tag": "Kendon",
-        "numOfWins": 1,
-        "winnerId": [
-          15208308
-        ]
-      },
-      {
-        "tag": "Kenzo",
-        "numOfWins": 1,
-        "winnerId": [
-          14381362
-        ]
-      },
-      {
-        "tag": "Knite",
-        "numOfWins": 1,
-        "winnerId": [
-          13636159
-        ]
-      },
-      {
-        "tag": "LeoN",
-        "numOfWins": 1,
-        "winnerId": [
-          14967130
-        ]
-      },
-      {
-        "tag": "Ling",
-        "numOfWins": 1,
-        "winnerId": [
-          15190694
+          15290617
         ]
       },
       {
         "tag": "Lucky",
         "numOfWins": 1,
         "winnerId": [
-          14287647
+          14778987
         ]
       },
       {
-        "tag": "Marvale",
+        "tag": "Lumikade",
         "numOfWins": 1,
         "winnerId": [
-          14967130
+          15290617
         ]
       },
       {
-        "tag": "MPg",
+        "tag": "Meli",
         "numOfWins": 1,
         "winnerId": [
-          14381362
+          15290617
         ]
       },
       {
-        "tag": "Noku",
+        "tag": "Peco",
         "numOfWins": 1,
         "winnerId": [
-          14381362
-        ]
-      },
-      {
-        "tag": "OmniElement",
-        "numOfWins": 1,
-        "winnerId": [
-          14807459
-        ]
-      },
-      {
-        "tag": "PkChris",
-        "numOfWins": 1,
-        "winnerId": [
-          14381362
-        ]
-      },
-      {
-        "tag": "Pocket",
-        "numOfWins": 1,
-        "winnerId": [
-          14287647
-        ]
-      },
-      {
-        "tag": "pret",
-        "numOfWins": 1,
-        "winnerId": [
-          14587649
-        ]
-      },
-      {
-        "tag": "ram",
-        "numOfWins": 1,
-        "winnerId": [
-          15047691
-        ]
-      },
-      {
-        "tag": "Reed",
-        "numOfWins": 1,
-        "winnerId": [
-          14587649
-        ]
-      },
-      {
-        "tag": "rydra",
-        "numOfWins": 1,
-        "winnerId": [
-          14287647
-        ]
-      },
-      {
-        "tag": "Salvo",
-        "numOfWins": 1,
-        "winnerId": [
-          13636159
-        ]
-      },
-      {
-        "tag": "Sh0wers",
-        "numOfWins": 1,
-        "winnerId": [
-          14858892
+          14778987
         ]
       },
       {
         "tag": "SmashBros!",
         "numOfWins": 1,
         "winnerId": [
-          14807459
+          15290617
         ]
       },
       {
-        "tag": "Soar",
+        "tag": "Smirk",
         "numOfWins": 1,
         "winnerId": [
-          14287647
-        ]
-      },
-      {
-        "tag": "SoGoodPop",
-        "numOfWins": 1,
-        "winnerId": [
-          14287647
-        ]
-      },
-      {
-        "tag": "Sumgai",
-        "numOfWins": 1,
-        "winnerId": [
-          15175663
-        ]
-      },
-      {
-        "tag": "Tavares",
-        "numOfWins": 1,
-        "winnerId": [
-          13636159
-        ]
-      },
-      {
-        "tag": "TFO256",
-        "numOfWins": 1,
-        "winnerId": [
-          15190694
-        ]
-      },
-      {
-        "tag": "TheActuary",
-        "numOfWins": 1,
-        "winnerId": [
-          14858892
-        ]
-      },
-      {
-        "tag": "ToneSone",
-        "numOfWins": 1,
-        "winnerId": [
-          15047691
-        ]
-      },
-      {
-        "tag": "Violet",
-        "numOfWins": 1,
-        "winnerId": [
-          14587649
-        ]
-      },
-      {
-        "tag": "Vivi",
-        "numOfWins": 1,
-        "winnerId": [
-          14381362
-        ]
-      },
-      {
-        "tag": "WhatsAKingToAGod",
-        "numOfWins": 1,
-        "winnerId": [
-          14287647
-        ]
-      },
-      {
-        "tag": "WrongHouse",
-        "numOfWins": 1,
-        "winnerId": [
-          15175663
-        ]
-      },
-      {
-        "tag": "yogert",
-        "numOfWins": 1,
-        "winnerId": [
-          14967130
-        ]
-      },
-      {
-        "tag": "\ud50c\ub808\uc774\uc5b4 4",
-        "numOfWins": 1,
-        "winnerId": [
-          14858892
+          15290617
         ]
       }
     ],
-    "noteableWins": [
-      {
-        "tag": "Light",
-        "rank": 1,
-        "region": "New England",
-        "numOfWins": 2
-      },
-      {
-        "tag": "Mr. E",
-        "rank": 2,
-        "region": "NYC",
-        "numOfWins": 2
-      },
-      {
-        "tag": "Quidd",
-        "rank": 8,
-        "region": "NYC",
-        "numOfWins": 2
-      },
-      {
-        "tag": "Cee",
-        "rank": 11,
-        "region": "NYC",
-        "numOfWins": 1
-      },
-      {
-        "tag": "DTP",
-        "rank": 6,
-        "region": "Philly",
-        "numOfWins": 1
-      },
-      {
-        "tag": "G-XTREME",
-        "rank": 11,
-        "region": "New England",
-        "numOfWins": 1
-      },
-      {
-        "tag": "Jon",
-        "rank": 3,
-        "region": "Philly",
-        "numOfWins": 1
-      },
-      {
-        "tag": "Ling",
-        "rank": 2,
-        "region": "New England",
-        "numOfWins": 1
-      },
-      {
-        "tag": "PkChris",
-        "rank": 5,
-        "region": "NYC",
-        "numOfWins": 1
-      },
-      {
-        "tag": "Vivi",
-        "rank": 13,
-        "region": "NYC",
-        "numOfWins": 1
-      }
-    ],
+    "noteableWins": [],
     "losses": [
       {
+        "tag": "GuyGuy",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "Monte",
+        "numOfLosses": 1
+      },
+      {
+        "tag": "MuteAce",
+        "numOfLosses": 1
+      },
+      {
         "tag": "Zomba",
-        "numOfLosses": 5
-      },
-      {
-        "tag": "Pocket",
-        "numOfLosses": 2
-      },
-      {
-        "tag": "Anathema",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "BeastModePaul",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Gen",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Jakal",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "LeoN",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Meli",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Pharaoh",
         "numOfLosses": 1
       }
     ],
-    "record": "89-14",
-    "winrate": 86.40776699029125
+    "mostRecentSet": {
+      "displayScore": "MBS | Syrup 1 - Zomba 3",
+      "winnerId": 15280901,
+      "event": {
+        "id": 1052419,
+        "name": "BrookLAN Brawls #100 - Smash Ultimate Singles",
+        "videogame": {
+          "id": 1386
+        },
+        "tournament": {
+          "name": "BrookLAN Brawls #100"
+        },
+        "startAt": 1705867500,
+        "isOnline": false,
+        "numEntrants": 199
+      }
+    }
   },
   "Pharaoh": {
     "PlayerName": "Pharaoh",
@@ -3487,1069 +1002,473 @@
     "Tier5Brackets": {},
     "Tier4Brackets": {},
     "Tier3Brackets": {
-      "Santa Paws": {
-        "placement": 33,
+      "BrookLAN Brawls #100": {
+        "placement": 17,
         "wins": [
           {
-            "tag": "Dany",
+            "tag": "Haze",
             "numOfWins": 1,
             "winnerId": [
-              14026320
+              15332624
             ]
           },
           {
-            "tag": "JankTrees!",
+            "tag": "Infernape",
             "numOfWins": 1,
             "winnerId": [
-              14026320
+              15332624
+            ]
+          },
+          {
+            "tag": "Cajun Lady",
+            "numOfWins": 1,
+            "winnerId": [
+              15332624
+            ]
+          },
+          {
+            "tag": "obesefart",
+            "numOfWins": 1,
+            "winnerId": [
+              15332624
             ]
           }
         ],
         "losses": [
           {
-            "tag": "AppleWiz",
+            "tag": "Wheezer",
             "numOfLosses": 1
           },
           {
-            "tag": "Lima",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "2-2"
-      },
-      "King of the Ville 2023 ($1000 POT BONUS!)": {
-        "placement": 9,
-        "wins": [
-          {
-            "tag": "Yoda Cage",
-            "numOfWins": 1,
-            "winnerId": [
-              14617910
-            ]
-          },
-          {
-            "tag": "Lagiakai",
-            "numOfWins": 1,
-            "winnerId": [
-              14617910
-            ]
-          },
-          {
-            "tag": "LowTierLegend",
-            "numOfWins": 1,
-            "winnerId": [
-              14617910
-            ]
-          },
-          {
-            "tag": "Whyachi",
-            "numOfWins": 1,
-            "winnerId": [
-              14617910
-            ]
-          },
-          {
-            "tag": "AshuraRise",
-            "numOfWins": 1,
-            "winnerId": [
-              14617910
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Juice",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "BONK!",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "5-2"
-      },
-      "avgPlacement": 21.0,
-      "record": "7-4",
-      "winrate": 63.63636363636363
-    },
-    "Tier2Brackets": {
-      "Fireside Open 2023": {
-        "placement": 7,
-        "wins": [
-          {
-            "tag": "BeatyBean",
-            "numOfWins": 1,
-            "winnerId": [
-              14941811
-            ]
-          },
-          {
-            "tag": "Pink Cage",
-            "numOfWins": 1,
-            "winnerId": [
-              14941811
-            ]
-          },
-          {
-            "tag": "Narrwall",
-            "numOfWins": 1,
-            "winnerId": [
-              14941811
-            ]
-          },
-          {
-            "tag": "KAZ\u00cd\u00cd",
-            "numOfWins": 1,
-            "winnerId": [
-              14941811
-            ]
-          },
-          {
-            "tag": "Torrent",
-            "numOfWins": 1,
-            "winnerId": [
-              14941811
-            ]
-          },
-          {
-            "tag": "Chocodog",
-            "numOfWins": 1,
-            "winnerId": [
-              14941811
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "WebbJP",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Jon",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "6-2"
-      },
-      "avgPlacement": 7.0,
-      "record": "6-2",
-      "winrate": 75.0
-    },
-    "Tier1Brackets": {
-      "PBJ Presents: Holiday Palooza 2023!": {
-        "placement": 2,
-        "wins": [
-          {
-            "tag": "Syrup",
-            "numOfWins": 1,
-            "winnerId": [
-              15096832
-            ]
-          },
-          {
-            "tag": "BeatyBean",
-            "numOfWins": 1,
-            "winnerId": [
-              15096832
-            ]
-          },
-          {
-            "tag": "Kurama",
-            "numOfWins": 1,
-            "winnerId": [
-              15096832
-            ]
-          },
-          {
-            "tag": "Nick Masters",
-            "numOfWins": 1,
-            "winnerId": [
-              15096832
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Syrup",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Tweek",
+            "tag": "John Numbers",
             "numOfLosses": 1
           }
         ],
         "record": "4-2"
       },
-      "STARGATE #53 New Years Edition - Up to $1,000 Ult / $100 SF6 / $100 HDR": {
-        "placement": 3,
+      "avgPlacement": 17.0,
+      "record": "4-2",
+      "winrate": 66.66666666666666
+    },
+    "Tier2Brackets": {},
+    "Tier1Brackets": {
+      "STARGATE #55 up to $1,000 ULT(+$50) / $100 SF6 / $100 HDR": {
+        "placement": 1,
         "wins": [
           {
-            "tag": "Fhantum",
-            "numOfWins": 1,
+            "tag": "SmashBros!",
+            "numOfWins": 2,
             "winnerId": [
-              15206685
+              15315259,
+              15315259
             ]
           },
           {
-            "tag": "Marvale",
+            "tag": "Sumgai",
             "numOfWins": 1,
             "winnerId": [
-              15206685
+              15315259
+            ]
+          },
+          {
+            "tag": "Peco",
+            "numOfWins": 1,
+            "winnerId": [
+              15315259
+            ]
+          },
+          {
+            "tag": "Cynnoh",
+            "numOfWins": 1,
+            "winnerId": [
+              15315259
+            ]
+          }
+        ],
+        "losses": [
+          {
+            "tag": "SmashBros!",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "5-1"
+      },
+      "Center Stage #33": {
+        "placement": 1,
+        "wins": [
+          {
+            "tag": "Steffen",
+            "numOfWins": 2,
+            "winnerId": [
+              15306697,
+              15306697
+            ]
+          },
+          {
+            "tag": "Justinbyleth",
+            "numOfWins": 1,
+            "winnerId": [
+              15306697
             ]
           },
           {
             "tag": "Petayaa",
             "numOfWins": 1,
             "winnerId": [
-              15206685
-            ]
-          },
-          {
-            "tag": "Toni Flamboni",
-            "numOfWins": 1,
-            "winnerId": [
-              15206685
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Deltaforce",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Syrup",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "4-2"
-      },
-      "Center Stage #32": {
-        "placement": 9,
-        "wins": [
-          {
-            "tag": "Deltaforce",
-            "numOfWins": 1,
-            "winnerId": [
-              15199074
-            ]
-          },
-          {
-            "tag": "Marcus",
-            "numOfWins": 1,
-            "winnerId": [
-              15199074
-            ]
-          },
-          {
-            "tag": "Penn",
-            "numOfWins": 1,
-            "winnerId": [
-              15199074
-            ]
-          },
-          {
-            "tag": "KUSIDREAM",
-            "numOfWins": 1,
-            "winnerId": [
-              15199074
-            ]
-          },
-          {
-            "tag": "envoke",
-            "numOfWins": 1,
-            "winnerId": [
-              15199074
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "GrlyTeenQueen",
-            "numOfLosses": 2
-          }
-        ],
-        "record": "5-2"
-      },
-      "STARGATE #52 up to $1,000 Pot Bonus ULT / $100 SF6 / $100 HDR": {
-        "placement": 5,
-        "wins": [
-          {
-            "tag": "Deltaforce",
-            "numOfWins": 1,
-            "winnerId": [
-              15175733
-            ]
-          },
-          {
-            "tag": "Seel",
-            "numOfWins": 1,
-            "winnerId": [
-              15175733
-            ]
-          },
-          {
-            "tag": "Lardo",
-            "numOfWins": 1,
-            "winnerId": [
-              15175733
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "BeatyBean",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Zomba",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "3-2"
-      },
-      "Center Stage #31- Last Chance Qualifier-$150 Pot Bonus": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Marcus",
-            "numOfWins": 1,
-            "winnerId": [
-              15148812
-            ]
-          },
-          {
-            "tag": "Mateo",
-            "numOfWins": 1,
-            "winnerId": [
-              15148812
-            ]
-          },
-          {
-            "tag": "Haze",
-            "numOfWins": 1,
-            "winnerId": [
-              15148812
-            ]
-          },
-          {
-            "tag": "Pingu's Stomping Grounds",
-            "numOfWins": 1,
-            "winnerId": [
-              15148812
-            ]
-          },
-          {
-            "tag": "30 SECONDS TO MARTH",
-            "numOfWins": 1,
-            "winnerId": [
-              15148812
-            ]
-          },
-          {
-            "tag": "Sunbun",
-            "numOfWins": 1,
-            "winnerId": [
-              15148812
-            ]
-          }
-        ],
-        "losses": [],
-        "record": "6-0"
-      },
-      "Hyperspace Ultimate #72 (100$ Pot Bonus)": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "~ShineBurst~",
-            "numOfWins": 2,
-            "winnerId": [
-              15043982,
-              15043982
-            ]
-          },
-          {
-            "tag": "Obmcbob",
-            "numOfWins": 2,
-            "winnerId": [
-              15043982,
-              15043982
-            ]
-          },
-          {
-            "tag": "$Krilldog$",
-            "numOfWins": 1,
-            "winnerId": [
-              15043982
-            ]
-          },
-          {
-            "tag": "Yuto",
-            "numOfWins": 1,
-            "winnerId": [
-              15043982
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "~ShineBurst~",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "6-1"
-      },
-      "Fusion #183": {
-        "placement": 2,
-        "wins": [
-          {
-            "tag": "Marcus",
-            "numOfWins": 1,
-            "winnerId": [
-              15044090
-            ]
-          },
-          {
-            "tag": "Haze",
-            "numOfWins": 1,
-            "winnerId": [
-              15044090
-            ]
-          },
-          {
-            "tag": "Deltaforce",
-            "numOfWins": 1,
-            "winnerId": [
-              15044090
-            ]
-          },
-          {
-            "tag": "mt",
-            "numOfWins": 1,
-            "winnerId": [
-              15044090
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Syrup",
-            "numOfLosses": 2
-          }
-        ],
-        "record": "4-2"
-      },
-      "GamerNook Weekly: The Monthly - Instant Qualifier Edition": {
-        "placement": 2,
-        "wins": [
-          {
-            "tag": "Apple Reviewer",
-            "numOfWins": 1,
-            "winnerId": [
-              14960716
-            ]
-          },
-          {
-            "tag": "JustinNOTbyleth",
-            "numOfWins": 1,
-            "winnerId": [
-              14960716
-            ]
-          },
-          {
-            "tag": "LVL5",
-            "numOfWins": 1,
-            "winnerId": [
-              14960716
-            ]
-          },
-          {
-            "tag": "Hollow",
-            "numOfWins": 1,
-            "winnerId": [
-              14960716
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Rivers",
-            "numOfLosses": 2
-          }
-        ],
-        "record": "4-2"
-      },
-      "Fusion #181": {
-        "placement": 3,
-        "wins": [
-          {
-            "tag": "Mateo",
-            "numOfWins": 2,
-            "winnerId": [
-              14925329,
-              14925329
-            ]
-          },
-          {
-            "tag": "Marvale",
-            "numOfWins": 1,
-            "winnerId": [
-              14925329
-            ]
-          },
-          {
-            "tag": "Pink Cage",
-            "numOfWins": 1,
-            "winnerId": [
-              14925329
-            ]
-          },
-          {
-            "tag": "jake",
-            "numOfWins": 1,
-            "winnerId": [
-              14925329
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Rivers",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Jakal",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "5-2"
-      },
-      "That Quarterly Jawn": {
-        "placement": 7,
-        "wins": [
-          {
-            "tag": "Yeast",
-            "numOfWins": 1,
-            "winnerId": [
-              14887082
-            ]
-          },
-          {
-            "tag": "Hoo D. Nii",
-            "numOfWins": 1,
-            "winnerId": [
-              14887082
-            ]
-          },
-          {
-            "tag": "Lankles",
-            "numOfWins": 1,
-            "winnerId": [
-              14887082
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "boosk",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Juice",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "3-2"
-      },
-      "Center Stage #25": {
-        "placement": 5,
-        "wins": [
-          {
-            "tag": "LemonTea",
-            "numOfWins": 1,
-            "winnerId": [
-              14758972
+              15306697
             ]
           },
           {
             "tag": "Jason",
             "numOfWins": 1,
             "winnerId": [
-              14758972
+              15306697
+            ]
+          },
+          {
+            "tag": "Hunky Monkey",
+            "numOfWins": 1,
+            "winnerId": [
+              15306697
             ]
           }
         ],
         "losses": [
           {
-            "tag": "Haze",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Haven",
+            "tag": "Steffen",
             "numOfLosses": 1
           }
         ],
-        "record": "2-2"
+        "record": "6-1"
       },
-      "Center Stage #24-Halloween Edition": {
+      "Fusion #187": {
         "placement": 2,
-        "wins": [],
+        "wins": [
+          {
+            "tag": "Mateo",
+            "numOfWins": 1,
+            "winnerId": [
+              15275684
+            ]
+          },
+          {
+            "tag": "Marvale",
+            "numOfWins": 1,
+            "winnerId": [
+              15275684
+            ]
+          },
+          {
+            "tag": "Marcus",
+            "numOfWins": 1,
+            "winnerId": [
+              15275684
+            ]
+          },
+          {
+            "tag": "Beast",
+            "numOfWins": 1,
+            "winnerId": [
+              15275684
+            ]
+          },
+          {
+            "tag": "LemonTea",
+            "numOfWins": 1,
+            "winnerId": [
+              15275684
+            ]
+          },
+          {
+            "tag": "Obmcbob",
+            "numOfWins": 1,
+            "winnerId": [
+              15275684
+            ]
+          },
+          {
+            "tag": "Spac3-Star",
+            "numOfWins": 1,
+            "winnerId": [
+              15275684
+            ]
+          }
+        ],
         "losses": [
           {
             "tag": "Mateo",
             "numOfLosses": 2
           }
         ],
-        "record": "0-2"
+        "record": "7-2"
       },
-      "avgPlacement": 3.5,
-      "record": "46-21",
-      "winrate": 68.65671641791045
+      "STARGATE #54 LMBM Weekend - Up to $1,000 ULT / $100 SF6 / $100 HDR": {
+        "placement": 5,
+        "wins": [
+          {
+            "tag": "Glug",
+            "numOfWins": 1,
+            "winnerId": [
+              15251426
+            ]
+          },
+          {
+            "tag": "magatsu",
+            "numOfWins": 1,
+            "winnerId": [
+              15251426
+            ]
+          },
+          {
+            "tag": "DinoNuggies",
+            "numOfWins": 1,
+            "winnerId": [
+              15251426
+            ]
+          }
+        ],
+        "losses": [
+          {
+            "tag": "frawg",
+            "numOfLosses": 1
+          },
+          {
+            "tag": "Luigikid64",
+            "numOfLosses": 1
+          }
+        ],
+        "record": "3-2"
+      },
+      "Center Stage King of Kings Invitational": {
+        "placement": 5,
+        "wins": [],
+        "losses": []
+      },
+      "avgPlacement": 2.25,
+      "record": "21-6",
+      "winrate": 77.77777777777779
     },
     "wins": [
       {
-        "tag": "Deltaforce",
-        "numOfWins": 3,
-        "winnerId": [
-          15199074,
-          15175733,
-          15044090
-        ]
-      },
-      {
-        "tag": "Marcus",
-        "numOfWins": 3,
-        "winnerId": [
-          15199074,
-          15148812,
-          15044090
-        ]
-      },
-      {
-        "tag": "Mateo",
-        "numOfWins": 3,
-        "winnerId": [
-          15148812,
-          14925329,
-          14925329
-        ]
-      },
-      {
-        "tag": "BeatyBean",
+        "tag": "SmashBros!",
         "numOfWins": 2,
         "winnerId": [
-          15096832,
-          14941811
+          15315259,
+          15315259
+        ]
+      },
+      {
+        "tag": "Steffen",
+        "numOfWins": 2,
+        "winnerId": [
+          15306697,
+          15306697
+        ]
+      },
+      {
+        "tag": "Beast",
+        "numOfWins": 1,
+        "winnerId": [
+          15275684
+        ]
+      },
+      {
+        "tag": "Cajun Lady",
+        "numOfWins": 1,
+        "winnerId": [
+          15332624
+        ]
+      },
+      {
+        "tag": "Cynnoh",
+        "numOfWins": 1,
+        "winnerId": [
+          15315259
+        ]
+      },
+      {
+        "tag": "DinoNuggies",
+        "numOfWins": 1,
+        "winnerId": [
+          15251426
+        ]
+      },
+      {
+        "tag": "Glug",
+        "numOfWins": 1,
+        "winnerId": [
+          15251426
         ]
       },
       {
         "tag": "Haze",
-        "numOfWins": 2,
-        "winnerId": [
-          15148812,
-          15044090
-        ]
-      },
-      {
-        "tag": "Marvale",
-        "numOfWins": 2,
-        "winnerId": [
-          15206685,
-          14925329
-        ]
-      },
-      {
-        "tag": "Obmcbob",
-        "numOfWins": 2,
-        "winnerId": [
-          15043982,
-          15043982
-        ]
-      },
-      {
-        "tag": "Pink Cage",
-        "numOfWins": 2,
-        "winnerId": [
-          14941811,
-          14925329
-        ]
-      },
-      {
-        "tag": "~ShineBurst~",
-        "numOfWins": 2,
-        "winnerId": [
-          15043982,
-          15043982
-        ]
-      },
-      {
-        "tag": "$Krilldog$",
         "numOfWins": 1,
         "winnerId": [
-          15043982
+          15332624
         ]
       },
       {
-        "tag": "30 SECONDS TO MARTH",
+        "tag": "Hunky Monkey",
         "numOfWins": 1,
         "winnerId": [
-          15148812
+          15306697
         ]
       },
       {
-        "tag": "Apple Reviewer",
+        "tag": "Infernape",
         "numOfWins": 1,
         "winnerId": [
-          14960716
-        ]
-      },
-      {
-        "tag": "AshuraRise",
-        "numOfWins": 1,
-        "winnerId": [
-          14617910
-        ]
-      },
-      {
-        "tag": "Chocodog",
-        "numOfWins": 1,
-        "winnerId": [
-          14941811
-        ]
-      },
-      {
-        "tag": "Dany",
-        "numOfWins": 1,
-        "winnerId": [
-          14026320
-        ]
-      },
-      {
-        "tag": "envoke",
-        "numOfWins": 1,
-        "winnerId": [
-          15199074
-        ]
-      },
-      {
-        "tag": "Fhantum",
-        "numOfWins": 1,
-        "winnerId": [
-          15206685
-        ]
-      },
-      {
-        "tag": "Hollow",
-        "numOfWins": 1,
-        "winnerId": [
-          14960716
-        ]
-      },
-      {
-        "tag": "Hoo D. Nii",
-        "numOfWins": 1,
-        "winnerId": [
-          14887082
-        ]
-      },
-      {
-        "tag": "jake",
-        "numOfWins": 1,
-        "winnerId": [
-          14925329
-        ]
-      },
-      {
-        "tag": "JankTrees!",
-        "numOfWins": 1,
-        "winnerId": [
-          14026320
+          15332624
         ]
       },
       {
         "tag": "Jason",
         "numOfWins": 1,
         "winnerId": [
-          14758972
+          15306697
         ]
       },
       {
-        "tag": "JustinNOTbyleth",
+        "tag": "Justinbyleth",
         "numOfWins": 1,
         "winnerId": [
-          14960716
-        ]
-      },
-      {
-        "tag": "KAZ\u00cd\u00cd",
-        "numOfWins": 1,
-        "winnerId": [
-          14941811
-        ]
-      },
-      {
-        "tag": "Kurama",
-        "numOfWins": 1,
-        "winnerId": [
-          15096832
-        ]
-      },
-      {
-        "tag": "KUSIDREAM",
-        "numOfWins": 1,
-        "winnerId": [
-          15199074
-        ]
-      },
-      {
-        "tag": "Lagiakai",
-        "numOfWins": 1,
-        "winnerId": [
-          14617910
-        ]
-      },
-      {
-        "tag": "Lankles",
-        "numOfWins": 1,
-        "winnerId": [
-          14887082
-        ]
-      },
-      {
-        "tag": "Lardo",
-        "numOfWins": 1,
-        "winnerId": [
-          15175733
+          15306697
         ]
       },
       {
         "tag": "LemonTea",
         "numOfWins": 1,
         "winnerId": [
-          14758972
+          15275684
         ]
       },
       {
-        "tag": "LowTierLegend",
+        "tag": "magatsu",
         "numOfWins": 1,
         "winnerId": [
-          14617910
+          15251426
         ]
       },
       {
-        "tag": "LVL5",
+        "tag": "Marcus",
         "numOfWins": 1,
         "winnerId": [
-          14960716
+          15275684
         ]
       },
       {
-        "tag": "mt",
+        "tag": "Marvale",
         "numOfWins": 1,
         "winnerId": [
-          15044090
+          15275684
         ]
       },
       {
-        "tag": "Narrwall",
+        "tag": "Mateo",
         "numOfWins": 1,
         "winnerId": [
-          14941811
+          15275684
         ]
       },
       {
-        "tag": "Nick Masters",
+        "tag": "obesefart",
         "numOfWins": 1,
         "winnerId": [
-          15096832
+          15332624
         ]
       },
       {
-        "tag": "Penn",
+        "tag": "Obmcbob",
         "numOfWins": 1,
         "winnerId": [
-          15199074
+          15275684
+        ]
+      },
+      {
+        "tag": "Peco",
+        "numOfWins": 1,
+        "winnerId": [
+          15315259
         ]
       },
       {
         "tag": "Petayaa",
         "numOfWins": 1,
         "winnerId": [
-          15206685
+          15306697
         ]
       },
       {
-        "tag": "Pingu's Stomping Grounds",
+        "tag": "Spac3-Star",
         "numOfWins": 1,
         "winnerId": [
-          15148812
+          15275684
         ]
       },
       {
-        "tag": "Seel",
+        "tag": "Sumgai",
         "numOfWins": 1,
         "winnerId": [
-          15175733
-        ]
-      },
-      {
-        "tag": "Sunbun",
-        "numOfWins": 1,
-        "winnerId": [
-          15148812
-        ]
-      },
-      {
-        "tag": "Syrup",
-        "numOfWins": 1,
-        "winnerId": [
-          15096832
-        ]
-      },
-      {
-        "tag": "Toni Flamboni",
-        "numOfWins": 1,
-        "winnerId": [
-          15206685
-        ]
-      },
-      {
-        "tag": "Torrent",
-        "numOfWins": 1,
-        "winnerId": [
-          14941811
-        ]
-      },
-      {
-        "tag": "Whyachi",
-        "numOfWins": 1,
-        "winnerId": [
-          14617910
-        ]
-      },
-      {
-        "tag": "Yeast",
-        "numOfWins": 1,
-        "winnerId": [
-          14887082
-        ]
-      },
-      {
-        "tag": "Yoda Cage",
-        "numOfWins": 1,
-        "winnerId": [
-          14617910
-        ]
-      },
-      {
-        "tag": "Yuto",
-        "numOfWins": 1,
-        "winnerId": [
-          15043982
+          15315259
         ]
       }
     ],
     "noteableWins": [
       {
-        "tag": "Apple Reviewer",
-        "rank": 10,
-        "region": "New England",
-        "numOfWins": 1
-      },
-      {
-        "tag": "Syrup",
-        "rank": 0,
-        "region": "world",
-        "id": 1216463,
-        "numOfWins": 1
-      },
-      {
-        "tag": "Yoda Cage",
-        "rank": 5,
+        "tag": "Beast",
+        "rank": 4,
         "region": "Philly",
         "numOfWins": 1
       }
     ],
     "losses": [
       {
-        "tag": "Syrup",
-        "numOfLosses": 4
-      },
-      {
-        "tag": "Rivers",
-        "numOfLosses": 3
-      },
-      {
-        "tag": "GrlyTeenQueen",
-        "numOfLosses": 2
-      },
-      {
-        "tag": "Juice",
-        "numOfLosses": 2
-      },
-      {
         "tag": "Mateo",
         "numOfLosses": 2
       },
       {
-        "tag": "AppleWiz",
+        "tag": "frawg",
         "numOfLosses": 1
       },
       {
-        "tag": "BeatyBean",
+        "tag": "John Numbers",
         "numOfLosses": 1
       },
       {
-        "tag": "BONK!",
+        "tag": "Luigikid64",
         "numOfLosses": 1
       },
       {
-        "tag": "boosk",
+        "tag": "SmashBros!",
         "numOfLosses": 1
       },
       {
-        "tag": "Deltaforce",
+        "tag": "Steffen",
         "numOfLosses": 1
       },
       {
-        "tag": "Haven",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Haze",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Jakal",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Jon",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Lima",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Tweek",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "WebbJP",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Zomba",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "~ShineBurst~",
+        "tag": "Wheezer",
         "numOfLosses": 1
       }
     ],
-    "record": "59-27",
-    "winrate": 68.6046511627907
+    "mostRecentSet": {
+      "displayScore": "Wheezer 2 - CTR | MOTW | Pharaoh 1",
+      "winnerId": 15333694,
+      "event": {
+        "id": 1052419,
+        "name": "BrookLAN Brawls #100 - Smash Ultimate Singles",
+        "videogame": {
+          "id": 1386
+        },
+        "tournament": {
+          "name": "BrookLAN Brawls #100"
+        },
+        "startAt": 1705867500,
+        "isOnline": false,
+        "numEntrants": 199
+      }
+    },
+    "record": "25-8"
   },
   "Tweek": {
     "PlayerName": "Tweek",
@@ -4557,414 +1476,167 @@
       "LG | Tweek",
       "bee / Tweek"
     ],
-    "eligible": true,
+    "eligible": false,
     "Tier5Brackets": {
-      "Port Priority 8": {
-        "placement": 9,
+      "Luminosity Makes BIG Moves 2024": {
+        "placement": 1,
         "wins": [
           {
-            "tag": "Anathema",
-            "numOfWins": 1,
+            "tag": "Sonix",
+            "numOfWins": 2,
             "winnerId": [
-              14319243
+              15013833,
+              15013833
             ]
           },
           {
-            "tag": "Asimo",
+            "tag": "MkLeo",
             "numOfWins": 1,
             "winnerId": [
-              14319243
+              15013833
             ]
           },
           {
-            "tag": "MVD",
+            "tag": "SHADIC",
             "numOfWins": 1,
             "winnerId": [
-              14319243
+              15013833
             ]
           },
           {
-            "tag": "Neo",
+            "tag": "Tilde",
             "numOfWins": 1,
             "winnerId": [
-              14319243
+              15013833
             ]
           },
           {
-            "tag": "Shoe",
+            "tag": "Dark Wizzy",
             "numOfWins": 1,
             "winnerId": [
-              14319243
+              15013833
             ]
           },
           {
-            "tag": "RandumMNK",
+            "tag": "TTV JMafia",
             "numOfWins": 1,
             "winnerId": [
-              14319243
+              15013833
             ]
           },
           {
-            "tag": "Jeff",
+            "tag": "Cody",
             "numOfWins": 1,
             "winnerId": [
-              14319243
+              15013833
             ]
           },
           {
-            "tag": "Eri",
+            "tag": "Jennifer",
             "numOfWins": 1,
             "winnerId": [
-              14319243
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Light",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Kaninabe",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "8-2"
-      },
-      "Luminosity Makes Moves Miami 2023": {
-        "placement": 9,
-        "wins": [
-          {
-            "tag": "Anathema",
-            "numOfWins": 1,
-            "winnerId": [
-              14167027
+              15013833
             ]
           },
           {
-            "tag": "Scend",
+            "tag": "Hass",
             "numOfWins": 1,
             "winnerId": [
-              14167027
-            ]
-          },
-          {
-            "tag": "Keen",
-            "numOfWins": 1,
-            "winnerId": [
-              14167027
-            ]
-          },
-          {
-            "tag": "Monthu",
-            "numOfWins": 1,
-            "winnerId": [
-              14167027
-            ]
-          },
-          {
-            "tag": "Sizzler",
-            "numOfWins": 1,
-            "winnerId": [
-              14167027
+              15013833
             ]
           }
         ],
-        "losses": [
-          {
-            "tag": "Zomba",
-            "numOfLosses": 1
-          },
-          {
-            "tag": "Dabuz",
-            "numOfLosses": 1
-          }
-        ],
-        "record": "5-2"
-      },
-      "Rise 'N Grind 2023": {
-        "placement": 257,
-        "wins": [],
         "losses": []
-      },
-      "avgPlacement": 9.0,
-      "record": "13-4",
-      "winrate": 76.47058823529412
+      }
     },
     "Tier4Brackets": {},
     "Tier3Brackets": {},
     "Tier2Brackets": {},
-    "Tier1Brackets": {
-      "PBJ Presents: Holiday Palooza 2023!": {
-        "placement": 2,
-        "wins": [
-          {
-            "tag": "Pharaoh",
-            "numOfWins": 1,
-            "winnerId": [
-              15197971
-            ]
-          },
-          {
-            "tag": "xavier",
-            "numOfWins": 1,
-            "winnerId": [
-              15197971
-            ]
-          },
-          {
-            "tag": "A9",
-            "numOfWins": 1,
-            "winnerId": [
-              15197971
-            ]
-          },
-          {
-            "tag": "Apsara",
-            "numOfWins": 1,
-            "winnerId": [
-              15197971
-            ]
-          },
-          {
-            "tag": "ggecko",
-            "numOfWins": 1,
-            "winnerId": [
-              15197971
-            ]
-          }
-        ],
-        "losses": [
-          {
-            "tag": "Syrup",
-            "numOfLosses": 2
-          }
-        ],
-        "record": "5-2"
-      },
-      "Battle Over The Bridge 117 (The Dawn of ROA in SJ)": {
-        "placement": 1,
-        "wins": [
-          {
-            "tag": "Steffen",
-            "numOfWins": 2,
-            "winnerId": [
-              15145890,
-              15145890
-            ]
-          },
-          {
-            "tag": "snogi",
-            "numOfWins": 1,
-            "winnerId": [
-              15145890
-            ]
-          },
-          {
-            "tag": "Aryeh",
-            "numOfWins": 1,
-            "winnerId": [
-              15145890
-            ]
-          },
-          {
-            "tag": "Apsara",
-            "numOfWins": 1,
-            "winnerId": [
-              15145890
-            ]
-          },
-          {
-            "tag": "feelingkettle",
-            "numOfWins": 1,
-            "winnerId": [
-              15145890
-            ]
-          }
-        ],
-        "losses": [],
-        "record": "6-0"
-      },
-      "avgPlacement": 1.5,
-      "record": "11-2",
-      "winrate": 84.61538461538461
-    },
+    "Tier1Brackets": {},
     "wins": [
       {
-        "tag": "Anathema",
+        "tag": "Sonix",
         "numOfWins": 2,
         "winnerId": [
-          14319243,
-          14167027
+          15013833,
+          15013833
         ]
       },
       {
-        "tag": "Apsara",
-        "numOfWins": 2,
-        "winnerId": [
-          15197971,
-          15145890
-        ]
-      },
-      {
-        "tag": "Steffen",
-        "numOfWins": 2,
-        "winnerId": [
-          15145890,
-          15145890
-        ]
-      },
-      {
-        "tag": "A9",
+        "tag": "Cody",
         "numOfWins": 1,
         "winnerId": [
-          15197971
+          15013833
         ]
       },
       {
-        "tag": "Aryeh",
+        "tag": "Dark Wizzy",
         "numOfWins": 1,
         "winnerId": [
-          15145890
+          15013833
         ]
       },
       {
-        "tag": "Asimo",
+        "tag": "Hass",
         "numOfWins": 1,
         "winnerId": [
-          14319243
+          15013833
         ]
       },
       {
-        "tag": "Eri",
+        "tag": "Jennifer",
         "numOfWins": 1,
         "winnerId": [
-          14319243
+          15013833
         ]
       },
       {
-        "tag": "feelingkettle",
+        "tag": "MkLeo",
         "numOfWins": 1,
         "winnerId": [
-          15145890
+          15013833
         ]
       },
       {
-        "tag": "ggecko",
+        "tag": "SHADIC",
         "numOfWins": 1,
         "winnerId": [
-          15197971
+          15013833
         ]
       },
       {
-        "tag": "Jeff",
+        "tag": "Tilde",
         "numOfWins": 1,
         "winnerId": [
-          14319243
+          15013833
         ]
       },
       {
-        "tag": "Keen",
+        "tag": "TTV JMafia",
         "numOfWins": 1,
         "winnerId": [
-          14167027
-        ]
-      },
-      {
-        "tag": "Monthu",
-        "numOfWins": 1,
-        "winnerId": [
-          14167027
-        ]
-      },
-      {
-        "tag": "MVD",
-        "numOfWins": 1,
-        "winnerId": [
-          14319243
-        ]
-      },
-      {
-        "tag": "Neo",
-        "numOfWins": 1,
-        "winnerId": [
-          14319243
-        ]
-      },
-      {
-        "tag": "Pharaoh",
-        "numOfWins": 1,
-        "winnerId": [
-          15197971
-        ]
-      },
-      {
-        "tag": "RandumMNK",
-        "numOfWins": 1,
-        "winnerId": [
-          14319243
-        ]
-      },
-      {
-        "tag": "Scend",
-        "numOfWins": 1,
-        "winnerId": [
-          14167027
-        ]
-      },
-      {
-        "tag": "Shoe",
-        "numOfWins": 1,
-        "winnerId": [
-          14319243
-        ]
-      },
-      {
-        "tag": "Sizzler",
-        "numOfWins": 1,
-        "winnerId": [
-          14167027
-        ]
-      },
-      {
-        "tag": "snogi",
-        "numOfWins": 1,
-        "winnerId": [
-          15145890
-        ]
-      },
-      {
-        "tag": "xavier",
-        "numOfWins": 1,
-        "winnerId": [
-          15197971
+          15013833
         ]
       }
     ],
     "noteableWins": [],
-    "losses": [
-      {
-        "tag": "Syrup",
-        "numOfLosses": 2
-      },
-      {
-        "tag": "Dabuz",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Kaninabe",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Light",
-        "numOfLosses": 1
-      },
-      {
-        "tag": "Zomba",
-        "numOfLosses": 1
+    "losses": [],
+    "mostRecentSet": {
+      "displayScore": "LG | Tweek 3 - LG | Sonix 0",
+      "winnerId": 15013833,
+      "event": {
+        "id": 948368,
+        "name": "Ultimate Singles",
+        "videogame": {
+          "id": 1386
+        },
+        "tournament": {
+          "name": "Luminosity Makes BIG Moves 2024"
+        },
+        "startAt": 1704546000,
+        "isOnline": false,
+        "numEntrants": 891
       }
-    ],
-    "record": "24-6",
-    "winrate": 80.0
+    }
   }
 }

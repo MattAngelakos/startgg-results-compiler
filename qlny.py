@@ -5,7 +5,7 @@ import re
 import datetime
 import time
 from ql import *
-authToken = '838bca69b8fcc334b7606c19a4b6449a'
+from do_season import authToken
 apiVersion = 'alpha'
 client = GraphQLClient('https://api.start.gg/gql/' + apiVersion)
 client.inject_token('Bearer ' + authToken)
@@ -77,7 +77,7 @@ def do_querynewyork(id, year_start, month_start, day_start, hour_start, minute_s
         entrant_count = value['container']['numEntrants']
         eventName = str(value['container']['name']).lower()
         if name not in tourneys['tournament_name'].values:
-            if not any(name in value for value in bad_tourneys['name'].astype(str)):
+            if not any(value in name for value in bad_tourneys['name'].astype(str)):
                 entrant_count = value['container']['numEntrants']
                 if if1(date_time_unix_start, date_time_unix_end, value, entrant_count, 'standings'): 
                     if if2(eventName):
@@ -130,13 +130,13 @@ def do_querynewyork(id, year_start, month_start, day_start, hour_start, minute_s
         if nameT in tourneys['tournament_name'].values:
             dataPlayers = doRecordNew(dataPlayers, tag, tourneys, value, nameT, id)
         else:
-            if not any(nameT in value for value in bad_tourneys['name'].astype(str)):
+            if not any(value in nameT for value in bad_tourneys['name'].astype(str)):
                 entrant_count = value['event']['numEntrants']
                 eventName = value['event']['name']
                 if if1(date_time_unix_start, date_time_unix_end, value, entrant_count, 'sets'): 
                     if if2(eventName):
                         tourneys = do_tiering(add_row_to_tourneys, name, entrant_count, nameT)
-                        dataPlayers = doRecord(dataPlayers, tag, tourneys, value, nameT, id)
+                        dataPlayers = doRecordNew(dataPlayers, tag, tourneys, value, nameT, id)
                 else:
                     bad_tourneys = addAndGetRow(add_row_to_tourneys, [nameT], 'bad_tournaments.csv')
     dataPlayers = saveJson(dataPlayers, 'players.json')

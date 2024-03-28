@@ -28,19 +28,23 @@ def do_the_h2h(playerJson, h2hcsv):
         except:
             numOfLosses=0
         return numOfWins,numOfLosses
-
+    print(df)
     for index, row in df.iterrows():
         tag = row.iloc[0]
+        print(tag)
         for opponent, h2h in zip(df.columns[1:], row.iloc[1:]):
             if opponent != tag:
                 numOfWins, numOfLosses = add(data, tag, opponent)
+                print(opponent, numOfWins)
                 for alt in data[opponent]['altTags']:
                     if opponent not in alt:
-                        numOfWinsAlt, numOfLossesAlt = add(data, tag, opponent)
+                        numOfWinsAlt, numOfLossesAlt = add(data, tag, alt)
                         numOfWins+=numOfWinsAlt
-                        numOfWins+=numOfLossesAlt
+                        numOfLosses+=numOfLossesAlt
                 newH2H = str(numOfWins)+"-"+str(numOfLosses)
                 df.at[index, opponent] = newH2H
+    print(df)
+    df.to_csv(h2hcsv, index=False)
     first_col = df['tag']
     sorted_cols_df = df.drop(columns=['tag'])
 # Function to extract the total number of losing h2hs from a col
@@ -55,16 +59,18 @@ def do_the_h2h(playerJson, h2hcsv):
                 return 0
         return 0
 
-    def find_h2hs(col):
-        h2hs = re.findall(r'(\d+)-(\d+)', col)
+    def find_h2hs(cell):
+        h2hs = re.findall(r'(\d+)-(\d+)', cell)
         winning_count = sum(int(win[0] > win[1]) for win in h2hs)
         losing_count = sum(int(loss[0] < loss[1]) for loss in h2hs)
         return winning_count,losing_count
 
 # Calculate the total number of losing h2hs for each column
     losing_h2hs_counts = sorted_cols_df.map(calculate_h2hs_difference).sum()
+    print(losing_h2hs_counts)
 # Reorder columns based on the total number of losing h2hs
     sorted_columns = losing_h2hs_counts.sort_values().index.tolist()
+    print(sorted_columns)
     sorted_cols_df = sorted_cols_df[sorted_columns]
 # Function to calculate the difference between winning and losing h2hs for a row
     def calculate_h2hs_difference(row):
@@ -79,6 +85,7 @@ def do_the_h2h(playerJson, h2hcsv):
         return winloss_count
 # Calculate the difference between winning and losing h2hs for each row
     h2hs_difference = sorted_cols_df.apply(calculate_h2hs_difference, axis=1)
+    print(h2hs_difference)
 # Reorder rows based on the difference between winning and losing h2hs
     sorted_rows = h2hs_difference.sort_values().index.tolist()
     sorted_cols_df = sorted_cols_df.loc[sorted_rows]
@@ -86,7 +93,7 @@ def do_the_h2h(playerJson, h2hcsv):
     sorted_cols_df.reset_index(drop=True, inplace=True)
     df = sorted_cols_df
     df = df.astype(object)
-    df.to_csv(h2hcsv, index=False)
+    #df.to_csv(h2hcsv, index=False)
     def color_cells(h2h):
         if h2h != h2h:
             return "black"
@@ -102,11 +109,12 @@ def do_the_h2h(playerJson, h2hcsv):
         else:
             return "lightgray"
     
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(20,12))
     ax.axis('off')
 # Plot the DataFrame as a table with colored cells
-    tab = table(ax, df, loc='center', cellLoc='center', colWidths=[0.2]*len(df.columns))
-
+    tab = table(ax, df, loc='center', cellLoc='center', colWidths=[0.028]*len(df.columns))
+    tab.auto_set_font_size(False)
+    tab.set_fontsize(5)
     for key, cell in tab.get_celld().items():
         if key[0] == 0:
             cell.set_text_props(weight='bold')
@@ -120,5 +128,12 @@ def do_the_h2h(playerJson, h2hcsv):
             else:
                 cell.set_facecolor('lightgray')
 
-# Show the table
+# Show the table       
     plt.show()
+def do_lumi():
+    df = pd.read_csv('lumirank.csv')
+    for index, row in df.iterrows():
+        df.at[index, 'rank'] = int(index+1)
+        df.at[index, 'region'] = 'lumirank'
+    df['rank'] = df['rank'].astype(int)
+    df.to_csv('lumirank.csv', index=False)

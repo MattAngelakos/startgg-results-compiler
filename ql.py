@@ -4,7 +4,7 @@ import pandas as pd
 import re
 import datetime
 import time
-authToken = '838bca69b8fcc334b7606c19a4b6449a'
+from do_season import authToken
 apiVersion = 'alpha'
 client = GraphQLClient('https://api.start.gg/gql/' + apiVersion)
 client.inject_token('Bearer ' + authToken)
@@ -101,7 +101,7 @@ def do_query(id, year_start, month_start, day_start, hour_start, minute_start, y
   }''')
   data = json.loads(results)
   try:
-    f2 = open('playersTest.json')
+    f2 = open('playersNJ.json')
     dataPlayers = json.load(f2)
   except:
     dataPlayers = {}
@@ -119,10 +119,11 @@ def do_query(id, year_start, month_start, day_start, hour_start, minute_start, y
       "Tier1Brackets": {},
       "wins": [],
       "noteableWins": [],
-      "losses": []
+      "losses": [],
+      "mostRecentSet": tag
     }
     dataPlayers[tag] = new_player_data
-    dataPlayers = saveJson(dataPlayers, 'playersTest.json')
+    dataPlayers = saveJson(dataPlayers, 'playersNJ.json')
   tourneys = pd.read_csv('tournaments.csv')
   bad_tourneys = pd.read_csv('bad_tournaments.csv')
   def add_row_to_tourneys(csv_file, new_row):
@@ -134,45 +135,58 @@ def do_query(id, year_start, month_start, day_start, hour_start, minute_start, y
   fourBrackets = False
   numBrackets = 0
   for key, value in enumerate(data['data']['player']['recentStandings']):
-      if not fourBrackets:
-        if numBrackets == 4:
-          fourBrackets = True
       name = value['container']['tournament']['name']
       entrant_count = value['container']['numEntrants']
-      eventName = str(value['container']['name']).lower()
-      if name not in tourneys['tournament_name'].values:
-        if not any(name in value for value in bad_tourneys['name'].astype(str)):
-          entrant_count = value['container']['numEntrants']
-          if if1(date_time_unix_start, date_time_unix_end, value, entrant_count, 'standings'): 
-            if if2(eventName):
-              tourneys = do_tiering(add_row_to_tourneys, name, entrant_count, name)
-              numBrackets+=1
-          else:
-            bad_tourneys = addAndGetRow(add_row_to_tourneys, [name], 'bad_tournaments.csv')
+      if 15 < entrant_count < 65:
+        tier = 1
+      elif 64 < entrant_count < 129:
+        tier = 2
+      elif 128 < entrant_count < 257:
+        tier = 3
+      elif 256 < entrant_count < 385:
+        tier = 4
       else:
-        numBrackets+=1
-        foundBracket = tourneys[tourneys['tournament_name'] == name]
-        tier = int(foundBracket['tier'].iloc[0])
-      if not njBracket:
-        if value['container']['tournament']['addrState'] == "NJ":
-          njBracket = True
-      if name not in dataPlayers[tag] and (not any(name in value for value in bad_tourneys['name'].astype(str))):
-        new_tourney_data = {
-          "placement": int(value['placement']),
-          "wins": [],
-          "losses": []
-        }
-        dataPlayers[tag]["Tier"+str(tier)+"Brackets"][name] = new_tourney_data
-      entrantTag = value['entrant']['name']
-      if(entrantTag != tag and if2(eventName)):
-        if(entrantTag not in dataPlayers[tag]['altTags']):
-          print(1)
-          dataPlayers[tag]['altTags'].append(entrantTag)
+        tier = 5
+      if name not in dataPlayers[tag]["Tier"+str(tier)+"Brackets"]:
+        if not fourBrackets:
+          if numBrackets == 4:
+            fourBrackets = True
+        eventName = str(value['container']['name']).lower()
+        if name not in tourneys['tournament_name'].values:
+          if not any(value in name for value in bad_tourneys['name'].astype(str)):
+            if(name == "Highland Master 59"):
+              print(89)
+            entrant_count = value['container']['numEntrants']
+            if if1(date_time_unix_start, date_time_unix_end, value, entrant_count, 'standings'): 
+              if if2(eventName):
+                tourneys = do_tiering(add_row_to_tourneys, name, entrant_count, name)
+                numBrackets+=1
+            else:
+              bad_tourneys = addAndGetRow(add_row_to_tourneys, [name], 'bad_tournaments.csv')
+        else:
+          numBrackets+=1
+          foundBracket = tourneys[tourneys['tournament_name'] == name]
+          tier = int(foundBracket['tier'].iloc[0])
+        if not njBracket:
+          if value['container']['tournament']['addrState'] == "NJ":
+            njBracket = True
+        if name not in dataPlayers[tag] and (not any(value in name for value in bad_tourneys['name'].astype(str))):
+          new_tourney_data = {
+            "placement": int(value['placement']),
+            "wins": [],
+            "losses": []
+          }
+          dataPlayers[tag]["Tier"+str(tier)+"Brackets"][name] = new_tourney_data
+        entrantTag = value['entrant']['name']
+        if(entrantTag != tag and if2(eventName)):
+          if(entrantTag not in dataPlayers[tag]['altTags']):
+            print(1)
+            dataPlayers[tag]['altTags'].append(entrantTag)
   if(fourBrackets and njBracket):
     dataPlayers[tag]['eligible'] = True
-  with open('playersTest.json', 'w') as file:
+  with open('playersNJ.json', 'w') as file:
     json.dump(dataPlayers, file, indent=2)
-  f2 = open('playersTest.json')
+  f2 = open('playersNJ.json')
   dataPlayers = json.load(f2)
   time.sleep(1)
   results = client.execute(
@@ -201,23 +215,28 @@ def do_query(id, year_start, month_start, day_start, hour_start, minute_start, y
   }''')
   data = json.loads(results)
   for key, value, in enumerate(data['data']['player']['sets']['nodes']):
+    if key == 0:
+      mostRecent = value
+    if value == dataPlayers[tag]['mostRecentSet']:
+      break
     nameT = value['event']['tournament']['name']
     if nameT in tourneys['tournament_name'].values:
-        dataPlayers = doRecord(dataPlayers, tag, tourneys, value, nameT, id)
+        dataPlayers = doRecord(dataPlayers, tag, tourneys, value, nameT, id, "NJ")
     else:
-      if not any(nameT in value for value in bad_tourneys['name'].astype(str)):
+      if not any(value in nameT for value in bad_tourneys['name'].astype(str)):
         entrant_count = value['event']['numEntrants']
         eventName = value['event']['name']
         if if1(date_time_unix_start, date_time_unix_end, value, entrant_count, 'sets'): 
           if if2(eventName):
             tourneys = do_tiering(add_row_to_tourneys, name, entrant_count, nameT)
-            dataPlayers = doRecord(dataPlayers, tag, tourneys, value, nameT, id)
+            dataPlayers = doRecord(dataPlayers, tag, tourneys, value, nameT, id, "NJ")
         else:
           bad_tourneys = addAndGetRow(add_row_to_tourneys, [nameT], 'bad_tournaments.csv')
-  dataPlayers = saveJson(dataPlayers, 'playersTest.json')
+  dataPlayers[tag]['mostRecentSet'] = mostRecent
+  dataPlayers = saveJson(dataPlayers, 'playersNJ.json')
   dataPlayers[tag]['losses'] = sorted(dataPlayers[tag]['losses'], key=lambda x: (-x['numOfLosses'], x['tag'].lower()))
   dataPlayers[tag]['wins'] = sorted(dataPlayers[tag]['wins'], key=lambda x: (-x['numOfWins'], x['tag'].lower()))
-  dataPlayers = saveJson(dataPlayers, 'playersTest.json')
+  dataPlayers = saveJson(dataPlayers, 'playersNJ.json')
 
 def doRecord(dataPlayers, tag, tourneys, value, nameT, id):
     eventNameSet = value['event']['name']
@@ -330,11 +349,9 @@ def do_tiering(add_row_to_tourneys, name, entrant_count, nameT):
     return tourneys
 
 def if2(eventName):
-    return (("double" not in eventName.lower()) and ("2v2" not in eventName.lower()) and ("hdr" not in eventName.lower()) and ("ultimate event: special series" not in eventName.lower()) and ("squad" not in eventName.lower()))
+    return (("double" not in eventName.lower()) and ("2v2" not in eventName.lower()) and ("hdr" not in eventName.lower()) and ("ladder" not in eventName.lower()) and ("ultimate event: special series" not in eventName.lower()) and ("squad" not in eventName.lower())) #and ("emperor" not in eventName.lower()) and ("circuit finale" not in eventName.lower()))
 
 def if1(date_time_unix_start, date_time_unix_end, value, entrant_count, query):
-    print(query)
-    print(value)
     if query == 'standings':
       return (value['container']['isOnline'] == False and entrant_count > 15 and (int(date_time_unix_start) <= value['container']['startAt'] <= int(date_time_unix_end)))
     elif query == 'sets':

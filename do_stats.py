@@ -2,7 +2,7 @@ import json
 import re
 import pandas as pd
 from graphqlclient import GraphQLClient
-authToken = '838bca69b8fcc334b7606c19a4b6449a'
+from do_season import authToken
 apiVersion = 'alpha'
 client = GraphQLClient('https://api.start.gg/gql/' + apiVersion)
 client.inject_token('Bearer ' + authToken)
@@ -37,7 +37,7 @@ def do_the_stats(playerJson, oorcsv):
     dfLumi = pd.read_csv('lumirank.csv')
     pattern = r'^(.*?)(?=\s\d|\s#)'
     for player, playerData in data.items():
-        if(playerData['eligible']):
+        #if(playerData['eligible']):
             print(player)
             allWins = 0
             allLosses = 0
@@ -80,12 +80,14 @@ def do_the_stats(playerJson, oorcsv):
                     avgPlacement = avgPlacement/numOfBrackets
                     playerData['Tier'+str(i)+'Brackets']['avgPlacement']=avgPlacement
                     playerData['Tier'+str(i)+'Brackets']['record']=str(numOfWinsTotal)+"-"+str(numOfLossesTotal)
-                    playerData['Tier'+str(i)+'Brackets']['winrate']=(numOfWinsTotal/(numOfWinsTotal+numOfLossesTotal))*100
+                    if not (numOfWinsTotal == 0 and numOfLossesTotal == 0):
+                        playerData['Tier'+str(i)+'Brackets']['winrate']=(numOfWinsTotal/(numOfWinsTotal+numOfLossesTotal))*100
                     print(f"Tier{i}Average Placement: {avgPlacement}, Record: {numOfWinsTotal}-{numOfLossesTotal}")
                 allWins+=numOfWinsTotal
                 allLosses+=numOfLossesTotal
             playerData['record']=str(allWins)+"-"+str(allLosses)
-            playerData['winrate']=(allWins/(allWins+allLosses))*100
+            if not allWins == 0 and allLosses == 0:
+                playerData['winrate']=(allWins/(allWins+allLosses))*100
             if numOfUniqueBrackets >= 3 and playerData['eligible']:
                 playerData['eligible'] = True
             else:
@@ -95,13 +97,15 @@ def do_the_stats(playerJson, oorcsv):
                 if not noteable.empty:
                     winData = noteable.iloc[0].to_dict()
                     winData['numOfWins'] = wins['numOfWins']
-                    playerData['noteableWins'].append(winData)
+                    if winData not in playerData['noteableWins']:
+                        playerData['noteableWins'].append(winData)
                 lumirank = dfLumi[dfLumi['tag'] == wins['tag']]
                 if not lumirank.empty:
                     winData = lumirank.iloc[0].to_dict()
                     capOrFact = do_verification(winData['id'], wins['winnerId'])
                     if capOrFact:
                         winData['numOfWins'] = wins['numOfWins']
-                        playerData['noteableWins'].append(winData)
+                        if winData not in playerData['noteableWins']:
+                            playerData['noteableWins'].append(winData)
     with open(playerJson, 'w') as file:
           json.dump(data, file, indent=2)
